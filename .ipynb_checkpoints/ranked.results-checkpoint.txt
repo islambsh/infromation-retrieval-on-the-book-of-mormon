@@ -1,0 +1,2516 @@
+Query 1: Document ('JACOB', 2, 34), Score 0.5204477582536124
+Query 1: Document ('ALMA', 9, 9), Score 0.45085121268101175
+Query 1: Document ('1 NEPHI', 1, 5), Score 0.4427301846723204
+Query 1: Document ('MORMON', 4, 12), Score 0.42360738089864913
+Query 1: Document ('ENOS', 7, 25), Score 0.398215629185654
+Query 1: Document ('2 NEPHI', 1, 6), Score 0.37620005085242036
+Query 1: Document ('1 NEPHI', 5, 16), Score 0.3668287456699404
+Query 1: Document ('1 NEPHI', 5, 10), Score 0.36270195109323977
+Query 1: Document ('2 NEPHI', 1, 1), Score 0.35816015478334773
+Query 1: Document ('1 NEPHI', 1, 18), Score 0.3549518265136155
+Query 1: Document ('ALMA', 52, 29), Score 0.35329321950194253
+Query 1: Document ('1 NEPHI', 7, 1), Score 0.3509994934520826
+Query 1: Document ('ALMA', 56, 3), Score 0.34900325240474406
+Query 1: Document ('HELAMAN', 5, 37), Score 0.3406412544931541
+Query 1: Document ('2 NEPHI', 4, 12), Score 0.3264178806034531
+Query 1: Document ('ALMA', 53, 2), Score 0.3226515236789755
+Query 1: Document ('ALMA', 9, 13), Score 0.32007234302794935
+Query 1: Document ('ALMA', 52, 30), Score 0.3089411515047599
+Query 1: Document ('1 NEPHI', 2, 1), Score 0.30071007357184343
+Query 1: Document ('ALMA', 43, 40), Score 0.30006118202693194
+Query 1: Document ('ALMA', 62, 32), Score 0.29812285184972126
+Query 1: Document ('ALMA', 49, 16), Score 0.29629016668609165
+Query 1: Document ('ALMA', 43, 36), Score 0.2961094519997083
+Query 1: Document ('HELAMAN', 5, 20), Score 0.2960208980640263
+Query 1: Document ('ETHER', 12, 14), Score 0.2936066494845907
+Query 1: Document ('ALMA', 43, 52), Score 0.28802709553719974
+Query 1: Document ('1 NEPHI', 5, 6), Score 0.283263023988481
+Query 1: Document ('1 NEPHI', 1, 4), Score 0.27927310001497363
+Query 1: Document ('HELAMAN', 5, 22), Score 0.27889864209133625
+Query 1: Document ('ALMA', 50, 15), Score 0.27421127973402093
+Query 1: Document ('HELAMAN', 10, 17), Score 0.268902827376232
+Query 1: Document ('2 NEPHI', 2, 17), Score 0.2687163780032877
+Query 1: Document ('ALMA', 50, 25), Score 0.26622087317368914
+Query 1: Document ('ALMA', 50, 19), Score 0.2661662829364811
+Query 1: Document ('ALMA', 49, 17), Score 0.2660303258569801
+Query 1: Document ('ETHER', 13, 5), Score 0.2617328799966387
+Query 1: Document ('ALMA', 52, 28), Score 0.2613642508017193
+Query 1: Document ('1 NEPHI', 18, 17), Score 0.25690084482226844
+Query 1: Document ('MOSIAH', 2, 34), Score 0.253961764803915
+Query 1: Document ('MOSIAH', 1, 4), Score 0.25365552728112
+Query 1: Document ('ALMA', 61, 18), Score 0.2522304277980021
+Query 1: Document ('ALMA', 51, 24), Score 0.24834818694522762
+Query 1: Document ('HELAMAN', 5, 18), Score 0.24798830346393091
+Query 1: Document ('MOSIAH', 29, 46), Score 0.247452929527184
+Query 1: Document ('ALMA', 51, 1), Score 0.2463660710595946
+Query 1: Document ('ALMA', 59, 5), Score 0.24480095546802627
+Query 1: Document ('ALMA', 50, 27), Score 0.24227849937463578
+Query 1: Document ('ALMA', 49, 8), Score 0.24143317491860009
+Query 1: Document ('JACOB', 1, 1), Score 0.24068033368377273
+Query 1: Document ('ALMA', 50, 28), Score 0.23912102554769563
+Query 1: Document ('ALMA', 18, 36), Score 0.23813352535319607
+Query 1: Document ('HELAMAN', 5, 23), Score 0.2378481183308487
+Query 1: Document ('1 NEPHI', 5, 14), Score 0.23598514231712991
+Query 1: Document ('ALMA', 62, 3), Score 0.23388957925888068
+Query 1: Document ('ALMA', 52, 27), Score 0.2286902671825171
+Query 1: Document ('1 NEPHI', 11, 3), Score 0.2282943012334255
+Query 1: Document ('MOSIAH', 6, 4), Score 0.22568889098456357
+Query 1: Document ('ALMA', 50, 36), Score 0.22288687242137503
+Query 1: Document ('ALMA', 28, 2), Score 0.2219390515836884
+Query 1: Document ('ALMA', 62, 13), Score 0.2218208197193712
+Query 1: Document ('ALMA', 36, 22), Score 0.21611375016703271
+Query 1: Document ('HELAMAN', 18, 19), Score 0.21306048652790543
+Query 1: Document ('HELAMAN', 19, 31), Score 0.21045031070601192
+Query 1: Document ('ALMA', 52, 31), Score 0.2079051073231918
+Query 1: Document ('HELAMAN', 8, 22), Score 0.20779433685539184
+Query 1: Document ('HELAMAN', 6, 10), Score 0.20777305632747678
+Query 1: Document ('HELAMAN', 6, 6), Score 0.2057869833943157
+Query 1: Document ('ALMA', 61, 15), Score 0.20483012440848145
+Query 1: Document ('ALMA', 62, 34), Score 0.20294104466863422
+Query 1: Document ('HELAMAN', 2, 6), Score 0.20063062482690844
+Query 1: Document ('HELAMAN', 5, 15), Score 0.19994958075564345
+Query 1: Document ('ALMA', 10, 3), Score 0.19927234616520992
+Query 1: Document ('ALMA', 50, 26), Score 0.19729667708991958
+Query 1: Document ('1 NEPHI', 8, 29), Score 0.19729504079986981
+Query 1: Document ('ALMA', 43, 53), Score 0.19686242340123605
+Query 1: Document ('ALMA', 62, 30), Score 0.19502242605892464
+Query 1: Document ('ALMA', 51, 26), Score 0.19439572893382237
+Query 1: Document ('HELAMAN', 5, 26), Score 0.19142258832984718
+Query 1: Document ('2 NEPHI', 1, 9), Score 0.19012324512196793
+Query 1: Document ('HELAMAN', 5, 36), Score 0.18841592834649976
+Query 1: Document ('MORMON', 8, 11), Score 0.18697332419386747
+Query 1: Document ('HELAMAN', 5, 44), Score 0.18272618474058364
+Query 1: Document ('ALMA', 62, 37), Score 0.18203433477445619
+Query 1: Document ('HELAMAN', 27, 28), Score 0.18011700676160844
+Query 1: Document ('ALMA', 18, 38), Score 0.17983254555076175
+Query 1: Document ('HELAMAN', 21, 3), Score 0.1768940074891087
+Query 1: Document ('ALMA', 52, 36), Score 0.1765861848531685
+Query 1: Document ('HELAMAN', 1, 1), Score 0.1757228590796836
+Query 1: Document ('HELAMAN', 5, 4), Score 0.17284486170782415
+Query 1: Document ('HELAMAN', 28, 4), Score 0.17207737573765844
+Query 1: Document ('HELAMAN', 18, 35), Score 0.17021085492070942
+Query 1: Document ('HELAMAN', 1, 2), Score 0.16936275985687965
+Query 1: Document ('ALMA', 16, 5), Score 0.16801908041327032
+Query 1: Document ('HELAMAN', 19, 23), Score 0.1674653571769161
+Query 1: Document ('HELAMAN', 1, 28), Score 0.1673162445787383
+Query 1: Document ('ALMA', 43, 35), Score 0.16601455237684173
+Query 1: Document ('HELAMAN', 27, 13), Score 0.15977959790075974
+Query 1: Document ('HELAMAN', 3, 21), Score 0.15871249760261125
+Query 1: Document ('HELAMAN', 4, 11), Score 0.15805518227666215
+Query 1: Document ('HELAMAN', 11, 19), Score 0.15708667282410907
+Query 1: Document ('HELAMAN', 4, 14), Score 0.15576326118375627
+Query 1: Document ('HELAMAN', 18, 14), Score 0.1461480071244787
+Query 1: Document ('1 NEPHI', 11, 5), Score 0.1455373870723533
+Query 1: Document ('MOSIAH', 15, 4), Score 0.14491057231322002
+Query 1: Document ('MOSIAH', 29, 20), Score 0.14457725214939848
+Query 1: Document ('MORONI', 10, 23), Score 0.14329341929481024
+Query 1: Document ('HELAMAN', 11, 23), Score 0.14253363866500232
+Query 1: Document ('HELAMAN', 20, 31), Score 0.14226115635534506
+Query 1: Document ('HELAMAN', 20, 14), Score 0.14200275740364893
+Query 1: Document ('ETHER', 5, 5), Score 0.13781075211326
+Query 1: Document ('ALMA', 22, 9), Score 0.13756567339467315
+Query 1: Document ('HELAMAN', 15, 14), Score 0.13675747196115898
+Query 1: Document ('1 NEPHI', 2, 15), Score 0.1364046692469057
+Query 1: Document ('MOSIAH', 15, 3), Score 0.1361276749234058
+Query 1: Document ('1 NEPHI', 5, 20), Score 0.13558524055076931
+Query 1: Document ('MOSIAH', 2, 35), Score 0.13470295472377578
+Query 1: Document ('MOSIAH', 28, 5), Score 0.13394367968601412
+Query 1: Document ('1 NEPHI', 8, 34), Score 0.1320063357769165
+Query 1: Document ('1 NEPHI', 16, 8), Score 0.13174979147219315
+Query 1: Document ('MORONI', 3, 2), Score 0.1296663109885586
+Query 1: Document ('ALMA', 62, 21), Score 0.12907692144998714
+Query 1: Document ('1 NEPHI', 5, 17), Score 0.12839997143993406
+Query 1: Document ('2 NEPHI', 31, 11), Score 0.12818391500692278
+Query 1: Document ('1 NEPHI', 3, 1), Score 0.12767176860966753
+Query 1: Document ('HELAMAN', 18, 20), Score 0.12702877944260296
+Query 1: Document ('2 NEPHI', 33, 12), Score 0.1269420955106238
+Query 1: Document ('HELAMAN', 21, 27), Score 0.12669511148693102
+Query 1: Document ('HELAMAN', 13, 48), Score 0.12521217826367873
+Query 1: Document ('HELAMAN', 20, 33), Score 0.1249325723813506
+Query 1: Document ('HELAMAN', 28, 10), Score 0.12313750992903266
+Query 1: Document ('2 NEPHI', 3, 22), Score 0.12195996376393785
+Query 1: Document ('HELAMAN', 28, 1), Score 0.1202087659580887
+Query 1: Document ('1 NEPHI', 14, 29), Score 0.11980571559598327
+Query 1: Document ('HELAMAN', 19, 27), Score 0.1197035818363276
+Query 1: Document ('MORMON', 8, 1), Score 0.11914097940062883
+Query 1: Document ('ETHER', 8, 12), Score 0.11833735180167244
+Query 1: Document ('ALMA', 11, 38), Score 0.11784981414769476
+Query 1: Document ('1 NEPHI', 15, 2), Score 0.11635447484989186
+Query 1: Document ('HELAMAN', 20, 35), Score 0.11609656732448136
+Query 1: Document ('MOSIAH', 19, 17), Score 0.11601189567059879
+Query 1: Document ('ALMA', 5, 11), Score 0.11599609750079215
+Query 1: Document ('HELAMAN', 20, 26), Score 0.11595468336283225
+Query 1: Document ('HELAMAN', 27, 26), Score 0.11592674775529106
+Query 1: Document ('MOSIAH', 27, 20), Score 0.11516786696650239
+Query 1: Document ('2 NEPHI', 3, 15), Score 0.11494529808097448
+Query 1: Document ('ETHER', 4, 17), Score 0.1144431990306326
+Query 1: Document ('MOSIAH', 15, 2), Score 0.11371187821828327
+Query 1: Document ('MOSIAH', 12, 20), Score 0.11305897198791648
+Query 1: Document ('1 NEPHI', 15, 1), Score 0.11263734528604188
+Query 1: Document ('1 NEPHI', 15, 26), Score 0.11228450144144968
+Query 1: Document ('HELAMAN', 18, 23), Score 0.11092201163098278
+Query 1: Document ('HELAMAN', 17, 4), Score 0.1103846558347619
+Query 1: Document ('2 NEPHI', 30, 5), Score 0.11036132547482082
+Query 1: Document ('ALMA', 37, 17), Score 0.10995816996474585
+Query 1: Document ('ETHER', 9, 8), Score 0.10995220337764411
+Query 1: Document ('HELAMAN', 18, 27), Score 0.10957443957380056
+Query 1: Document ('1 NEPHI', 18, 5), Score 0.10941250849760656
+Query 1: Document ('MOSIAH', 10, 3), Score 0.1092220430524095
+Query 1: Document ('ETHER', 7, 10), Score 0.10850321330364616
+Query 1: Document ('HELAMAN', 27, 10), Score 0.10779653546935591
+Query 1: Document ('HELAMAN', 27, 9), Score 0.10691972194640835
+Query 1: Document ('MORONI', 4, 2), Score 0.10645347647684089
+Query 1: Document ('HELAMAN', 18, 21), Score 0.10543166620328026
+Query 1: Document ('HELAMAN', 15, 19), Score 0.10499692149762639
+Query 1: Document ('1 NEPHI', 11, 21), Score 0.10486670506654275
+Query 1: Document ('ETHER', 11, 21), Score 0.10463227898684152
+Query 1: Document ('ETHER', 7, 30), Score 0.10423600894067599
+Query 1: Document ('1 NEPHI', 11, 4), Score 0.10384783377227652
+Query 1: Document ('ALMA', 21, 8), Score 0.10279114765882756
+Query 1: Document ('HELAMAN', 11, 27), Score 0.10214804520776057
+Query 1: Document ('1 NEPHI', 17, 34), Score 0.1017842879800597
+Query 1: Document ('1 NEPHI', 3, 8), Score 0.10170824953427245
+Query 1: Document ('HELAMAN', 27, 15), Score 0.10115347182685297
+Query 1: Document ('HELAMAN', 9, 15), Score 0.10091189591262927
+Query 1: Document ('HELAMAN', 21, 4), Score 0.10087532302330911
+Query 1: Document ('ALMA', 11, 39), Score 0.10081865052345375
+Query 1: Document ('HELAMAN', 19, 21), Score 0.09992397134003951
+Query 1: Document ('HELAMAN', 28, 11), Score 0.09977470984794527
+Query 1: Document ('HELAMAN', 27, 7), Score 0.09889651140695133
+Query 1: Document ('HELAMAN', 20, 25), Score 0.09872370059595037
+Query 1: Document ('1 NEPHI', 6, 1), Score 0.09870936369678744
+Query 1: Document ('HELAMAN', 20, 20), Score 0.09827320175482837
+Query 1: Document ('MORMON', 8, 13), Score 0.09823407062732148
+Query 1: Document ('MOSIAH', 24, 3), Score 0.09797028660293743
+Query 1: Document ('HELAMAN', 19, 29), Score 0.09748334293280181
+Query 1: Document ('1 NEPHI', 15, 7), Score 0.0972905477158874
+Query 1: Document ('MORONI', 7, 26), Score 0.09698604066068262
+Query 1: Document ('1 NEPHI', 2, 2), Score 0.09679927698576608
+Query 1: Document ('ENOS', 7, 18), Score 0.09663898211285811
+Query 1: Document ('MORMON', 7, 22), Score 0.09649356695369915
+Query 1: Document ('HELAMAN', 15, 20), Score 0.09648018296351256
+Query 1: Document ('MOSIAH', 7, 20), Score 0.09637951171346922
+Query 1: Document ('1 NEPHI', 19, 8), Score 0.0960393794553197
+Query 1: Document ('ALMA', 56, 6), Score 0.09597550375296957
+Query 1: Document ('MOSIAH', 29, 45), Score 0.09594580446013448
+Query 1: Document ('HELAMAN', 21, 46), Score 0.0958078166132549
+Query 1: Document ('ETHER', 12, 22), Score 0.09564558375461722
+Query 1: Document ('HELAMAN', 21, 9), Score 0.09555437348010516
+Query 1: Document ('1 NEPHI', 3, 19), Score 0.09546738169560985
+Query 1: Document ('HELAMAN', 19, 7), Score 0.09536466304496152
+Query 1: Document ('1 NEPHI', 5, 3), Score 0.09507694084941659
+Query 1: Document ('ALMA', 56, 27), Score 0.09495103249387721
+Query 1: Document ('MORMON', 5, 17), Score 0.09410999435584404
+Query 1: Document ('ALMA', 20, 1), Score 0.09392031841175523
+Query 1: Document ('MORMON', 7, 9), Score 0.09390762529229206
+Query 1: Document ('ETHER', 8, 3), Score 0.09388986035477931
+Query 1: Document ('HELAMAN', 23, 4), Score 0.09346929180254786
+Query 1: Document ('HELAMAN', 28, 7), Score 0.09325515493428406
+Query 1: Document ('2 NEPHI', 31, 12), Score 0.09274898480171846
+Query 1: Document ('HELAMAN', 27, 2), Score 0.09260476169419714
+Query 1: Document ('HELAMAN', 17, 2), Score 0.09253378310114967
+Query 1: Document ('HELAMAN', 20, 12), Score 0.09198737660012772
+Query 1: Document ('1 NEPHI', 16, 9), Score 0.09150886671481456
+Query 1: Document ('HELAMAN', 18, 10), Score 0.09142453686164466
+Query 1: Document ('HELAMAN', 27, 14), Score 0.09126893195912351
+Query 1: Document ('1 NEPHI', 16, 6), Score 0.09116432162653443
+Query 1: Document ('HELAMAN', 21, 20), Score 0.09105700359448891
+Query 1: Document ('1 NEPHI', 10, 16), Score 0.09077016145919917
+Query 1: Document ('ALMA', 19, 23), Score 0.09065525905777143
+Query 1: Document ('HELAMAN', 15, 16), Score 0.09056942291297299
+Query 1: Document ('ALMA', 9, 10), Score 0.08969120691141647
+Query 1: Document ('1 NEPHI', 3, 15), Score 0.08965064701804813
+Query 1: Document ('ALMA', 18, 4), Score 0.08904097370180909
+Query 1: Document ('2 NEPHI', 4, 10), Score 0.08872728870237526
+Query 1: Document ('ALMA', 20, 9), Score 0.08849989295665131
+Query 1: Document ('2 NEPHI', 31, 10), Score 0.08847380363843203
+Query 1: Document ('ALMA', 17, 6), Score 0.08843773418036549
+Query 1: Document ('ALMA', 29, 12), Score 0.08842651863134529
+Query 1: Document ('1 NEPHI', 17, 33), Score 0.08841720194571323
+Query 1: Document ('ALMA', 30, 14), Score 0.08799554284834801
+Query 1: Document ('ALMA', 20, 12), Score 0.08798951444137809
+Query 1: Document ('HELAMAN', 15, 18), Score 0.08788603862138028
+Query 1: Document ('1 NEPHI', 8, 35), Score 0.08787244541626722
+Query 1: Document ('ALMA', 20, 16), Score 0.08782735558087168
+Query 1: Document ('ALMA', 5, 47), Score 0.0874092507995558
+Query 1: Document ('1 NEPHI', 19, 15), Score 0.08690257243784845
+Query 1: Document ('2 NEPHI', 10, 7), Score 0.08644706257080643
+Query 1: Document ('HELAMAN', 24, 7), Score 0.08637075748201006
+Query 1: Document ('1 NEPHI', 5, 7), Score 0.08635185811465224
+Query 1: Document ('HELAMAN', 21, 26), Score 0.08631969825449762
+Query 1: Document ('HELAMAN', 20, 29), Score 0.08617967334972118
+Query 1: Document ('MOSIAH', 9, 4), Score 0.08596177512220973
+Query 1: Document ('1 NEPHI', 15, 21), Score 0.08595734185845512
+Query 1: Document ('HELAMAN', 20, 10), Score 0.08556912713236821
+Query 1: Document ('1 NEPHI', 17, 23), Score 0.0854980709068594
+Query 1: Document ('HELAMAN', 26, 6), Score 0.08530313282851183
+Query 1: Document ('ETHER', 9, 27), Score 0.08523607598341489
+Query 1: Document ('2 NEPHI', 4, 1), Score 0.08522711525479797
+Query 1: Document ('ALMA', 37, 38), Score 0.08506932127049331
+Query 1: Document ('1 NEPHI', 14, 8), Score 0.08477077995711385
+Query 1: Document ('MORMON', 7, 1), Score 0.08449794450389282
+Query 1: Document ('MORONI', 9, 8), Score 0.08424265577591138
+Query 1: Document ('HELAMAN', 15, 15), Score 0.08423063626678456
+Query 1: Document ('HELAMAN', 18, 33), Score 0.084198612978269
+Query 1: Document ('1 NEPHI', 15, 23), Score 0.08418660235474978
+Query 1: Document ('ALMA', 21, 21), Score 0.08394643490797044
+Query 1: Document ('HELAMAN', 18, 7), Score 0.08382242501473819
+Query 1: Document ('2 NEPHI', 31, 15), Score 0.08369856444055984
+Query 1: Document ('1 NEPHI', 10, 2), Score 0.08347670798507963
+Query 1: Document ('MOSIAH', 29, 25), Score 0.0834515042697812
+Query 1: Document ('MOSIAH', 29, 15), Score 0.08332312591896199
+Query 1: Document ('HELAMAN', 5, 51), Score 0.08324448133987558
+Query 1: Document ('HELAMAN', 26, 2), Score 0.08322037450780735
+Query 1: Document ('HELAMAN', 21, 28), Score 0.08315302585416778
+Query 1: Document ('1 NEPHI', 15, 18), Score 0.08288143669317127
+Query 1: Document ('ETHER', 4, 12), Score 0.08231239011002882
+Query 1: Document ('ETHER', 12, 7), Score 0.08219061668717569
+Query 1: Document ('ALMA', 13, 26), Score 0.0818706708159975
+Query 1: Document ('HELAMAN', 27, 17), Score 0.08171364259357015
+Query 1: Document ('1 NEPHI', 15, 27), Score 0.08163499033806329
+Query 1: Document ('HELAMAN', 28, 30), Score 0.08134485127773317
+Query 1: Document ('ALMA', 5, 44), Score 0.0810390555553634
+Query 1: Document ('HELAMAN', 18, 11), Score 0.08096413753954103
+Query 1: Document ('1 NEPHI', 3, 18), Score 0.08086947066609736
+Query 1: Document ('ETHER', 8, 8), Score 0.08085900622896948
+Query 1: Document ('JAROM', 1, 9), Score 0.0807821692229425
+Query 1: Document ('HELAMAN', 22, 29), Score 0.08067331656293165
+Query 1: Document ('ETHER', 13, 7), Score 0.08027180336719372
+Query 1: Document ('2 NEPHI', 4, 8), Score 0.08012997973898717
+Query 1: Document ('MORMON', 8, 3), Score 0.07975803022730514
+Query 1: Document ('HELAMAN', 17, 18), Score 0.07958320047068292
+Query 1: Document ('HELAMAN', 19, 20), Score 0.07952957459603996
+Query 1: Document ('1 NEPHI', 1, 11), Score 0.07921751572888765
+Query 1: Document ('1 NEPHI', 1, 15), Score 0.07906424545889938
+Query 1: Document ('1 NEPHI', 17, 49), Score 0.07875142115645715
+Query 1: Document ('MOSIAH', 11, 5), Score 0.07869304456346926
+Query 1: Document ('1 NEPHI', 5, 38), Score 0.07869283530332895
+Query 1: Document ('MORMON', 1, 6), Score 0.07866553396391761
+Query 1: Document ('ALMA', 20, 14), Score 0.0786195893812057
+Query 1: Document ('ALMA', 28, 5), Score 0.07851903119954548
+Query 1: Document ('1 NEPHI', 17, 44), Score 0.07846164483366215
+Query 1: Document ('HELAMAN', 12, 45), Score 0.07843596313110679
+Query 1: Document ('HELAMAN', 11, 35), Score 0.0784292999493463
+Query 1: Document ('ALMA', 60, 20), Score 0.0783946532793894
+Query 1: Document ('ALMA', 20, 8), Score 0.07818685551389869
+Query 1: Document ('ETHER', 4, 14), Score 0.07814944747639818
+Query 1: Document ('2 NEPHI', 24, 21), Score 0.07812554323917735
+Query 1: Document ('ETHER', 8, 9), Score 0.07810483199010695
+Query 1: Document ('1 NEPHI', 19, 1), Score 0.07789256492165711
+Query 1: Document ('MOSIAH', 26, 1), Score 0.07788973175274076
+Query 1: Document ('HELAMAN', 20, 22), Score 0.07753947541330661
+Query 1: Document ('ETHER', 13, 24), Score 0.07746900476907069
+Query 1: Document ('1 NEPHI', 16, 25), Score 0.07743076069149442
+Query 1: Document ('MOSIAH', 20, 18), Score 0.0772337875859399
+Query 1: Document ('ALMA', 27, 9), Score 0.07716623375638935
+Query 1: Document ('ALMA', 37, 46), Score 0.07711705023120782
+Query 1: Document ('HELAMAN', 18, 30), Score 0.0771160643083109
+Query 1: Document ('HELAMAN', 18, 24), Score 0.0769351207894351
+Query 1: Document ('HELAMAN', 21, 11), Score 0.07687748580862219
+Query 1: Document ('HELAMAN', 17, 21), Score 0.07672296257103305
+Query 1: Document ('1 NEPHI', 1, 17), Score 0.076589049838227
+Query 1: Document ('1 NEPHI', 8, 2), Score 0.07657354360356412
+Query 1: Document ('MOSIAH', 2, 18), Score 0.07654598652936093
+Query 1: Document ('ETHER', 8, 6), Score 0.07634359832682411
+Query 1: Document ('1 NEPHI', 15, 12), Score 0.07626978290389663
+Query 1: Document ('MOSIAH', 1, 7), Score 0.07597430133004507
+Query 1: Document ('1 NEPHI', 9, 1), Score 0.07592771791675437
+Query 1: Document ('HELAMAN', 21, 7), Score 0.07588995757200126
+Query 1: Document ('2 NEPHI', 8, 2), Score 0.07571477955308002
+Query 1: Document ('MOSIAH', 2, 31), Score 0.07569272040156633
+Query 1: Document ('MORONI', 8, 1), Score 0.0756083925336814
+Query 1: Document ('MOSIAH', 7, 9), Score 0.07552687326791385
+Query 1: Document ('HELAMAN', 17, 3), Score 0.07529137268626176
+Query 1: Document ('MOSIAH', 13, 20), Score 0.07520011490685398
+Query 1: Document ('ALMA', 56, 46), Score 0.07512778683469694
+Query 1: Document ('ALMA', 24, 7), Score 0.07495988269274896
+Query 1: Document ('1 NEPHI', 10, 15), Score 0.07494446517214746
+Query 1: Document ('1 NEPHI', 18, 7), Score 0.07469875267087056
+Query 1: Document ('JAROM', 1, 1), Score 0.07467490471624003
+Query 1: Document ('MOSIAH', 1, 5), Score 0.07466433201048768
+Query 1: Document ('MOSIAH', 15, 7), Score 0.07460409154941917
+Query 1: Document ('HELAMAN', 19, 6), Score 0.07447080382067896
+Query 1: Document ('HELAMAN', 17, 15), Score 0.07426616037967422
+Query 1: Document ('ALMA', 9, 17), Score 0.0737168495716031
+Query 1: Document ('HELAMAN', 17, 16), Score 0.07369261498242008
+Query 1: Document ('MOSIAH', 10, 12), Score 0.07361234854389291
+Query 1: Document ('HELAMAN', 19, 8), Score 0.07349322651211745
+Query 1: Document ('HELAMAN', 19, 24), Score 0.07324523818001989
+Query 1: Document ('MORMON', 9, 12), Score 0.07307962005158831
+Query 1: Document ('MORMON', 6, 19), Score 0.07293515700947147
+Query 1: Document ('1 NEPHI', 4, 34), Score 0.072881527437572
+Query 1: Document ('HELAMAN', 20, 34), Score 0.07283328585053701
+Query 1: Document ('1 NEPHI', 7, 5), Score 0.0727783788290647
+Query 1: Document ('2 NEPHI', 25, 19), Score 0.07252594124089284
+Query 1: Document ('ETHER', 3, 14), Score 0.07242504278983265
+Query 1: Document ('HELAMAN', 19, 28), Score 0.07241297025937804
+Query 1: Document ('MOSIAH', 2, 1), Score 0.07241201418246268
+Query 1: Document ('ALMA', 2, 25), Score 0.07240784490592282
+Query 1: Document ('1 NEPHI', 3, 14), Score 0.0723452507748988
+Query 1: Document ('1 NEPHI', 4, 3), Score 0.0722855593608764
+Query 1: Document ('HELAMAN', 27, 30), Score 0.07226068242955266
+Query 1: Document ('ALMA', 9, 8), Score 0.07215946146177624
+Query 1: Document ('HELAMAN', 19, 22), Score 0.07214178578945767
+Query 1: Document ('MORMON', 9, 21), Score 0.07210472977708006
+Query 1: Document ('HELAMAN', 20, 28), Score 0.07195956919747727
+Query 1: Document ('1 NEPHI', 8, 22), Score 0.07193998091938521
+Query 1: Document ('1 NEPHI', 16, 27), Score 0.0719385802479089
+Query 1: Document ('MOSIAH', 1, 2), Score 0.07179638143131103
+Query 1: Document ('ALMA', 37, 39), Score 0.07179132446922849
+Query 1: Document ('MORONI', 2, 2), Score 0.07176988373554456
+Query 1: Document ('1 NEPHI', 3, 7), Score 0.07147466169732454
+Query 1: Document ('1 NEPHI', 5, 1), Score 0.07135016513208692
+Query 1: Document ('ALMA', 56, 47), Score 0.07132240047586036
+Query 1: Document ('HELAMAN', 12, 16), Score 0.07131728730193125
+Query 1: Document ('1 NEPHI', 10, 4), Score 0.07129903900532059
+Query 1: Document ('JACOB', 7, 22), Score 0.07089762038747059
+Query 1: Document ('MOSIAH', 25, 12), Score 0.07084972282695604
+Query 1: Document ('HELAMAN', 11, 32), Score 0.07080653889062083
+Query 1: Document ('1 NEPHI', 10, 12), Score 0.07044624863822584
+Query 1: Document ('ALMA', 63, 11), Score 0.07037582860594399
+Query 1: Document ('HELAMAN', 16, 24), Score 0.07032672420176563
+Query 1: Document ('HELAMAN', 21, 2), Score 0.07025607535219851
+Query 1: Document ('ALMA', 54, 17), Score 0.0702351218496047
+Query 1: Document ('MOSIAH', 29, 13), Score 0.07011909026186236
+Query 1: Document ('1 NEPHI', 16, 35), Score 0.07011828971931826
+Query 1: Document ('ALMA', 36, 2), Score 0.07010821223469338
+Query 1: Document ('ALMA', 21, 17), Score 0.07002580463399066
+Query 1: Document ('1 NEPHI', 8, 37), Score 0.06963008626156982
+Query 1: Document ('1 NEPHI', 3, 12), Score 0.06948467441612301
+Query 1: Document ('MOSIAH', 1, 14), Score 0.06947543952503406
+Query 1: Document ('HELAMAN', 11, 36), Score 0.06930998637726325
+Query 1: Document ('OMNI', 1, 4), Score 0.06927921490677151
+Query 1: Document ('1 NEPHI', 1, 2), Score 0.06927339903394418
+Query 1: Document ('2 NEPHI', 31, 7), Score 0.06925034429526188
+Query 1: Document ('MORMON', 5, 16), Score 0.06922717806346368
+Query 1: Document ('2 NEPHI', 13, 6), Score 0.06919152742422884
+Query 1: Document ('1 NEPHI', 5, 4), Score 0.06909286484684415
+Query 1: Document ('1 NEPHI', 2, 12), Score 0.06907788159717362
+Query 1: Document ('1 NEPHI', 6, 3), Score 0.06853321653980414
+Query 1: Document ('ALMA', 58, 31), Score 0.06842724031707018
+Query 1: Document ('HELAMAN', 16, 16), Score 0.06822080113649234
+Query 1: Document ('2 NEPHI', 5, 12), Score 0.0681807171983447
+Query 1: Document ('2 NEPHI', 25, 12), Score 0.0681507497781545
+Query 1: Document ('ETHER', 6, 25), Score 0.06811756890837982
+Query 1: Document ('ETHER', 8, 10), Score 0.06773051662202009
+Query 1: Document ('1 NEPHI', 10, 1), Score 0.06761948153336482
+Query 1: Document ('HELAMAN', 15, 13), Score 0.06760480115253724
+Query 1: Document ('1 NEPHI', 22, 9), Score 0.06737057115721681
+Query 1: Document ('MORONI', 7, 2), Score 0.06735336657807253
+Query 1: Document ('MORMON', 7, 5), Score 0.06718217826380095
+Query 1: Document ('ALMA', 50, 38), Score 0.06712524174109114
+Query 1: Document ('2 NEPHI', 32, 21), Score 0.06710606327656844
+Query 1: Document ('ETHER', 10, 13), Score 0.06703635687246885
+Query 1: Document ('1 NEPHI', 16, 37), Score 0.06701929869665767
+Query 1: Document ('MOSIAH', 20, 23), Score 0.06690076047293014
+Query 1: Document ('HELAMAN', 17, 14), Score 0.06685573914745256
+Query 1: Document ('2 NEPHI', 10, 18), Score 0.06683576550684658
+Query 1: Document ('MORONI', 5, 3), Score 0.06677966660078326
+Query 1: Document ('HELAMAN', 3, 30), Score 0.06670892140728411
+Query 1: Document ('ETHER', 8, 27), Score 0.0667041900134758
+Query 1: Document ('1 NEPHI', 10, 9), Score 0.06669245828071925
+Query 1: Document ('ALMA', 18, 37), Score 0.06669237165067533
+Query 1: Document ('2 NEPHI', 3, 21), Score 0.06653988408789777
+Query 1: Document ('JACOB', 3, 9), Score 0.0665325873974213
+Query 1: Document ('HELAMAN', 13, 8), Score 0.06648397463683116
+Query 1: Document ('MOSIAH', 3, 8), Score 0.06633655553869378
+Query 1: Document ('ETHER', 10, 15), Score 0.0662281062451961
+Query 1: Document ('1 NEPHI', 15, 17), Score 0.06590528513740426
+Query 1: Document ('HELAMAN', 21, 14), Score 0.06587834915034134
+Query 1: Document ('1 NEPHI', 17, 35), Score 0.06579991438326471
+Query 1: Document ('HELAMAN', 13, 15), Score 0.0655870614990786
+Query 1: Document ('ALMA', 5, 13), Score 0.06557777996787072
+Query 1: Document ('1 NEPHI', 19, 2), Score 0.06550569014676476
+Query 1: Document ('MORMON', 8, 5), Score 0.06545652229530556
+Query 1: Document ('2 NEPHI', 4, 3), Score 0.06533271828322691
+Query 1: Document ('ALMA', 51, 40), Score 0.06527779517745608
+Query 1: Document ('MOSIAH', 7, 27), Score 0.06522764845594767
+Query 1: Document ('MOSIAH', 11, 1), Score 0.06504056526610662
+Query 1: Document ('ALMA', 29, 11), Score 0.06488019370783822
+Query 1: Document ('ETHER', 12, 8), Score 0.06481367818229214
+Query 1: Document ('ALMA', 3, 11), Score 0.06455790896611932
+Query 1: Document ('MOSIAH', 9, 17), Score 0.06452772439526609
+Query 1: Document ('ALMA', 10, 11), Score 0.0645165796173856
+Query 1: Document ('HELAMAN', 16, 20), Score 0.06439673294499057
+Query 1: Document ('ETHER', 12, 34), Score 0.06425721235317748
+Query 1: Document ('1 NEPHI', 12, 16), Score 0.0640918040110559
+Query 1: Document ('1 NEPHI', 14, 2), Score 0.06389009962146475
+Query 1: Document ('MOSIAH', 21, 9), Score 0.06380000835736722
+Query 1: Document ('HELAMAN', 29, 1), Score 0.06370720608745593
+Query 1: Document ('ETHER', 7, 15), Score 0.06350053677452266
+Query 1: Document ('MOSIAH', 1, 6), Score 0.06343134644198545
+Query 1: Document ('ETHER', 9, 23), Score 0.06334591933126679
+Query 1: Document ('1 NEPHI', 8, 36), Score 0.06311599095179697
+Query 1: Document ('HELAMAN', 23, 9), Score 0.06308183016077633
+Query 1: Document ('1 NEPHI', 4, 35), Score 0.06304525344728305
+Query 1: Document ('HELAMAN', 14, 12), Score 0.06269505976341183
+Query 1: Document ('ETHER', 5, 4), Score 0.06263289857797065
+Query 1: Document ('MOSIAH', 28, 1), Score 0.06254906038206447
+Query 1: Document ('2 NEPHI', 10, 9), Score 0.06252568420152976
+Query 1: Document ('MOSIAH', 17, 15), Score 0.06241194975725184
+Query 1: Document ('ETHER', 4, 15), Score 0.06238534633854716
+Query 1: Document ('2 NEPHI', 4, 14), Score 0.06219039444062636
+Query 1: Document ('1 NEPHI', 16, 20), Score 0.062144493763015916
+Query 1: Document ('MOSIAH', 29, 42), Score 0.06179415911369602
+Query 1: Document ('ALMA', 20, 13), Score 0.06173017337232689
+Query 1: Document ('ETHER', 10, 30), Score 0.06149358620430413
+Query 1: Document ('MORONI', 7, 1), Score 0.06149035112655559
+Query 1: Document ('ETHER', 8, 2), Score 0.06129673316095105
+Query 1: Document ('2 NEPHI', 25, 10), Score 0.06114814227358736
+Query 1: Document ('HELAMAN', 27, 16), Score 0.06113715649907795
+Query 1: Document ('1 NEPHI', 1, 16), Score 0.06105119174495567
+Query 1: Document ('1 NEPHI', 17, 40), Score 0.06097698998716583
+Query 1: Document ('MORONI', 8, 3), Score 0.06093113372074164
+Query 1: Document ('MORMON', 9, 31), Score 0.0607688457108251
+Query 1: Document ('ALMA', 54, 23), Score 0.06073689509625552
+Query 1: Document ('HELAMAN', 16, 3), Score 0.06045757465850474
+Query 1: Document ('MOSIAH', 2, 32), Score 0.060446549455770715
+Query 1: Document ('1 NEPHI', 2, 14), Score 0.060432312989503946
+Query 1: Document ('1 NEPHI', 7, 21), Score 0.060180735881792964
+Query 1: Document ('HELAMAN', 16, 9), Score 0.060109945184311384
+Query 1: Document ('ENOS', 7, 14), Score 0.05982639856497488
+Query 1: Document ('HELAMAN', 11, 11), Score 0.059602840617622194
+Query 1: Document ('OMNI', 1, 18), Score 0.059546131401526876
+Query 1: Document ('HELAMAN', 21, 6), Score 0.05947367980014347
+Query 1: Document ('ALMA', 37, 4), Score 0.05938453698047694
+Query 1: Document ('1 NEPHI', 5, 2), Score 0.05934632294601162
+Query 1: Document ('ENOS', 7, 1), Score 0.059319848837271545
+Query 1: Document ('ETHER', 10, 3), Score 0.0591951570060745
+Query 1: Document ('MOSIAH', 28, 2), Score 0.059184515138237484
+Query 1: Document ('ALMA', 37, 43), Score 0.059071315781756846
+Query 1: Document ('ALMA', 36, 29), Score 0.05906649389803812
+Query 1: Document ('2 NEPHI', 11, 5), Score 0.05905306240453427
+Query 1: Document ('1 NEPHI', 1, 13), Score 0.05898363229030604
+Query 1: Document ('2 NEPHI', 29, 2), Score 0.05894890511415923
+Query 1: Document ('2 NEPHI', 6, 3), Score 0.058913021616975945
+Query 1: Document ('HELAMAN', 16, 13), Score 0.05869972485004228
+Query 1: Document ('ALMA', 15, 16), Score 0.05862014079496536
+Query 1: Document ('ALMA', 18, 5), Score 0.05851229267225369
+Query 1: Document ('HELAMAN', 24, 1), Score 0.05846742350665118
+Query 1: Document ('1 NEPHI', 7, 14), Score 0.05836942847512206
+Query 1: Document ('ALMA', 4, 4), Score 0.05831777340434637
+Query 1: Document ('HELAMAN', 13, 18), Score 0.058202954647150446
+Query 1: Document ('ALMA', 5, 3), Score 0.05815607542270116
+Query 1: Document ('HELAMAN', 17, 17), Score 0.058085245065532295
+Query 1: Document ('ENOS', 7, 3), Score 0.05806367098833055
+Query 1: Document ('HELAMAN', 13, 9), Score 0.05782017814659892
+Query 1: Document ('ALMA', 37, 9), Score 0.05764508695291315
+Query 1: Document ('MOSIAH', 27, 30), Score 0.05760819161293961
+Query 1: Document ('ALMA', 9, 16), Score 0.05740260141569564
+Query 1: Document ('2 NEPHI', 18, 4), Score 0.057268849251768034
+Query 1: Document ('HELAMAN', 16, 14), Score 0.05724166587657663
+Query 1: Document ('HELAMAN', 16, 8), Score 0.05718944942684547
+Query 1: Document ('ALMA', 5, 6), Score 0.057135958565350455
+Query 1: Document ('1 NEPHI', 3, 28), Score 0.05710928195054398
+Query 1: Document ('ALMA', 22, 1), Score 0.05707458827204769
+Query 1: Document ('ETHER', 15, 11), Score 0.057069529423946004
+Query 1: Document ('ETHER', 12, 32), Score 0.05706116860754064
+Query 1: Document ('ALMA', 31, 16), Score 0.05705581046342485
+Query 1: Document ('HELAMAN', 16, 18), Score 0.056841581134728716
+Query 1: Document ('2 NEPHI', 31, 14), Score 0.05683533000310855
+Query 1: Document ('HELAMAN', 5, 11), Score 0.056834424229536454
+Query 1: Document ('MORONI', 7, 27), Score 0.05679430430873322
+Query 1: Document ('ALMA', 43, 46), Score 0.05678664682770007
+Query 1: Document ('ETHER', 4, 7), Score 0.056751389563270735
+Query 1: Document ('MORONI', 6, 2), Score 0.05668831441539089
+Query 1: Document ('MORONI', 10, 33), Score 0.05664025591968407
+Query 1: Document ('ETHER', 10, 2), Score 0.056608420622829766
+Query 1: Document ('HELAMAN', 5, 19), Score 0.056563703899212364
+Query 1: Document ('MOSIAH', 13, 13), Score 0.056552445571711546
+Query 1: Document ('ALMA', 13, 9), Score 0.056508606500895536
+Query 1: Document ('MORONI', 10, 4), Score 0.0564228682793826
+Query 1: Document ('HELAMAN', 26, 14), Score 0.05623651032661488
+Query 1: Document ('OMNI', 1, 1), Score 0.05609591230971618
+Query 1: Document ('MORONI', 7, 32), Score 0.05606347690214305
+Query 1: Document ('MOSIAH', 27, 19), Score 0.05585518222277696
+Query 1: Document ('HELAMAN', 28, 8), Score 0.055849595903338566
+Query 1: Document ('HELAMAN', 10, 7), Score 0.05582785596280332
+Query 1: Document ('JACOB', 4, 5), Score 0.05578636922059665
+Query 1: Document ('ALMA', 13, 15), Score 0.05572568093733657
+Query 1: Document ('ALMA', 17, 15), Score 0.05564062663784379
+Query 1: Document ('HELAMAN', 15, 11), Score 0.05554022917633147
+Query 1: Document ('HELAMAN', 5, 5), Score 0.05544887404522074
+Query 1: Document ('HELAMAN', 14, 11), Score 0.0553475345545255
+Query 1: Document ('MOSIAH', 27, 8), Score 0.05522721471911142
+Query 1: Document ('HELAMAN', 6, 19), Score 0.0551214813186942
+Query 1: Document ('1 NEPHI', 15, 14), Score 0.05510476393625065
+Query 1: Document ('MOSIAH', 27, 16), Score 0.05507931856478836
+Query 1: Document ('1 NEPHI', 2, 16), Score 0.054993780685503715
+Query 1: Document ('ALMA', 25, 6), Score 0.05493489333728181
+Query 1: Document ('ALMA', 36, 17), Score 0.05472984227347555
+Query 1: Document ('1 NEPHI', 10, 11), Score 0.054648731106214904
+Query 1: Document ('ALMA', 5, 21), Score 0.054637302629452544
+Query 1: Document ('1 NEPHI', 11, 1), Score 0.05463189460683607
+Query 1: Document ('MORMON', 9, 27), Score 0.05457792423478026
+Query 1: Document ('MORONI', 7, 31), Score 0.0545701860021142
+Query 1: Document ('HELAMAN', 1, 14), Score 0.054534172506317966
+Query 1: Document ('ALMA', 5, 48), Score 0.05444144052024979
+Query 1: Document ('1 NEPHI', 16, 36), Score 0.054399833428008415
+Query 1: Document ('HELAMAN', 16, 7), Score 0.05428991072644415
+Query 1: Document ('ALMA', 37, 45), Score 0.0541650480260089
+Query 1: Document ('ALMA', 60, 32), Score 0.05410156091122736
+Query 1: Document ('1 NEPHI', 17, 22), Score 0.05402005521734437
+Query 1: Document ('HELAMAN', 4, 37), Score 0.053870756022178216
+Query 1: Document ('JACOB', 3, 7), Score 0.05380780045851587
+Query 1: Document ('HELAMAN', 20, 27), Score 0.05375206479040435
+Query 1: Document ('HELAMAN', 15, 4), Score 0.05372161397897134
+Query 1: Document ('ETHER', 7, 4), Score 0.05370364320329808
+Query 1: Document ('1 NEPHI', 11, 7), Score 0.05358494777223555
+Query 1: Document ('MORMON', 6, 21), Score 0.0535821774805838
+Query 1: Document ('1 NEPHI', 11, 8), Score 0.053308636921590255
+Query 1: Document ('2 NEPHI', 19, 6), Score 0.05328804505213843
+Query 1: Document ('1 NEPHI', 10, 17), Score 0.052830846994034945
+Query 1: Document ('OMNI', 1, 22), Score 0.0528194454104818
+Query 1: Document ('ALMA', 3, 6), Score 0.05278142377878745
+Query 1: Document ('JAROM', 1, 27), Score 0.052655768368500944
+Query 1: Document ('MORMON', 9, 6), Score 0.05237886837925142
+Query 1: Document ('ETHER', 10, 4), Score 0.052301636883840284
+Query 1: Document ('2 NEPHI', 31, 18), Score 0.05227439811002419
+Query 1: Document ('ETHER', 9, 15), Score 0.052152361731367836
+Query 1: Document ('MORMON', 5, 14), Score 0.052104321609939545
+Query 1: Document ('1 NEPHI', 14, 17), Score 0.052100268323710695
+Query 1: Document ('JAROM', 1, 2), Score 0.052075458549340606
+Query 1: Document ('MOSIAH', 9, 3), Score 0.05202590887523284
+Query 1: Document ('HELAMAN', 11, 29), Score 0.051870582368914196
+Query 1: Document ('1 NEPHI', 11, 25), Score 0.05135853904636478
+Query 1: Document ('MOSIAH', 1, 13), Score 0.05101969194940006
+Query 1: Document ('OMNI', 1, 6), Score 0.05094072256822506
+Query 1: Document ('HELAMAN', 13, 32), Score 0.05091060291416012
+Query 1: Document ('ETHER', 7, 18), Score 0.050893388058993655
+Query 1: Document ('ETHER', 13, 11), Score 0.050742370967421804
+Query 1: Document ('MORONI', 9, 25), Score 0.050628000615457205
+Query 1: Document ('ETHER', 13, 41), Score 0.05062613146766272
+Query 1: Document ('MOSIAH', 27, 14), Score 0.05056062517954579
+Query 1: Document ('MORMON', 8, 40), Score 0.05043396668056472
+Query 1: Document ('1 NEPHI', 1, 1), Score 0.0501949612687107
+Query 1: Document ('1 NEPHI', 11, 35), Score 0.05018349888432655
+Query 1: Document ('ALMA', 9, 26), Score 0.05016264965757058
+Query 1: Document ('MORONI', 8, 48), Score 0.05014851149611363
+Query 1: Document ('HELAMAN', 13, 14), Score 0.05003788646151311
+Query 1: Document ('MOSIAH', 2, 11), Score 0.04998972982624051
+Query 1: Document ('2 NEPHI', 25, 4), Score 0.049984951259202395
+Query 1: Document ('ALMA', 30, 16), Score 0.04996287282725626
+Query 1: Document ('1 NEPHI', 11, 27), Score 0.0499318147474111
+Query 1: Document ('ALMA', 37, 44), Score 0.049897434399382955
+Query 1: Document ('ALMA', 36, 28), Score 0.049845464713939476
+Query 1: Document ('ALMA', 30, 27), Score 0.04981837684542676
+Query 1: Document ('1 NEPHI', 16, 23), Score 0.04978486653128612
+Query 1: Document ('1 NEPHI', 18, 55), Score 0.04961731804818971
+Query 1: Document ('1 NEPHI', 2, 9), Score 0.04953189191960949
+Query 1: Document ('HELAMAN', 15, 7), Score 0.04949838681381325
+Query 1: Document ('MOSIAH', 4, 14), Score 0.04946439545078902
+Query 1: Document ('HELAMAN', 1, 11), Score 0.04941198791248249
+Query 1: Document ('ETHER', 1, 37), Score 0.04923277045540797
+Query 1: Document ('1 NEPHI', 22, 6), Score 0.049117570466012776
+Query 1: Document ('MOSIAH', 15, 5), Score 0.04889728664560157
+Query 1: Document ('ETHER', 12, 37), Score 0.04885696279570849
+Query 1: Document ('1 NEPHI', 1, 14), Score 0.04861303845735262
+Query 1: Document ('1 NEPHI', 21, 23), Score 0.048513055268366634
+Query 1: Document ('2 NEPHI', 6, 7), Score 0.048513055268366634
+Query 1: Document ('HELAMAN', 16, 5), Score 0.04825080535367714
+Query 1: Document ('2 NEPHI', 33, 4), Score 0.04822962400239772
+Query 1: Document ('1 NEPHI', 13, 40), Score 0.04817293978061065
+Query 1: Document ('MOSIAH', 7, 7), Score 0.04808848010921539
+Query 1: Document ('HELAMAN', 12, 19), Score 0.04803270225912015
+Query 1: Document ('1 NEPHI', 15, 30), Score 0.0480065646665482
+Query 1: Document ('OMNI', 1, 9), Score 0.04795488110941442
+Query 1: Document ('MOSIAH', 1, 16), Score 0.04794683352329321
+Query 1: Document ('1 NEPHI', 10, 8), Score 0.04777475699425639
+Query 1: Document ('ALMA', 30, 31), Score 0.04768675502878925
+Query 1: Document ('2 NEPHI', 31, 20), Score 0.04767793257136011
+Query 1: Document ('2 NEPHI', 3, 7), Score 0.04724055977345888
+Query 1: Document ('MOSIAH', 9, 2), Score 0.04723675850834168
+Query 1: Document ('HELAMAN', 7, 7), Score 0.047101893623282105
+Query 1: Document ('HELAMAN', 13, 6), Score 0.0467612496426452
+Query 1: Document ('1 NEPHI', 13, 30), Score 0.04665613576880092
+Query 1: Document ('ALMA', 18, 9), Score 0.04648237258197642
+Query 1: Document ('1 NEPHI', 15, 13), Score 0.04638884519008627
+Query 1: Document ('MORONI', 10, 26), Score 0.04636206901031869
+Query 1: Document ('1 NEPHI', 4, 2), Score 0.046333229504147554
+Query 1: Document ('ALMA', 17, 9), Score 0.04632342677470435
+Query 1: Document ('HELAMAN', 15, 1), Score 0.046101966584658496
+Query 1: Document ('HELAMAN', 3, 20), Score 0.04572915035036548
+Query 1: Document ('1 NEPHI', 2, 11), Score 0.04554541230924502
+Query 1: Document ('2 NEPHI', 2, 18), Score 0.04531727466338089
+Query 1: Document ('HELAMAN', 20, 19), Score 0.04524001182014874
+Query 1: Document ('2 NEPHI', 25, 16), Score 0.04504339952156928
+Query 1: Document ('MOSIAH', 7, 21), Score 0.044657332992367675
+Query 1: Document ('MORMON', 7, 7), Score 0.044489136411709804
+Query 1: Document ('2 NEPHI', 1, 31), Score 0.04443748885302818
+Query 1: Document ('1 NEPHI', 7, 6), Score 0.04440685813009825
+Query 1: Document ('HELAMAN', 13, 1), Score 0.04439824006054591
+Query 1: Document ('2 NEPHI', 3, 12), Score 0.04419632194029668
+Query 1: Document ('ALMA', 23, 3), Score 0.044120122109757326
+Query 1: Document ('HELAMAN', 13, 4), Score 0.044019875368146145
+Query 1: Document ('2 NEPHI', 4, 25), Score 0.04392597192138818
+Query 1: Document ('HELAMAN', 8, 13), Score 0.043737430015939105
+Query 1: Document ('1 NEPHI', 17, 20), Score 0.04369488425915059
+Query 1: Document ('MORMON', 6, 6), Score 0.04360493421507299
+Query 1: Document ('ETHER', 9, 26), Score 0.04345148100694753
+Query 1: Document ('OMNI', 1, 15), Score 0.04344991931172977
+Query 1: Document ('ALMA', 13, 18), Score 0.043391656324276814
+Query 1: Document ('HELAMAN', 11, 25), Score 0.04322095805419773
+Query 1: Document ('HELAMAN', 16, 6), Score 0.04308462280052046
+Query 1: Document ('1 NEPHI', 16, 10), Score 0.04276583449321962
+Query 1: Document ('HELAMAN', 13, 25), Score 0.04272110863757476
+Query 1: Document ('ETHER', 7, 9), Score 0.04215271153320145
+Query 1: Document ('HELAMAN', 2, 9), Score 0.04213359526329226
+Query 1: Document ('HELAMAN', 26, 15), Score 0.04194919040247654
+Query 1: Document ('ALMA', 7, 8), Score 0.04187721642363356
+Query 1: Document ('MORONI', 10, 31), Score 0.04094827483970042
+Query 1: Document ('ALMA', 50, 39), Score 0.04090034839022744
+Query 1: Document ('ALMA', 30, 23), Score 0.040544561790151985
+Query 1: Document ('HELAMAN', 29, 39), Score 0.04050403585766745
+Query 1: Document ('ALMA', 26, 24), Score 0.04040895681504195
+Query 1: Document ('HELAMAN', 5, 8), Score 0.04011320240220803
+Query 1: Document ('2 NEPHI', 9, 9), Score 0.04000778691910938
+Query 1: Document ('HELAMAN', 16, 10), Score 0.03994958696803443
+Query 1: Document ('1 NEPHI', 12, 18), Score 0.03976400073125194
+Query 1: Document ('ALMA', 11, 44), Score 0.03907580538973085
+Query 1: Document ('HELAMAN', 8, 11), Score 0.03897058736123397
+Query 1: Document ('HELAMAN', 16, 4), Score 0.038255228728540425
+Query 1: Document ('HELAMAN', 14, 21), Score 0.038171948346319526
+Query 1: Document ('ETHER', 8, 25), Score 0.037409955662072655
+Query 1: Document ('2 NEPHI', 33, 9), Score 0.03727709454165009
+Query 1: Document ('2 NEPHI', 31, 13), Score 0.036092058291413966
+Query 1: Document ('1 NEPHI', 19, 10), Score 0.035314330447117515
+Query 1: Document ('OMNI', 1, 3), Score 0.03388110870751559
+Query 1: Document ('MOSIAH', 3, 19), Score 0.03295394002217956
+Query 1: Document ('HELAMAN', 13, 26), Score 0.028184957379933633
+Query 1: Document ('MORMON', 1, 2), Score 0.012744021508088961
+Query 2: Document ('ALMA', 58, 12), Score 0.5427046480658154
+Query 2: Document ('MOSIAH', 19, 2), Score 0.3771721969867665
+Query 2: Document ('ALMA', 17, 12), Score 0.37226143483411733
+Query 2: Document ('ALMA', 56, 45), Score 0.34220183708664254
+Query 2: Document ('ALMA', 56, 26), Score 0.30981554270234873
+Query 2: Document ('ALMA', 57, 32), Score 0.29870260571992546
+Query 2: Document ('ALMA', 62, 1), Score 0.2805698854579729
+Query 2: Document ('ALMA', 43, 43), Score 0.271423586762357
+Query 2: Document ('ALMA', 57, 8), Score 0.27059257790595304
+Query 2: Document ('ALMA', 59, 10), Score 0.26302047120246974
+Query 2: Document ('ALMA', 62, 19), Score 0.25546354880776595
+Query 2: Document ('ALMA', 55, 34), Score 0.2535034761512924
+Query 2: Document ('MORMON', 3, 6), Score 0.25189025394020625
+Query 2: Document ('ALMA', 15, 4), Score 0.24334844718611648
+Query 2: Document ('ALMA', 61, 17), Score 0.233845651816694
+Query 2: Document ('1 NEPHI', 4, 35), Score 0.23383870967811715
+Query 2: Document ('ALMA', 58, 32), Score 0.2247360784747108
+Query 2: Document ('ALMA', 56, 29), Score 0.22277972859287984
+Query 2: Document ('ALMA', 57, 2), Score 0.21294622888841766
+Query 2: Document ('ALMA', 55, 6), Score 0.20663635365675934
+Query 2: Document ('ALMA', 52, 24), Score 0.2041466878403638
+Query 2: Document ('ALMA', 53, 20), Score 0.2011182378640694
+Query 2: Document ('ALMA', 55, 26), Score 0.2003440676881215
+Query 2: Document ('ALMA', 58, 35), Score 0.1988569478229341
+Query 2: Document ('MOSIAH', 20, 2), Score 0.19875960890030103
+Query 2: Document ('ALMA', 56, 17), Score 0.19558059086011878
+Query 2: Document ('ALMA', 62, 4), Score 0.19282374542535535
+Query 2: Document ('ALMA', 56, 52), Score 0.1894557390032934
+Query 2: Document ('ALMA', 58, 16), Score 0.18720522592262884
+Query 2: Document ('ETHER', 3, 5), Score 0.1870160955997624
+Query 2: Document ('HELAMAN', 26, 1), Score 0.18699816056073973
+Query 2: Document ('2 NEPHI', 28, 29), Score 0.1830637505245743
+Query 2: Document ('MOSIAH', 9, 1), Score 0.18185350096201394
+Query 2: Document ('MOSIAH', 26, 28), Score 0.1815430984462634
+Query 2: Document ('HELAMAN', 5, 24), Score 0.18048286859061305
+Query 2: Document ('ALMA', 57, 13), Score 0.18000764046565465
+Query 2: Document ('MOSIAH', 11, 16), Score 0.17196327384659463
+Query 2: Document ('HELAMAN', 22, 7), Score 0.17176695068637646
+Query 2: Document ('ALMA', 46, 33), Score 0.1717351108695959
+Query 2: Document ('2 NEPHI', 28, 27), Score 0.17014409663070404
+Query 2: Document ('ALMA', 55, 7), Score 0.16753791480327934
+Query 2: Document ('ALMA', 37, 6), Score 0.16660505463564623
+Query 2: Document ('MORMON', 5, 9), Score 0.16377506121225097
+Query 2: Document ('ALMA', 4, 16), Score 0.1611420238598974
+Query 2: Document ('1 NEPHI', 14, 28), Score 0.1598318654007756
+Query 2: Document ('ETHER', 9, 9), Score 0.1574700451769819
+Query 2: Document ('ETHER', 5, 5), Score 0.15746516707626534
+Query 2: Document ('ALMA', 52, 13), Score 0.15568662053493032
+Query 2: Document ('MOSIAH', 26, 21), Score 0.15472602132740024
+Query 2: Document ('ALMA', 53, 5), Score 0.15278456354679054
+Query 2: Document ('ALMA', 8, 7), Score 0.15259434926374818
+Query 2: Document ('JACOB', 1, 1), Score 0.1525062668242264
+Query 2: Document ('JAROM', 1, 14), Score 0.14978045808996682
+Query 2: Document ('ETHER', 15, 14), Score 0.14971995111405614
+Query 2: Document ('HELAMAN', 1, 22), Score 0.14950749244194358
+Query 2: Document ('ALMA', 62, 3), Score 0.1482033286056801
+Query 2: Document ('HELAMAN', 18, 20), Score 0.1451454815512824
+Query 2: Document ('ALMA', 52, 27), Score 0.14490880236548406
+Query 2: Document ('MOSIAH', 28, 1), Score 0.14362990427257663
+Query 2: Document ('ALMA', 62, 6), Score 0.14357063537297549
+Query 2: Document ('ALMA', 56, 10), Score 0.1429148297467568
+Query 2: Document ('ALMA', 37, 7), Score 0.13964503455586558
+Query 2: Document ('HELAMAN', 20, 15), Score 0.1395515367616666
+Query 2: Document ('MOSIAH', 21, 25), Score 0.13783061287606585
+Query 2: Document ('JACOB', 4, 2), Score 0.1360506131172502
+Query 2: Document ('MOSIAH', 29, 29), Score 0.13567302591645902
+Query 2: Document ('MOSIAH', 22, 14), Score 0.13562318860158748
+Query 2: Document ('1 NEPHI', 16, 29), Score 0.13297573213056252
+Query 2: Document ('ETHER', 4, 17), Score 0.13076495977099384
+Query 2: Document ('ALMA', 52, 23), Score 0.12953064465143604
+Query 2: Document ('2 NEPHI', 32, 5), Score 0.1289912139667114
+Query 2: Document ('ALMA', 10, 4), Score 0.12694950499946442
+Query 2: Document ('HELAMAN', 5, 15), Score 0.12669736512073118
+Query 2: Document ('ALMA', 58, 1), Score 0.12617614801952953
+Query 2: Document ('MORMON', 5, 13), Score 0.12169504254405601
+Query 2: Document ('1 NEPHI', 15, 6), Score 0.11998712163031648
+Query 2: Document ('JAROM', 1, 2), Score 0.11957962406957352
+Query 2: Document ('1 NEPHI', 14, 12), Score 0.113550928781467
+Query 2: Document ('2 NEPHI', 25, 3), Score 0.11204209148269914
+Query 2: Document ('ETHER', 2, 16), Score 0.11067948473569618
+Query 2: Document ('ALMA', 37, 41), Score 0.11066391820596631
+Query 2: Document ('HELAMAN', 26, 9), Score 0.11033369585924446
+Query 2: Document ('ENOS', 7, 15), Score 0.10979808751959313
+Query 2: Document ('MOSIAH', 18, 5), Score 0.10877566243743718
+Query 2: Document ('ALMA', 61, 1), Score 0.10792811149530532
+Query 2: Document ('ALMA', 22, 32), Score 0.10757289752282102
+Query 2: Document ('ETHER', 4, 28), Score 0.10749911139978782
+Query 2: Document ('ALMA', 30, 33), Score 0.10742747438917619
+Query 2: Document ('2 NEPHI', 17, 13), Score 0.10646797737832137
+Query 2: Document ('ALMA', 6, 2), Score 0.10614976230694313
+Query 2: Document ('ALMA', 52, 22), Score 0.10604954122467783
+Query 2: Document ('ENOS', 7, 2), Score 0.1042091130371115
+Query 2: Document ('ALMA', 58, 34), Score 0.10410147717930188
+Query 2: Document ('ALMA', 1, 32), Score 0.10273106561629762
+Query 2: Document ('ALMA', 61, 19), Score 0.10228630196749063
+Query 2: Document ('HELAMAN', 23, 6), Score 0.10173314812408218
+Query 2: Document ('MORONI', 6, 3), Score 0.10062919064336043
+Query 2: Document ('1 NEPHI', 17, 45), Score 0.09985073763712483
+Query 2: Document ('ALMA', 34, 30), Score 0.09982199995753502
+Query 2: Document ('MORMON', 5, 19), Score 0.09944630903960677
+Query 2: Document ('ETHER', 14, 7), Score 0.09852391782486342
+Query 2: Document ('MOSIAH', 17, 19), Score 0.09849049860936543
+Query 2: Document ('ALMA', 48, 8), Score 0.09412508906820058
+Query 2: Document ('MOSIAH', 25, 25), Score 0.09381505265706662
+Query 2: Document ('HELAMAN', 1, 24), Score 0.09212863401400746
+Query 2: Document ('ENOS', 7, 27), Score 0.0916546817321255
+Query 2: Document ('ETHER', 13, 21), Score 0.09078220382474164
+Query 2: Document ('ALMA', 13, 24), Score 0.09046610800381691
+Query 2: Document ('HELAMAN', 11, 3), Score 0.08972356330427961
+Query 2: Document ('2 NEPHI', 32, 2), Score 0.08830763998378402
+Query 2: Document ('HELAMAN', 18, 30), Score 0.08811427094304207
+Query 2: Document ('MORMON', 9, 13), Score 0.08719085008083072
+Query 2: Document ('ALMA', 11, 1), Score 0.08699361091034222
+Query 2: Document ('ALMA', 13, 29), Score 0.08691544730862608
+Query 2: Document ('ALMA', 36, 23), Score 0.08667228524510455
+Query 2: Document ('MOSIAH', 23, 17), Score 0.08617954346868875
+Query 2: Document ('ALMA', 8, 24), Score 0.0858771268587174
+Query 2: Document ('ALMA', 54, 15), Score 0.08537978829498585
+Query 2: Document ('HELAMAN', 28, 18), Score 0.08530130313022341
+Query 2: Document ('MORONI', 7, 26), Score 0.08517719146779647
+Query 2: Document ('ALMA', 8, 21), Score 0.0846682966175765
+Query 2: Document ('HELAMAN', 28, 21), Score 0.08439420741996223
+Query 2: Document ('1 NEPHI', 15, 11), Score 0.08301371464839702
+Query 2: Document ('HELAMAN', 20, 28), Score 0.08222236228058846
+Query 2: Document ('MOSIAH', 4, 25), Score 0.08220966408008003
+Query 2: Document ('ALMA', 57, 1), Score 0.08213363778262277
+Query 2: Document ('ALMA', 22, 16), Score 0.08187314470398854
+Query 2: Document ('ALMA', 30, 34), Score 0.08135415384320557
+Query 2: Document ('ETHER', 3, 1), Score 0.08128833619200704
+Query 2: Document ('ALMA', 55, 9), Score 0.08065653284803927
+Query 2: Document ('HELAMAN', 3, 22), Score 0.08008834497216007
+Query 2: Document ('ALMA', 58, 5), Score 0.07989644776302783
+Query 2: Document ('MOSIAH', 2, 8), Score 0.07988925979324718
+Query 2: Document ('ALMA', 55, 11), Score 0.07939619790493221
+Query 2: Document ('HELAMAN', 10, 22), Score 0.07930496239375345
+Query 2: Document ('HELAMAN', 28, 34), Score 0.07930146574800706
+Query 2: Document ('ALMA', 16, 16), Score 0.07913003827992447
+Query 2: Document ('ETHER', 12, 6), Score 0.07910508369138503
+Query 2: Document ('MORMON', 6, 17), Score 0.07895417068837536
+Query 2: Document ('ALMA', 58, 8), Score 0.0783475478350146
+Query 2: Document ('ALMA', 51, 24), Score 0.07830426068240057
+Query 2: Document ('ALMA', 52, 16), Score 0.07816098574870643
+Query 2: Document ('MOSIAH', 20, 13), Score 0.07805046949331633
+Query 2: Document ('OMNI', 1, 3), Score 0.07780037574640557
+Query 2: Document ('ETHER', 14, 8), Score 0.07715728639199039
+Query 2: Document ('ETHER', 15, 5), Score 0.07703163502663352
+Query 2: Document ('ALMA', 5, 33), Score 0.07686605247763141
+Query 2: Document ('MOSIAH', 26, 22), Score 0.07684371177296767
+Query 2: Document ('ALMA', 59, 7), Score 0.07605361956321764
+Query 2: Document ('ALMA', 10, 8), Score 0.07582681074162836
+Query 2: Document ('ALMA', 47, 33), Score 0.07568068616376641
+Query 2: Document ('MOSIAH', 18, 4), Score 0.07555695424034509
+Query 2: Document ('MOSIAH', 19, 28), Score 0.07435057182762381
+Query 2: Document ('1 NEPHI', 9, 3), Score 0.07434399951905306
+Query 2: Document ('ALMA', 54, 9), Score 0.0739729231441318
+Query 2: Document ('ALMA', 8, 18), Score 0.07336198038967184
+Query 2: Document ('HELAMAN', 8, 24), Score 0.07247489076340444
+Query 2: Document ('MOSIAH', 4, 21), Score 0.0719221169806603
+Query 2: Document ('HELAMAN', 5, 50), Score 0.0715473889853081
+Query 2: Document ('ALMA', 9, 23), Score 0.07146799475407974
+Query 2: Document ('JACOB', 3, 2), Score 0.07130057283688372
+Query 2: Document ('MOSIAH', 3, 13), Score 0.07088567285143269
+Query 2: Document ('HELAMAN', 27, 29), Score 0.07056911644631014
+Query 2: Document ('ALMA', 22, 15), Score 0.07023909466006661
+Query 2: Document ('ALMA', 56, 18), Score 0.07005795424338038
+Query 2: Document ('ALMA', 5, 42), Score 0.06998336079640653
+Query 2: Document ('MORMON', 6, 7), Score 0.06982636363861948
+Query 2: Document ('ALMA', 44, 10), Score 0.06975611344906331
+Query 2: Document ('2 NEPHI', 29, 8), Score 0.06965694384510975
+Query 2: Document ('ALMA', 47, 11), Score 0.06943003285408343
+Query 2: Document ('MOSIAH', 18, 26), Score 0.06930901965642325
+Query 2: Document ('ETHER', 1, 38), Score 0.06920707778992698
+Query 2: Document ('ALMA', 16, 17), Score 0.0691869213918617
+Query 2: Document ('HELAMAN', 16, 3), Score 0.06907996617566703
+Query 2: Document ('MOSIAH', 4, 3), Score 0.06884574817387312
+Query 2: Document ('ALMA', 7, 21), Score 0.06852246825787914
+Query 2: Document ('MORONI', 9, 7), Score 0.0680866527271868
+Query 2: Document ('ALMA', 30, 35), Score 0.0673583011077439
+Query 2: Document ('ALMA', 8, 20), Score 0.06725647921015844
+Query 2: Document ('MORONI', 10, 3), Score 0.06695233315859034
+Query 2: Document ('ALMA', 18, 5), Score 0.06685725025344548
+Query 2: Document ('ALMA', 57, 25), Score 0.06662291504752257
+Query 2: Document ('ALMA', 5, 14), Score 0.06647689151033151
+Query 2: Document ('ALMA', 45, 19), Score 0.06618351964072941
+Query 2: Document ('MOSIAH', 26, 37), Score 0.06601048930505837
+Query 2: Document ('MOSIAH', 27, 22), Score 0.06593514729015067
+Query 2: Document ('ALMA', 7, 22), Score 0.06582630378857471
+Query 2: Document ('ALMA', 11, 3), Score 0.06582596383459728
+Query 2: Document ('ALMA', 56, 1), Score 0.06566052077025225
+Query 2: Document ('MOSIAH', 27, 23), Score 0.06564719989704808
+Query 2: Document ('ALMA', 35, 9), Score 0.06561175022539009
+Query 2: Document ('ALMA', 38, 8), Score 0.06536133725224974
+Query 2: Document ('ETHER', 12, 32), Score 0.06519916850151776
+Query 2: Document ('2 NEPHI', 31, 14), Score 0.06494112104851539
+Query 2: Document ('1 NEPHI', 15, 15), Score 0.06488865822928583
+Query 2: Document ('ALMA', 58, 4), Score 0.06476817501636926
+Query 2: Document ('MORONI', 10, 4), Score 0.0644698344961737
+Query 2: Document ('ETHER', 12, 35), Score 0.06417836239817361
+Query 2: Document ('2 NEPHI', 11, 25), Score 0.06366638661986487
+Query 2: Document ('ALMA', 40, 12), Score 0.06359381250191422
+Query 2: Document ('HELAMAN', 12, 24), Score 0.06332196008494183
+Query 2: Document ('HELAMAN', 9, 17), Score 0.06329041325928952
+Query 2: Document ('1 NEPHI', 19, 3), Score 0.06257199836724608
+Query 2: Document ('ALMA', 55, 1), Score 0.06256013961582939
+Query 2: Document ('MOSIAH', 3, 41), Score 0.06252590267773978
+Query 2: Document ('HELAMAN', 7, 24), Score 0.062398244126507525
+Query 2: Document ('ALMA', 59, 1), Score 0.06194882728707977
+Query 2: Document ('1 NEPHI', 17, 30), Score 0.06192055889881442
+Query 2: Document ('ETHER', 15, 28), Score 0.06187030104809606
+Query 2: Document ('ALMA', 54, 7), Score 0.06146765392269651
+Query 2: Document ('ALMA', 58, 3), Score 0.06123952739048477
+Query 2: Document ('HELAMAN', 10, 12), Score 0.06115373163364021
+Query 2: Document ('1 NEPHI', 10, 14), Score 0.06091329745758584
+Query 2: Document ('1 NEPHI', 10, 17), Score 0.06036552316222267
+Query 2: Document ('HELAMAN', 29, 39), Score 0.060212547749612086
+Query 2: Document ('HELAMAN', 28, 22), Score 0.06000626753279762
+Query 2: Document ('HELAMAN', 11, 37), Score 0.059810854975571134
+Query 2: Document ('2 NEPHI', 31, 18), Score 0.0597297141622243
+Query 2: Document ('HELAMAN', 9, 16), Score 0.05923585358068551
+Query 2: Document ('ALMA', 41, 14), Score 0.05900964418450709
+Query 2: Document ('ALMA', 62, 9), Score 0.058125738508189626
+Query 2: Document ('HELAMAN', 7, 25), Score 0.057972695771526736
+Query 2: Document ('HELAMAN', 13, 7), Score 0.05711485518140545
+Query 2: Document ('ALMA', 34, 38), Score 0.05711390785378516
+Query 2: Document ('ALMA', 58, 40), Score 0.05677663235943873
+Query 2: Document ('JACOB', 4, 3), Score 0.056705126115979006
+Query 2: Document ('HELAMAN', 9, 14), Score 0.05601688091802054
+Query 2: Document ('ALMA', 39, 15), Score 0.05571406733497637
+Query 2: Document ('ALMA', 22, 22), Score 0.05565905858454321
+Query 2: Document ('HELAMAN', 3, 11), Score 0.05519693342704579
+Query 2: Document ('HELAMAN', 13, 27), Score 0.054288465991099176
+Query 2: Document ('2 NEPHI', 29, 4), Score 0.053047766621497454
+Query 2: Document ('MORONI', 6, 4), Score 0.05139216410506044
+Query 2: Document ('ALMA', 31, 1), Score 0.05136109321357501
+Query 2: Document ('ETHER', 3, 2), Score 0.05102335600718635
+Query 2: Document ('HELAMAN', 11, 40), Score 0.050484663659671074
+Query 2: Document ('ALMA', 10, 7), Score 0.05002537189300137
+Query 2: Document ('MORONI', 6, 2), Score 0.04978604527057318
+Query 2: Document ('HELAMAN', 18, 13), Score 0.0496241360115907
+Query 2: Document ('ALMA', 13, 18), Score 0.04958012570167739
+Query 2: Document ('HELAMAN', 10, 14), Score 0.049463086383225253
+Query 2: Document ('HELAMAN', 11, 25), Score 0.049385082635694126
+Query 2: Document ('MOSIAH', 4, 2), Score 0.049384495134607284
+Query 2: Document ('ALMA', 52, 17), Score 0.04934945870919332
+Query 2: Document ('HELAMAN', 4, 10), Score 0.04870886923609084
+Query 2: Document ('HELAMAN', 24, 10), Score 0.04851441307211892
+Query 2: Document ('ALMA', 11, 20), Score 0.04832521121212225
+Query 2: Document ('1 NEPHI', 4, 31), Score 0.04822135104137611
+Query 2: Document ('ETHER', 2, 20), Score 0.04785486204345995
+Query 2: Document ('2 NEPHI', 1, 10), Score 0.04761241679315734
+Query 2: Document ('HELAMAN', 3, 1), Score 0.04747403531490757
+Query 2: Document ('ALMA', 7, 23), Score 0.046566338705412005
+Query 2: Document ('ALMA', 57, 6), Score 0.04655632106625395
+Query 2: Document ('HELAMAN', 16, 4), Score 0.04371114656082597
+Query 2: Document ('MORMON', 1, 2), Score 0.04314373653925978
+Query 2: Document ('MOSIAH', 4, 11), Score 0.04213626971311216
+Query 2: Document ('HELAMAN', 12, 1), Score 0.04173332870904974
+Query 2: Document ('2 NEPHI', 31, 13), Score 0.04123946718114582
+Query 2: Document ('JACOB', 2, 9), Score 0.040797358223946104
+Query 2: Document ('HELAMAN', 6, 13), Score 0.04023809064372799
+Query 2: Document ('HELAMAN', 6, 12), Score 0.039889435211287114
+Query 2: Document ('MOSIAH', 3, 5), Score 0.03858990397818195
+Query 2: Document ('HELAMAN', 12, 2), Score 0.035941341511754814
+Query 3: Document ('ALMA', 3, 25), Score 0.5264204658650395
+Query 3: Document ('ALMA', 51, 1), Score 0.48305465904295986
+Query 3: Document ('ALMA', 30, 5), Score 0.4648133316961562
+Query 3: Document ('ALMA', 45, 20), Score 0.4582212410480304
+Query 3: Document ('ETHER', 4, 17), Score 0.4434032572589948
+Query 3: Document ('ALMA', 50, 17), Score 0.4327022189291296
+Query 3: Document ('ALMA', 54, 1), Score 0.38186854732772885
+Query 3: Document ('HELAMAN', 21, 27), Score 0.3772953376589142
+Query 3: Document ('HELAMAN', 8, 26), Score 0.3670911419260256
+Query 3: Document ('ALMA', 50, 1), Score 0.3651317831816453
+Query 3: Document ('MOSIAH', 29, 44), Score 0.36364838885721906
+Query 3: Document ('1 NEPHI', 1, 4), Score 0.3587101288108291
+Query 3: Document ('ALMA', 43, 4), Score 0.35802228379172757
+Query 3: Document ('ALMA', 63, 1), Score 0.35254337064361263
+Query 3: Document ('ALMA', 4, 11), Score 0.34835070531246065
+Query 3: Document ('HELAMAN', 7, 23), Score 0.3475059757609641
+Query 3: Document ('2 NEPHI', 30, 8), Score 0.34650958480520866
+Query 3: Document ('ALMA', 51, 40), Score 0.3402648065491439
+Query 3: Document ('HELAMAN', 11, 30), Score 0.3392086988830743
+Query 3: Document ('ALMA', 56, 20), Score 0.33859207442105593
+Query 3: Document ('MORMON', 3, 17), Score 0.3364047250833525
+Query 3: Document ('ALMA', 60, 15), Score 0.32669950698872946
+Query 3: Document ('ALMA', 62, 12), Score 0.32294652647858235
+Query 3: Document ('HELAMAN', 5, 16), Score 0.3223288848306872
+Query 3: Document ('HELAMAN', 21, 28), Score 0.3221713725846694
+Query 3: Document ('HELAMAN', 21, 7), Score 0.3186010582994661
+Query 3: Document ('ALMA', 56, 1), Score 0.3181445144802525
+Query 3: Document ('HELAMAN', 6, 16), Score 0.31806530184305365
+Query 3: Document ('HELAMAN', 1, 1), Score 0.31501114935012564
+Query 3: Document ('ALMA', 50, 25), Score 0.31260744024472226
+Query 3: Document ('HELAMAN', 11, 24), Score 0.3126012966076298
+Query 3: Document ('ALMA', 20, 36), Score 0.3064373107753501
+Query 3: Document ('ALMA', 8, 3), Score 0.3048097829548812
+Query 3: Document ('2 NEPHI', 3, 13), Score 0.30294536498543406
+Query 3: Document ('ALMA', 55, 25), Score 0.3019701462422488
+Query 3: Document ('1 NEPHI', 5, 12), Score 0.2983318419924263
+Query 3: Document ('HELAMAN', 21, 26), Score 0.29457098409402993
+Query 3: Document ('ALMA', 2, 1), Score 0.29178553554974135
+Query 3: Document ('HELAMAN', 2, 17), Score 0.2797936415867696
+Query 3: Document ('ALMA', 56, 49), Score 0.27724366374907816
+Query 3: Document ('HELAMAN', 1, 4), Score 0.2770889993963497
+Query 3: Document ('1 NEPHI', 5, 13), Score 0.25293369700282764
+Query 3: Document ('ALMA', 35, 13), Score 0.24490778299177235
+Query 3: Document ('HELAMAN', 4, 5), Score 0.24156437014528112
+Query 3: Document ('1 NEPHI', 8, 22), Score 0.23752689457740545
+Query 3: Document ('1 NEPHI', 8, 23), Score 0.23542192807880896
+Query 3: Document ('ALMA', 52, 19), Score 0.2328115252163498
+Query 3: Document ('ALMA', 5, 20), Score 0.22716896298564732
+Query 3: Document ('ALMA', 57, 6), Score 0.22557905401689382
+Query 3: Document ('MOSIAH', 10, 3), Score 0.22551083680565062
+Query 3: Document ('HELAMAN', 6, 17), Score 0.22501072016001372
+Query 3: Document ('ALMA', 50, 35), Score 0.21968055407809098
+Query 3: Document ('ALMA', 30, 32), Score 0.2174846628513474
+Query 3: Document ('ALMA', 38, 2), Score 0.21486424706872267
+Query 3: Document ('ALMA', 53, 3), Score 0.20546603645146255
+Query 3: Document ('ALMA', 50, 24), Score 0.20243057338021672
+Query 3: Document ('1 NEPHI', 14, 17), Score 0.20185934048049006
+Query 3: Document ('ALMA', 63, 9), Score 0.19301589442361178
+Query 3: Document ('HELAMAN', 5, 7), Score 0.1927589932245548
+Query 3: Document ('JACOB', 7, 1), Score 0.19093194379566725
+Query 3: Document ('ALMA', 43, 24), Score 0.1907948228575254
+Query 3: Document ('2 NEPHI', 5, 28), Score 0.1896496089062341
+Query 3: Document ('MORMON', 4, 17), Score 0.18733183943010404
+Query 3: Document ('ALMA', 43, 37), Score 0.17850558354073495
+Query 3: Document ('MORMON', 2, 2), Score 0.17430861954664165
+Query 3: Document ('ALMA', 63, 14), Score 0.17309793392604939
+Query 3: Document ('MORMON', 8, 6), Score 0.17281187202962933
+Query 3: Document ('MORMON', 2, 22), Score 0.17004050497675632
+Query 3: Document ('HELAMAN', 4, 11), Score 0.16898207327160095
+Query 3: Document ('1 NEPHI', 17, 4), Score 0.16575071600004013
+Query 3: Document ('MORMON', 3, 7), Score 0.1630954662058303
+Query 3: Document ('HELAMAN', 6, 32), Score 0.16305607581666368
+Query 3: Document ('HELAMAN', 2, 34), Score 0.16303834466233136
+Query 3: Document ('ALMA', 63, 52), Score 0.1599568802248261
+Query 3: Document ('MOSIAH', 29, 45), Score 0.15945085663187158
+Query 3: Document ('ALMA', 56, 27), Score 0.1577976604023377
+Query 3: Document ('MOSIAH', 29, 46), Score 0.15707473520338733
+Query 3: Document ('HELAMAN', 7, 41), Score 0.15659106599422296
+Query 3: Document ('ALMA', 50, 16), Score 0.15647907470041642
+Query 3: Document ('MORMON', 4, 16), Score 0.15456536988668876
+Query 3: Document ('2 NEPHI', 6, 34), Score 0.1545488635480088
+Query 3: Document ('ALMA', 4, 1), Score 0.15321787415686816
+Query 3: Document ('MOSIAH', 6, 5), Score 0.15271943404363902
+Query 3: Document ('ENOS', 7, 25), Score 0.15151666523323898
+Query 3: Document ('MORONI', 9, 12), Score 0.15032089272956162
+Query 3: Document ('MORMON', 4, 1), Score 0.14997034939985016
+Query 3: Document ('ALMA', 8, 2), Score 0.14813801969864093
+Query 3: Document ('ALMA', 63, 3), Score 0.145943252376862
+Query 3: Document ('ETHER', 14, 7), Score 0.14329833560839245
+Query 3: Document ('MORMON', 3, 4), Score 0.14258413024382557
+Query 3: Document ('JAROM', 1, 13), Score 0.14013537709997048
+Query 3: Document ('ALMA', 49, 29), Score 0.13977248673842393
+Query 3: Document ('MORMON', 3, 1), Score 0.1360133901878789
+Query 3: Document ('MORMON', 6, 5), Score 0.13596224473574203
+Query 3: Document ('ALMA', 57, 5), Score 0.13587928197007929
+Query 3: Document ('ALMA', 16, 12), Score 0.13569022890683607
+Query 3: Document ('ENOS', 7, 8), Score 0.13499182299285953
+Query 3: Document ('ETHER', 15, 14), Score 0.1347684022233468
+Query 3: Document ('HELAMAN', 4, 15), Score 0.13331291444609839
+Query 3: Document ('ETHER', 14, 11), Score 0.1326454459004592
+Query 3: Document ('ALMA', 35, 12), Score 0.1317115795303113
+Query 3: Document ('HELAMAN', 11, 2), Score 0.13101781425573703
+Query 3: Document ('MORMON', 1, 6), Score 0.13073304089249668
+Query 3: Document ('MORMON', 4, 7), Score 0.13014912059341094
+Query 3: Document ('ALMA', 1, 23), Score 0.13013155494539821
+Query 3: Document ('ALMA', 63, 16), Score 0.12855697261843438
+Query 3: Document ('1 NEPHI', 19, 8), Score 0.12851281983946278
+Query 3: Document ('MORMON', 2, 20), Score 0.12843973004127268
+Query 3: Document ('ALMA', 16, 1), Score 0.12827035872686957
+Query 3: Document ('ALMA', 62, 39), Score 0.1281169090557717
+Query 3: Document ('HELAMAN', 6, 33), Score 0.1277071448456446
+Query 3: Document ('ETHER', 10, 30), Score 0.12696585501938304
+Query 3: Document ('ETHER', 10, 29), Score 0.12449370624263006
+Query 3: Document ('HELAMAN', 3, 32), Score 0.12421277029960882
+Query 3: Document ('2 NEPHI', 24, 28), Score 0.12309774414429257
+Query 3: Document ('ALMA', 1, 2), Score 0.12185615318204406
+Query 3: Document ('MORMON', 1, 11), Score 0.12134373065168932
+Query 3: Document ('ALMA', 52, 18), Score 0.12032343608355273
+Query 3: Document ('ALMA', 30, 6), Score 0.11960174832488046
+Query 3: Document ('ALMA', 58, 38), Score 0.11952299199090459
+Query 3: Document ('ALMA', 45, 2), Score 0.11825708114448943
+Query 3: Document ('MORMON', 4, 10), Score 0.11794266641141028
+Query 3: Document ('ETHER', 13, 23), Score 0.11744537711909114
+Query 3: Document ('JACOB', 1, 1), Score 0.11684624600655001
+Query 3: Document ('ETHER', 9, 25), Score 0.11623480991011295
+Query 3: Document ('ALMA', 4, 5), Score 0.11615056293257159
+Query 3: Document ('ALMA', 28, 10), Score 0.11601885595506582
+Query 3: Document ('MORONI', 10, 1), Score 0.11551755373970359
+Query 3: Document ('HELAMAN', 2, 10), Score 0.11475057693919817
+Query 3: Document ('HELAMAN', 28, 3), Score 0.11464827876976003
+Query 3: Document ('ALMA', 24, 4), Score 0.11443346488902982
+Query 3: Document ('HELAMAN', 3, 36), Score 0.11412451686315447
+Query 3: Document ('ALMA', 30, 4), Score 0.11412384519721275
+Query 3: Document ('HELAMAN', 24, 4), Score 0.1140879220437272
+Query 3: Document ('ALMA', 43, 3), Score 0.11347597956339196
+Query 3: Document ('HELAMAN', 7, 1), Score 0.11323683604727525
+Query 3: Document ('ALMA', 28, 7), Score 0.11256720371484923
+Query 3: Document ('ALMA', 56, 35), Score 0.11063616537420412
+Query 3: Document ('ETHER', 10, 15), Score 0.11006347107434866
+Query 3: Document ('ALMA', 46, 37), Score 0.10998315098435471
+Query 3: Document ('MORMON', 2, 28), Score 0.10989197338404127
+Query 3: Document ('HELAMAN', 3, 31), Score 0.10988080951326155
+Query 3: Document ('ETHER', 9, 24), Score 0.10972476069962803
+Query 3: Document ('MOSIAH', 6, 4), Score 0.10842204737793519
+Query 3: Document ('ALMA', 50, 37), Score 0.10819472538477311
+Query 3: Document ('1 NEPHI', 17, 21), Score 0.10767598949376184
+Query 3: Document ('HELAMAN', 5, 1), Score 0.10747097702021777
+Query 3: Document ('HELAMAN', 11, 21), Score 0.10720578377549941
+Query 3: Document ('HELAMAN', 11, 29), Score 0.10709723155423263
+Query 3: Document ('ALMA', 45, 24), Score 0.10610177079518067
+Query 3: Document ('MORMON', 2, 1), Score 0.10593663721340953
+Query 3: Document ('MORMON', 2, 9), Score 0.10522672671674387
+Query 3: Document ('MORMON', 1, 12), Score 0.10426169774801378
+Query 3: Document ('ETHER', 13, 24), Score 0.1036633130023687
+Query 3: Document ('ALMA', 50, 23), Score 0.10314242020112385
+Query 3: Document ('ETHER', 13, 15), Score 0.10304474354959796
+Query 3: Document ('ALMA', 43, 17), Score 0.10262811868211458
+Query 3: Document ('ALMA', 28, 9), Score 0.10250172105468756
+Query 3: Document ('ETHER', 10, 9), Score 0.10242955424366378
+Query 3: Document ('MORMON', 5, 5), Score 0.10203556723792676
+Query 3: Document ('ALMA', 63, 13), Score 0.10169406866709922
+Query 3: Document ('ALMA', 50, 15), Score 0.10125242366486177
+Query 3: Document ('MORMON', 2, 16), Score 0.10046525389299438
+Query 3: Document ('HELAMAN', 3, 1), Score 0.09962461070855945
+Query 3: Document ('MORMON', 3, 8), Score 0.09959632035338024
+Query 3: Document ('ETHER', 13, 20), Score 0.09915885337910603
+Query 3: Document ('ETHER', 10, 32), Score 0.09844947668383408
+Query 3: Document ('MORMON', 5, 6), Score 0.09834718644003661
+Query 3: Document ('ALMA', 46, 38), Score 0.09807983720073625
+Query 3: Document ('ALMA', 52, 14), Score 0.09798069467378756
+Query 3: Document ('HELAMAN', 2, 4), Score 0.09783353517644995
+Query 3: Document ('HELAMAN', 16, 13), Score 0.09755216983232831
+Query 3: Document ('HELAMAN', 2, 6), Score 0.09740278728287871
+Query 3: Document ('2 NEPHI', 25, 19), Score 0.09704886967449117
+Query 3: Document ('HELAMAN', 2, 18), Score 0.09704824064887256
+Query 3: Document ('MORMON', 2, 3), Score 0.09685996363755031
+Query 3: Document ('OMNI', 1, 5), Score 0.09677315782171836
+Query 3: Document ('ALMA', 48, 22), Score 0.09665287755957742
+Query 3: Document ('HELAMAN', 6, 14), Score 0.09620165954186016
+Query 3: Document ('HELAMAN', 13, 9), Score 0.0960904646947154
+Query 3: Document ('HELAMAN', 8, 2), Score 0.0958463940576773
+Query 3: Document ('MOSIAH', 7, 1), Score 0.0957645979533926
+Query 3: Document ('1 NEPHI', 10, 4), Score 0.09540711952101286
+Query 3: Document ('ALMA', 48, 20), Score 0.09518206130240962
+Query 3: Document ('HELAMAN', 4, 37), Score 0.09477727663175672
+Query 3: Document ('ETHER', 13, 18), Score 0.09441045837796234
+Query 3: Document ('HELAMAN', 6, 6), Score 0.09437169891712535
+Query 3: Document ('HELAMAN', 2, 16), Score 0.09421765127520536
+Query 3: Document ('HELAMAN', 16, 24), Score 0.09410603950690642
+Query 3: Document ('MOSIAH', 20, 29), Score 0.0940232179981082
+Query 3: Document ('ALMA', 63, 10), Score 0.09399535483384808
+Query 3: Document ('ALMA', 30, 2), Score 0.09336630562942784
+Query 3: Document ('JACOB', 4, 4), Score 0.09303283261716497
+Query 3: Document ('HELAMAN', 3, 24), Score 0.09301757035534658
+Query 3: Document ('HELAMAN', 12, 38), Score 0.09289677695570249
+Query 3: Document ('HELAMAN', 11, 36), Score 0.09274551587998077
+Query 3: Document ('HELAMAN', 2, 7), Score 0.09213231111904643
+Query 3: Document ('HELAMAN', 2, 5), Score 0.09205698848804728
+Query 3: Document ('HELAMAN', 2, 1), Score 0.09196467773234486
+Query 3: Document ('ETHER', 2, 14), Score 0.09181642259853182
+Query 3: Document ('ALMA', 49, 1), Score 0.09161534546206393
+Query 3: Document ('ALMA', 45, 10), Score 0.09127065620377758
+Query 3: Document ('ALMA', 17, 6), Score 0.09095936199788528
+Query 3: Document ('MORMON', 4, 15), Score 0.09056958031210419
+Query 3: Document ('MORMON', 2, 15), Score 0.09043248255035499
+Query 3: Document ('ALMA', 59, 1), Score 0.09010161226952411
+Query 3: Document ('HELAMAN', 6, 15), Score 0.08983445344191278
+Query 3: Document ('HELAMAN', 3, 19), Score 0.08906322599789587
+Query 3: Document ('MORMON', 1, 8), Score 0.088779584750853
+Query 3: Document ('HELAMAN', 3, 33), Score 0.08874735618668558
+Query 3: Document ('MOSIAH', 9, 11), Score 0.08825588531900652
+Query 3: Document ('HELAMAN', 6, 1), Score 0.08823703632093435
+Query 3: Document ('HELAMAN', 5, 26), Score 0.08778434171993488
+Query 3: Document ('ALMA', 2, 33), Score 0.0873415401924337
+Query 3: Document ('HELAMAN', 7, 13), Score 0.08706490866493036
+Query 3: Document ('HELAMAN', 16, 11), Score 0.0870495945610846
+Query 3: Document ('HELAMAN', 11, 37), Score 0.08699203359482487
+Query 3: Document ('ETHER', 9, 15), Score 0.08667120777435383
+Query 3: Document ('ALMA', 63, 6), Score 0.08648316898948269
+Query 3: Document ('HELAMAN', 2, 13), Score 0.08629497817919728
+Query 3: Document ('ALMA', 48, 21), Score 0.0856376865586625
+Query 3: Document ('ETHER', 10, 13), Score 0.08562960941016987
+Query 3: Document ('ALMA', 56, 7), Score 0.085537671005022
+Query 3: Document ('HELAMAN', 8, 5), Score 0.08551484289876672
+Query 3: Document ('HELAMAN', 6, 9), Score 0.08507518833521424
+Query 3: Document ('HELAMAN', 4, 4), Score 0.0847951980794639
+Query 3: Document ('ALMA', 63, 7), Score 0.08401865490639843
+Query 3: Document ('ALMA', 19, 16), Score 0.08399035156863474
+Query 3: Document ('ALMA', 53, 7), Score 0.08389592459549707
+Query 3: Document ('HELAMAN', 6, 4), Score 0.08389491120320233
+Query 3: Document ('HELAMAN', 3, 22), Score 0.08362904209929269
+Query 3: Document ('ETHER', 9, 16), Score 0.08357675298425792
+Query 3: Document ('ALMA', 63, 4), Score 0.08319296438903008
+Query 3: Document ('ETHER', 9, 22), Score 0.08301571445206372
+Query 3: Document ('ALMA', 52, 1), Score 0.08283483633913508
+Query 3: Document ('ALMA', 4, 10), Score 0.08271586498457587
+Query 3: Document ('HELAMAN', 4, 17), Score 0.08249585703493627
+Query 3: Document ('MOSIAH', 10, 18), Score 0.08214372567583703
+Query 3: Document ('HELAMAN', 4, 1), Score 0.08200854331805293
+Query 3: Document ('JAROM', 1, 5), Score 0.0814081715513401
+Query 3: Document ('ALMA', 54, 23), Score 0.08127363693290798
+Query 3: Document ('HELAMAN', 11, 23), Score 0.08120775359021534
+Query 3: Document ('HELAMAN', 14, 2), Score 0.08111479816549086
+Query 3: Document ('ALMA', 16, 19), Score 0.08088378411951948
+Query 3: Document ('MOSIAH', 12, 1), Score 0.08086534978121075
+Query 3: Document ('ALMA', 63, 15), Score 0.08084189623035526
+Query 3: Document ('HELAMAN', 1, 18), Score 0.08004956693382953
+Query 3: Document ('ETHER', 11, 15), Score 0.07971495771229736
+Query 3: Document ('MORMON', 1, 15), Score 0.0796434562157502
+Query 3: Document ('HELAMAN', 7, 8), Score 0.07955797938547671
+Query 3: Document ('ALMA', 16, 9), Score 0.07944362152085822
+Query 3: Document ('ETHER', 10, 8), Score 0.07931658564012851
+Query 3: Document ('ALMA', 62, 11), Score 0.0784057901360021
+Query 3: Document ('HELAMAN', 13, 2), Score 0.07835305782548185
+Query 3: Document ('HELAMAN', 10, 18), Score 0.07794648405001348
+Query 3: Document ('HELAMAN', 11, 17), Score 0.07746765187566063
+Query 3: Document ('ETHER', 2, 13), Score 0.07744434603441941
+Query 3: Document ('HELAMAN', 3, 18), Score 0.07727320219734708
+Query 3: Document ('ALMA', 48, 2), Score 0.0770992353699851
+Query 3: Document ('ALMA', 4, 27), Score 0.07686754896707387
+Query 3: Document ('ALMA', 13, 7), Score 0.07683054434450946
+Query 3: Document ('HELAMAN', 1, 28), Score 0.07672943155531456
+Query 3: Document ('HELAMAN', 16, 14), Score 0.07659657877662124
+Query 3: Document ('ALMA', 51, 12), Score 0.0765942403395883
+Query 3: Document ('ALMA', 52, 15), Score 0.07648158956660517
+Query 3: Document ('ETHER', 14, 3), Score 0.07625849192674741
+Query 3: Document ('ETHER', 9, 12), Score 0.07618396939396045
+Query 3: Document ('ALMA', 14, 23), Score 0.0760546766034901
+Query 3: Document ('ALMA', 10, 6), Score 0.07601763153215234
+Query 3: Document ('MOSIAH', 19, 15), Score 0.07566816431820177
+Query 3: Document ('ALMA', 13, 9), Score 0.07561565274385403
+Query 3: Document ('OMNI', 1, 3), Score 0.07518803308629513
+Query 3: Document ('HELAMAN', 4, 8), Score 0.07515505596430173
+Query 3: Document ('1 NEPHI', 18, 17), Score 0.07434531182942809
+Query 3: Document ('2 NEPHI', 16, 1), Score 0.07414734949151122
+Query 3: Document ('HELAMAN', 11, 1), Score 0.07410646731586633
+Query 3: Document ('ETHER', 14, 31), Score 0.07398160088969727
+Query 3: Document ('HELAMAN', 1, 26), Score 0.0738968360206249
+Query 3: Document ('HELAMAN', 13, 1), Score 0.07378475224044832
+Query 3: Document ('HELAMAN', 6, 19), Score 0.07375950405103625
+Query 3: Document ('HELAMAN', 11, 26), Score 0.07368251536665286
+Query 3: Document ('ALMA', 1, 1), Score 0.07367640010988546
+Query 3: Document ('HELAMAN', 6, 10), Score 0.07323619819433747
+Query 3: Document ('HELAMAN', 4, 18), Score 0.07253085420107629
+Query 3: Document ('ETHER', 7, 4), Score 0.07186225757444699
+Query 3: Document ('ALMA', 17, 4), Score 0.07168227719591323
+Query 3: Document ('HELAMAN', 4, 6), Score 0.07139750086138552
+Query 3: Document ('HELAMAN', 4, 9), Score 0.07113603038703298
+Query 3: Document ('HELAMAN', 11, 35), Score 0.07104921746070354
+Query 3: Document ('ALMA', 4, 9), Score 0.07103223222600182
+Query 3: Document ('HELAMAN', 4, 10), Score 0.07084472527073225
+Query 3: Document ('HELAMAN', 3, 23), Score 0.07000906974841933
+Query 3: Document ('HELAMAN', 1, 14), Score 0.06965981012522243
+Query 3: Document ('HELAMAN', 11, 32), Score 0.06926096256191847
+Query 3: Document ('HELAMAN', 2, 8), Score 0.06887389014064534
+Query 3: Document ('2 NEPHI', 17, 8), Score 0.0688579803059246
+Query 3: Document ('HELAMAN', 11, 3), Score 0.06874380816441769
+Query 3: Document ('HELAMAN', 7, 21), Score 0.06825934960628699
+Query 3: Document ('ALMA', 56, 9), Score 0.06824674532098714
+Query 3: Document ('HELAMAN', 19, 31), Score 0.06813503792289533
+Query 3: Document ('ALMA', 52, 37), Score 0.06797585587174675
+Query 3: Document ('HELAMAN', 3, 2), Score 0.06739482092142912
+Query 3: Document ('ALMA', 1, 9), Score 0.06693562653334924
+Query 3: Document ('HELAMAN', 11, 22), Score 0.06686683796649413
+Query 3: Document ('HELAMAN', 26, 20), Score 0.06649521616205406
+Query 3: Document ('MORMON', 1, 3), Score 0.06489073678322989
+Query 3: Document ('MOSIAH', 9, 14), Score 0.06461125421774237
+Query 3: Document ('HELAMAN', 11, 6), Score 0.06442036665956449
+Query 3: Document ('MOSIAH', 7, 7), Score 0.0643484601387319
+Query 3: Document ('ALMA', 17, 21), Score 0.06405306312507325
+Query 3: Document ('HELAMAN', 2, 11), Score 0.06364813397331957
+Query 3: Document ('HELAMAN', 16, 12), Score 0.06323355839676065
+Query 3: Document ('ALMA', 4, 6), Score 0.06299406708188474
+Query 3: Document ('MOSIAH', 10, 5), Score 0.06272725717436996
+Query 3: Document ('JACOB', 1, 12), Score 0.06266511067816789
+Query 3: Document ('HELAMAN', 17, 11), Score 0.06264297093217863
+Query 3: Document ('JACOB', 7, 7), Score 0.062110199495257826
+Query 3: Document ('ETHER', 3, 3), Score 0.06209892737026363
+Query 3: Document ('1 NEPHI', 15, 13), Score 0.06207413394677104
+Query 3: Document ('HELAMAN', 16, 9), Score 0.061823861888432474
+Query 3: Document ('HELAMAN', 13, 5), Score 0.06123714394756802
+Query 3: Document ('ALMA', 3, 26), Score 0.060267006786739644
+Query 3: Document ('HELAMAN', 1, 29), Score 0.059977141524835235
+Query 3: Document ('HELAMAN', 1, 27), Score 0.059969808757590004
+Query 3: Document ('1 NEPHI', 14, 18), Score 0.05986726365819549
+Query 3: Document ('HELAMAN', 1, 25), Score 0.05957897136786386
+Query 3: Document ('HELAMAN', 7, 16), Score 0.05888099728521275
+Query 3: Document ('HELAMAN', 6, 13), Score 0.058524382146024796
+Query 3: Document ('1 NEPHI', 17, 20), Score 0.058469273963966235
+Query 3: Document ('HELAMAN', 11, 5), Score 0.058136509082931144
+Query 3: Document ('HELAMAN', 11, 19), Score 0.05800420159345057
+Query 3: Document ('HELAMAN', 7, 14), Score 0.05785484883097251
+Query 3: Document ('HELAMAN', 7, 6), Score 0.057634155590780826
+Query 3: Document ('ALMA', 16, 11), Score 0.056374902906471236
+Query 3: Document ('HELAMAN', 2, 12), Score 0.056348783686664905
+Query 3: Document ('ALMA', 46, 40), Score 0.05586945826714927
+Query 3: Document ('HELAMAN', 23, 7), Score 0.05586888326479651
+Query 3: Document ('OMNI', 1, 2), Score 0.055720981493564976
+Query 3: Document ('2 NEPHI', 17, 7), Score 0.05569214011172676
+Query 3: Document ('1 NEPHI', 22, 26), Score 0.055682147190710275
+Query 3: Document ('ALMA', 62, 46), Score 0.05541771549982807
+Query 3: Document ('2 NEPHI', 5, 18), Score 0.05441161319492516
+Query 3: Document ('ETHER', 13, 9), Score 0.05400982534262443
+Query 3: Document ('HELAMAN', 5, 8), Score 0.05367653125973341
+Query 3: Document ('HELAMAN', 1, 13), Score 0.053629870078104755
+Query 3: Document ('HELAMAN', 23, 12), Score 0.05336338926516615
+Query 3: Document ('ALMA', 62, 28), Score 0.05263094474658728
+Query 3: Document ('MOSIAH', 26, 34), Score 0.05256726907502865
+Query 3: Document ('HELAMAN', 8, 18), Score 0.052532983660733085
+Query 3: Document ('HELAMAN', 19, 11), Score 0.05240178999226674
+Query 3: Document ('1 NEPHI', 7, 3), Score 0.05230738117512336
+Query 3: Document ('ALMA', 19, 25), Score 0.051993117556228395
+Query 3: Document ('1 NEPHI', 12, 13), Score 0.05128741219136884
+Query 3: Document ('ALMA', 35, 7), Score 0.0509141357567942
+Query 3: Document ('JACOB', 7, 20), Score 0.05061106087391693
+Query 3: Document ('2 NEPHI', 27, 24), Score 0.05033588526382779
+Query 3: Document ('1 NEPHI', 8, 16), Score 0.05032360200436324
+Query 3: Document ('1 NEPHI', 8, 18), Score 0.05032360200436324
+Query 3: Document ('ETHER', 2, 21), Score 0.05032068675652836
+Query 3: Document ('HELAMAN', 20, 21), Score 0.04874831361835985
+Query 3: Document ('ALMA', 3, 21), Score 0.04816577446842515
+Query 3: Document ('MORMON', 6, 3), Score 0.0481391808021036
+Query 3: Document ('HELAMAN', 4, 16), Score 0.04769889732985866
+Query 3: Document ('HELAMAN', 23, 13), Score 0.04740659433613642
+Query 3: Document ('ALMA', 27, 11), Score 0.047385178020167396
+Query 3: Document ('ALMA', 9, 33), Score 0.04669986445178631
+Query 3: Document ('2 NEPHI', 5, 1), Score 0.04564072937432524
+Query 3: Document ('ALMA', 27, 13), Score 0.04539158844569206
+Query 3: Document ('ETHER', 6, 29), Score 0.04498702036476172
+Query 3: Document ('1 NEPHI', 1, 12), Score 0.04417550443523577
+Query 3: Document ('ETHER', 14, 19), Score 0.04416043082604519
+Query 3: Document ('1 NEPHI', 11, 12), Score 0.04394867276312112
+Query 3: Document ('1 NEPHI', 5, 20), Score 0.04389684897931418
+Query 3: Document ('ALMA', 56, 32), Score 0.04359374516159531
+Query 3: Document ('HELAMAN', 6, 52), Score 0.04351749893281999
+Query 3: Document ('ALMA', 23, 17), Score 0.04346501577179415
+Query 3: Document ('MOSIAH', 10, 10), Score 0.04339581060861108
+Query 3: Document ('2 NEPHI', 5, 27), Score 0.043373938270848345
+Query 3: Document ('MOSIAH', 28, 5), Score 0.04336538000025868
+Query 3: Document ('ALMA', 5, 1), Score 0.04330144344965182
+Query 3: Document ('MOSIAH', 22, 9), Score 0.04324662936637494
+Query 3: Document ('MOSIAH', 26, 14), Score 0.04304198904617588
+Query 3: Document ('1 NEPHI', 17, 31), Score 0.042455187427016594
+Query 3: Document ('MOSIAH', 6, 2), Score 0.04168102869277641
+Query 3: Document ('JACOB', 5, 15), Score 0.04164140360059829
+Query 3: Document ('MORMON', 2, 7), Score 0.04143498844017036
+Query 3: Document ('1 NEPHI', 4, 12), Score 0.04137171363580727
+Query 3: Document ('1 NEPHI', 3, 1), Score 0.04133479664021381
+Query 3: Document ('ETHER', 14, 29), Score 0.04125663332106976
+Query 3: Document ('ALMA', 19, 3), Score 0.0412056269308751
+Query 3: Document ('1 NEPHI', 2, 3), Score 0.04111508924198034
+Query 3: Document ('ETHER', 6, 13), Score 0.041100311938217615
+Query 3: Document ('HELAMAN', 16, 10), Score 0.04108867076219372
+Query 3: Document ('MOSIAH', 27, 17), Score 0.04101005261789437
+Query 3: Document ('MORMON', 1, 2), Score 0.0407205656220342
+Query 3: Document ('MORMON', 4, 6), Score 0.04030480154151104
+Query 3: Document ('ETHER', 6, 22), Score 0.04000207739893384
+Query 3: Document ('MOSIAH', 19, 25), Score 0.039879487498155494
+Query 3: Document ('HELAMAN', 2, 14), Score 0.03984533311290764
+Query 3: Document ('ALMA', 46, 1), Score 0.03967568474180265
+Query 3: Document ('ETHER', 15, 32), Score 0.03951873893609163
+Query 3: Document ('ETHER', 13, 12), Score 0.0393871434641118
+Query 3: Document ('ALMA', 19, 35), Score 0.03931038561569509
+Query 3: Document ('1 NEPHI', 12, 3), Score 0.03903842459593842
+Query 3: Document ('HELAMAN', 28, 1), Score 0.03891858747911483
+Query 3: Document ('2 NEPHI', 28, 3), Score 0.03883775106704693
+Query 3: Document ('JACOB', 5, 70), Score 0.03878799659545795
+Query 3: Document ('ALMA', 2, 7), Score 0.038785152297923224
+Query 3: Document ('1 NEPHI', 13, 11), Score 0.038706090360805086
+Query 3: Document ('ALMA', 43, 1), Score 0.038198464167583386
+Query 3: Document ('ETHER', 6, 21), Score 0.038047249490634746
+Query 3: Document ('1 NEPHI', 16, 4), Score 0.03801550278084047
+Query 3: Document ('1 NEPHI', 3, 10), Score 0.03789247611527074
+Query 3: Document ('ETHER', 9, 32), Score 0.03786405088762576
+Query 3: Document ('1 NEPHI', 7, 7), Score 0.03784160562691089
+Query 3: Document ('1 NEPHI', 15, 2), Score 0.03767072868555037
+Query 3: Document ('1 NEPHI', 12, 12), Score 0.03754271261392063
+Query 3: Document ('ALMA', 10, 30), Score 0.037397210379163125
+Query 3: Document ('2 NEPHI', 26, 2), Score 0.037377558303831104
+Query 3: Document ('ETHER', 10, 18), Score 0.03718743230737941
+Query 3: Document ('ALMA', 18, 40), Score 0.036963173362635986
+Query 3: Document ('2 NEPHI', 5, 13), Score 0.03694193096161026
+Query 3: Document ('1 NEPHI', 16, 26), Score 0.03693804378399849
+Query 3: Document ('MOSIAH', 23, 24), Score 0.036902339246742626
+Query 3: Document ('ALMA', 9, 3), Score 0.03688939468944413
+Query 3: Document ('ALMA', 8, 8), Score 0.036616928656264994
+Query 3: Document ('MOSIAH', 12, 20), Score 0.0366037822328584
+Query 3: Document ('MOSIAH', 24, 10), Score 0.036505432374090874
+Query 3: Document ('MOSIAH', 12, 18), Score 0.036501905415655234
+Query 3: Document ('1 NEPHI', 15, 1), Score 0.036467277082425704
+Query 3: Document ('JACOB', 5, 16), Score 0.0363630855285227
+Query 3: Document ('MOSIAH', 24, 24), Score 0.036128353178474806
+Query 3: Document ('JACOB', 7, 15), Score 0.036083404190372155
+Query 3: Document ('ALMA', 56, 41), Score 0.03608233384962579
+Query 3: Document ('MOSIAH', 18, 6), Score 0.035997073256871154
+Query 3: Document ('ALMA', 12, 19), Score 0.035971239362075955
+Query 3: Document ('ALMA', 16, 4), Score 0.035868367597938454
+Query 3: Document ('1 NEPHI', 15, 19), Score 0.035848931171849174
+Query 3: Document ('ETHER', 7, 12), Score 0.03562184161328552
+Query 3: Document ('MOSIAH', 29, 37), Score 0.03548787427952043
+Query 3: Document ('1 NEPHI', 18, 5), Score 0.03542320935860974
+Query 3: Document ('2 NEPHI', 5, 17), Score 0.035395718490998436
+Query 3: Document ('ALMA', 8, 5), Score 0.03534741400530687
+Query 3: Document ('ETHER', 12, 5), Score 0.03528866479079303
+Query 3: Document ('MOSIAH', 19, 1), Score 0.0352650359130682
+Query 3: Document ('1 NEPHI', 11, 29), Score 0.0351075201626871
+Query 3: Document ('HELAMAN', 18, 17), Score 0.03502142185186808
+Query 3: Document ('2 NEPHI', 26, 9), Score 0.03494097600935654
+Query 3: Document ('ALMA', 17, 10), Score 0.03490022906133318
+Query 3: Document ('HELAMAN', 11, 9), Score 0.034894205752168034
+Query 3: Document ('ETHER', 1, 40), Score 0.0348532484525831
+Query 3: Document ('1 NEPHI', 13, 16), Score 0.034798634155893196
+Query 3: Document ('HELAMAN', 9, 37), Score 0.03464634702610897
+Query 3: Document ('ETHER', 12, 1), Score 0.03459332457684057
+Query 3: Document ('MOSIAH', 23, 19), Score 0.03453945618025182
+Query 3: Document ('ALMA', 47, 31), Score 0.03451939390285367
+Query 3: Document ('MOSIAH', 29, 41), Score 0.03442485934402926
+Query 3: Document ('ETHER', 15, 12), Score 0.03433757956873527
+Query 3: Document ('ALMA', 47, 28), Score 0.03424006239175103
+Query 3: Document ('ALMA', 2, 9), Score 0.034218427970615334
+Query 3: Document ('ALMA', 46, 32), Score 0.03421277272267058
+Query 3: Document ('ALMA', 62, 16), Score 0.03416092883854181
+Query 3: Document ('HELAMAN', 19, 19), Score 0.03403564738974086
+Query 3: Document ('ETHER', 1, 39), Score 0.03401943556812789
+Query 3: Document ('1 NEPHI', 15, 6), Score 0.03399806269910026
+Query 3: Document ('MOSIAH', 5, 1), Score 0.0339223037131153
+Query 3: Document ('MOSIAH', 19, 10), Score 0.03384084783248505
+Query 3: Document ('MOSIAH', 26, 33), Score 0.033822778159009186
+Query 3: Document ('MOSIAH', 17, 16), Score 0.033716774134270815
+Query 3: Document ('HELAMAN', 9, 1), Score 0.03369605856240909
+Query 3: Document ('ALMA', 27, 15), Score 0.033684430566749815
+Query 3: Document ('ALMA', 56, 36), Score 0.03365229500507037
+Query 3: Document ('MOSIAH', 28, 8), Score 0.03362968442343795
+Query 3: Document ('HELAMAN', 20, 30), Score 0.033597815915438096
+Query 3: Document ('1 NEPHI', 8, 6), Score 0.033567498416437386
+Query 3: Document ('MOSIAH', 19, 27), Score 0.03345398817072061
+Query 3: Document ('ALMA', 18, 8), Score 0.03342769221471063
+Query 3: Document ('MORMON', 3, 5), Score 0.033408489685387475
+Query 3: Document ('1 NEPHI', 13, 20), Score 0.03337312832810075
+Query 3: Document ('1 NEPHI', 8, 10), Score 0.03334732146324036
+Query 3: Document ('MORMON', 6, 1), Score 0.033297051122747494
+Query 3: Document ('JACOB', 5, 28), Score 0.033279236807909215
+Query 3: Document ('ALMA', 48, 6), Score 0.03317360710706984
+Query 3: Document ('ALMA', 18, 15), Score 0.03311459844617355
+Query 3: Document ('ALMA', 9, 31), Score 0.0330880462669253
+Query 3: Document ('MORMON', 3, 2), Score 0.03306518333653811
+Query 3: Document ('MORMON', 1, 10), Score 0.03305319354708626
+Query 3: Document ('1 NEPHI', 3, 8), Score 0.032928891460605424
+Query 3: Document ('HELAMAN', 28, 16), Score 0.03280768180668893
+Query 3: Document ('2 NEPHI', 9, 15), Score 0.03279594537493269
+Query 3: Document ('ALMA', 45, 15), Score 0.03256450603239032
+Query 3: Document ('ALMA', 62, 27), Score 0.03250442468342186
+Query 3: Document ('MOSIAH', 29, 2), Score 0.03249503284418242
+Query 3: Document ('ALMA', 17, 12), Score 0.03249413397056599
+Query 3: Document ('2 NEPHI', 27, 6), Score 0.03247743589793351
+Query 3: Document ('1 NEPHI', 16, 22), Score 0.0324757617094677
+Query 3: Document ('1 NEPHI', 13, 13), Score 0.032445745147213684
+Query 3: Document ('1 NEPHI', 16, 12), Score 0.03237172879927365
+Query 3: Document ('ALMA', 9, 2), Score 0.032323247086046496
+Query 3: Document ('MOSIAH', 24, 18), Score 0.03228272711976882
+Query 3: Document ('ALMA', 8, 28), Score 0.0322569947634765
+Query 3: Document ('1 NEPHI', 19, 22), Score 0.032175230381652195
+Query 3: Document ('ETHER', 8, 6), Score 0.032157395426251005
+Query 3: Document ('MOSIAH', 25, 23), Score 0.03206125147373096
+Query 3: Document ('ETHER', 11, 19), Score 0.03205092426637612
+Query 3: Document ('2 NEPHI', 26, 19), Score 0.03203166596289904
+Query 3: Document ('MOSIAH', 21, 1), Score 0.03202806556362264
+Query 3: Document ('ALMA', 55, 5), Score 0.032020655741130985
+Query 3: Document ('JACOB', 5, 41), Score 0.0320160042169208
+Query 3: Document ('1 NEPHI', 4, 29), Score 0.03199833029698425
+Query 3: Document ('JACOB', 7, 16), Score 0.03192921922890949
+Query 3: Document ('1 NEPHI', 13, 4), Score 0.031925485110367684
+Query 3: Document ('MOSIAH', 21, 22), Score 0.03191290177552183
+Query 3: Document ('1 NEPHI', 13, 1), Score 0.031770609190318946
+Query 3: Document ('2 NEPHI', 5, 5), Score 0.03166215003412981
+Query 3: Document ('ETHER', 12, 36), Score 0.03165331564394944
+Query 3: Document ('JACOB', 5, 5), Score 0.03164887004326946
+Query 3: Document ('MORMON', 7, 6), Score 0.03158104445408204
+Query 3: Document ('MOSIAH', 5, 9), Score 0.03157408887877035
+Query 3: Document ('ALMA', 1, 11), Score 0.03152955517468028
+Query 3: Document ('ALMA', 14, 1), Score 0.031505587620188076
+Query 3: Document ('MOSIAH', 25, 14), Score 0.031493980485761804
+Query 3: Document ('1 NEPHI', 2, 2), Score 0.03133957078137784
+Query 3: Document ('ETHER', 11, 16), Score 0.03132764596996498
+Query 3: Document ('MORMON', 4, 13), Score 0.031308428905240646
+Query 3: Document ('ALMA', 49, 28), Score 0.03129770963842754
+Query 3: Document ('1 NEPHI', 3, 22), Score 0.031227631175583515
+Query 3: Document ('MOSIAH', 19, 11), Score 0.0311762193433894
+Query 3: Document ('MOSIAH', 14, 35), Score 0.03116147064147132
+Query 3: Document ('1 NEPHI', 12, 5), Score 0.031113251665757492
+Query 3: Document ('OMNI', 1, 19), Score 0.031068787291561886
+Query 3: Document ('ALMA', 1, 5), Score 0.031062713859255454
+Query 3: Document ('MORMON', 6, 8), Score 0.031033431050205673
+Query 3: Document ('1 NEPHI', 1, 5), Score 0.03099923742405396
+Query 3: Document ('2 NEPHI', 28, 1), Score 0.0309762316206462
+Query 3: Document ('HELAMAN', 19, 17), Score 0.030887791620346217
+Query 3: Document ('HELAMAN', 19, 7), Score 0.030875102589653574
+Query 3: Document ('HELAMAN', 17, 1), Score 0.030835669500443023
+Query 3: Document ('1 NEPHI', 13, 6), Score 0.030815198034554254
+Query 3: Document ('2 NEPHI', 9, 22), Score 0.03077336070115647
+Query 3: Document ('HELAMAN', 18, 26), Score 0.03073432582507479
+Query 3: Document ('HELAMAN', 21, 8), Score 0.030701615839279318
+Query 3: Document ('ETHER', 11, 17), Score 0.030698764045259702
+Query 3: Document ('HELAMAN', 17, 19), Score 0.030686003169436572
+Query 3: Document ('1 NEPHI', 11, 9), Score 0.03056313215879759
+Query 3: Document ('ENOS', 7, 19), Score 0.03048966061438378
+Query 3: Document ('ETHER', 4, 28), Score 0.0304596149970825
+Query 3: Document ('HELAMAN', 5, 37), Score 0.030432748607338116
+Query 3: Document ('ALMA', 20, 1), Score 0.03040748400535642
+Query 3: Document ('MOSIAH', 21, 2), Score 0.030377280970631467
+Query 3: Document ('ALMA', 62, 31), Score 0.03031431946350672
+Query 3: Document ('HELAMAN', 18, 1), Score 0.03020724098286224
+Query 3: Document ('ALMA', 58, 20), Score 0.030200544744425142
+Query 3: Document ('HELAMAN', 18, 9), Score 0.030199288622499248
+Query 3: Document ('1 NEPHI', 4, 37), Score 0.030198937225498684
+Query 3: Document ('ALMA', 55, 14), Score 0.030112619426229673
+Query 3: Document ('1 NEPHI', 12, 20), Score 0.030096669756882296
+Query 3: Document ('ALMA', 14, 4), Score 0.030077776938458596
+Query 3: Document ('ALMA', 6, 2), Score 0.03007728017282652
+Query 3: Document ('OMNI', 1, 29), Score 0.030009694356170447
+Query 3: Document ('1 NEPHI', 11, 19), Score 0.030008820056691303
+Query 3: Document ('MOSIAH', 11, 23), Score 0.02992135344052684
+Query 3: Document ('MORMON', 2, 25), Score 0.029889938240481848
+Query 3: Document ('ENOS', 7, 12), Score 0.029866530500858936
+Query 3: Document ('HELAMAN', 10, 3), Score 0.02984316839859476
+Query 3: Document ('MOSIAH', 10, 20), Score 0.029739009378782863
+Query 3: Document ('2 NEPHI', 4, 12), Score 0.02973535501487952
+Query 3: Document ('1 NEPHI', 16, 9), Score 0.029626756467967287
+Query 3: Document ('MOSIAH', 9, 5), Score 0.029614660887488625
+Query 3: Document ('1 NEPHI', 17, 7), Score 0.029570898074306334
+Query 3: Document ('MOSIAH', 22, 14), Score 0.02953698596104336
+Query 3: Document ('JACOB', 5, 39), Score 0.029514962227373282
+Query 3: Document ('ETHER', 9, 33), Score 0.02950078144831807
+Query 3: Document ('ETHER', 7, 24), Score 0.029483144041344427
+Query 3: Document ('HELAMAN', 21, 20), Score 0.02948046202565423
+Query 3: Document ('2 NEPHI', 27, 19), Score 0.029454441244241764
+Query 3: Document ('MOSIAH', 20, 9), Score 0.02930912320081365
+Query 3: Document ('ETHER', 13, 19), Score 0.029295880709401877
+Query 3: Document ('1 NEPHI', 16, 24), Score 0.02928351463276399
+Query 3: Document ('ALMA', 63, 8), Score 0.02922373733956754
+Query 3: Document ('ETHER', 7, 14), Score 0.029181041145001595
+Query 3: Document ('MOSIAH', 5, 10), Score 0.029172606761377066
+Query 3: Document ('ETHER', 15, 20), Score 0.02914559480700621
+Query 3: Document ('ALMA', 47, 11), Score 0.029059159816429793
+Query 3: Document ('ALMA', 31, 19), Score 0.029053540065717677
+Query 3: Document ('1 NEPHI', 13, 10), Score 0.029027006728979638
+Query 3: Document ('MORMON', 6, 10), Score 0.029017980898544612
+Query 3: Document ('ETHER', 6, 26), Score 0.029005151129663773
+Query 3: Document ('MOSIAH', 20, 25), Score 0.029003629664581348
+Query 3: Document ('HELAMAN', 20, 1), Score 0.02899360030809978
+Query 3: Document ('ALMA', 51, 28), Score 0.02897643070691232
+Query 3: Document ('1 NEPHI', 16, 32), Score 0.028959833334528517
+Query 3: Document ('MOSIAH', 9, 13), Score 0.028958416918075224
+Query 3: Document ('MOSIAH', 19, 18), Score 0.02891643190016535
+Query 3: Document ('JACOB', 5, 10), Score 0.028898416232667125
+Query 3: Document ('ALMA', 1, 19), Score 0.0288945893973392
+Query 3: Document ('ALMA', 52, 7), Score 0.028846596216809253
+Query 3: Document ('1 NEPHI', 7, 2), Score 0.028841083551577752
+Query 3: Document ('HELAMAN', 23, 6), Score 0.028825843153033028
+Query 3: Document ('HELAMAN', 19, 13), Score 0.028791476158117658
+Query 3: Document ('ALMA', 43, 49), Score 0.02878689893661092
+Query 3: Document ('1 NEPHI', 11, 14), Score 0.02877953054136703
+Query 3: Document ('ETHER', 14, 9), Score 0.028758537242162308
+Query 3: Document ('HELAMAN', 5, 46), Score 0.028731524306531267
+Query 3: Document ('2 NEPHI', 4, 10), Score 0.02872619745844509
+Query 3: Document ('ALMA', 47, 20), Score 0.028705841598415376
+Query 3: Document ('MOSIAH', 26, 9), Score 0.028694492966289235
+Query 3: Document ('ETHER', 11, 2), Score 0.0286793611324824
+Query 3: Document ('ALMA', 62, 18), Score 0.028671969278634135
+Query 3: Document ('ALMA', 20, 11), Score 0.02857259956339374
+Query 3: Document ('ALMA', 27, 16), Score 0.02849068969882197
+Query 3: Document ('1 NEPHI', 7, 18), Score 0.02847380017757843
+Query 3: Document ('2 NEPHI', 5, 26), Score 0.028468463021948665
+Query 3: Document ('ALMA', 2, 26), Score 0.028467942607468346
+Query 3: Document ('ALMA', 15, 6), Score 0.02844755307765148
+Query 3: Document ('1 NEPHI', 12, 15), Score 0.028405321624198905
+Query 3: Document ('1 NEPHI', 3, 21), Score 0.028403106146753617
+Query 3: Document ('1 NEPHI', 8, 7), Score 0.02839284586909122
+Query 3: Document ('ALMA', 56, 24), Score 0.028384591363242263
+Query 3: Document ('ALMA', 52, 4), Score 0.028367945002717863
+Query 3: Document ('MOSIAH', 26, 7), Score 0.028320673041681836
+Query 3: Document ('1 NEPHI', 17, 54), Score 0.028319364030951488
+Query 3: Document ('MOSIAH', 11, 26), Score 0.028300324492277484
+Query 3: Document ('ALMA', 3, 9), Score 0.028295443034062007
+Query 3: Document ('ALMA', 18, 1), Score 0.02826820013877117
+Query 3: Document ('ALMA', 58, 30), Score 0.028152859582879636
+Query 3: Document ('2 NEPHI', 14, 3), Score 0.028104531610220824
+Query 3: Document ('1 NEPHI', 16, 1), Score 0.02806075749510696
+Query 3: Document ('MOSIAH', 20, 2), Score 0.028023668262096187
+Query 3: Document ('1 NEPHI', 14, 9), Score 0.027956642600792104
+Query 3: Document ('1 NEPHI', 15, 21), Score 0.027829404136440687
+Query 3: Document ('JAROM', 1, 10), Score 0.0278233875384834
+Query 3: Document ('MOSIAH', 22, 15), Score 0.027818899819218635
+Query 3: Document ('ETHER', 6, 27), Score 0.02781041093006127
+Query 3: Document ('ALMA', 20, 3), Score 0.027797041506238306
+Query 3: Document ('MOSIAH', 21, 8), Score 0.027776500723811687
+Query 3: Document ('ALMA', 58, 18), Score 0.027760235685724867
+Query 3: Document ('1 NEPHI', 8, 9), Score 0.027732686401696224
+Query 3: Document ('MOSIAH', 9, 15), Score 0.027709877898093774
+Query 3: Document ('ETHER', 14, 10), Score 0.02770655202304315
+Query 3: Document ('HELAMAN', 20, 10), Score 0.027703716390979915
+Query 3: Document ('1 NEPHI', 17, 23), Score 0.027680711347160027
+Query 3: Document ('ALMA', 49, 9), Score 0.02761979901864584
+Query 3: Document ('HELAMAN', 19, 15), Score 0.02761054337680997
+Query 3: Document ('MOSIAH', 26, 25), Score 0.027609640826144727
+Query 3: Document ('ETHER', 11, 13), Score 0.027598685827343962
+Query 3: Document ('ETHER', 9, 27), Score 0.027595888312284902
+Query 3: Document ('ALMA', 21, 18), Score 0.02753814381119083
+Query 3: Document ('ALMA', 51, 23), Score 0.027532654488890685
+Query 3: Document ('JACOB', 5, 55), Score 0.027512523244982007
+Query 3: Document ('MOSIAH', 13, 25), Score 0.027495539823905735
+Query 3: Document ('MOSIAH', 11, 24), Score 0.027472550369439436
+Query 3: Document ('1 NEPHI', 14, 8), Score 0.027445244854971688
+Query 3: Document ('2 NEPHI', 24, 24), Score 0.027444786386918302
+Query 3: Document ('1 NEPHI', 4, 32), Score 0.02743081251697513
+Query 3: Document ('HELAMAN', 14, 1), Score 0.027428559319372957
+Query 3: Document ('1 NEPHI', 2, 17), Score 0.027424469833831795
+Query 3: Document ('MORMON', 2, 21), Score 0.0274184400602543
+Query 3: Document ('1 NEPHI', 3, 2), Score 0.0273653086050656
+Query 3: Document ('ALMA', 10, 34), Score 0.027329537594141338
+Query 3: Document ('MOSIAH', 25, 17), Score 0.0272955390459854
+Query 3: Document ('HELAMAN', 5, 40), Score 0.027270673836018323
+Query 3: Document ('ALMA', 58, 23), Score 0.02723882123089094
+Query 3: Document ('ALMA', 58, 28), Score 0.02723722840492922
+Query 3: Document ('ALMA', 50, 34), Score 0.02723113219498839
+Query 3: Document ('HELAMAN', 1, 33), Score 0.027227133025963638
+Query 3: Document ('ETHER', 14, 13), Score 0.027199626280242188
+Query 3: Document ('1 NEPHI', 7, 20), Score 0.027193667852097717
+Query 3: Document ('ALMA', 9, 1), Score 0.02717500378808059
+Query 3: Document ('MOSIAH', 23, 36), Score 0.027171671727342816
+Query 3: Document ('1 NEPHI', 8, 1), Score 0.027110711374087833
+Query 3: Document ('ALMA', 24, 20), Score 0.027093889903570006
+Query 3: Document ('ALMA', 43, 34), Score 0.02706240405308163
+Query 3: Document ('ALMA', 30, 1), Score 0.027060535008002467
+Query 3: Document ('1 NEPHI', 10, 2), Score 0.027026278294201535
+Query 3: Document ('ALMA', 43, 39), Score 0.02701977407605999
+Query 3: Document ('ALMA', 46, 11), Score 0.026984696698889418
+Query 3: Document ('JACOB', 5, 24), Score 0.026941807115708975
+Query 3: Document ('ALMA', 44, 22), Score 0.02691961565975661
+Query 3: Document ('ALMA', 35, 1), Score 0.02690801328605801
+Query 3: Document ('MOSIAH', 29, 43), Score 0.026875792885999145
+Query 3: Document ('ETHER', 7, 1), Score 0.02684860500532157
+Query 3: Document ('ALMA', 21, 10), Score 0.026814358699395954
+Query 3: Document ('MORMON', 5, 3), Score 0.026810305479937114
+Query 3: Document ('ALMA', 47, 24), Score 0.026791780980356887
+Query 3: Document ('MOSIAH', 23, 29), Score 0.02674526131437142
+Query 3: Document ('HELAMAN', 27, 1), Score 0.026692739833061828
+Query 3: Document ('ETHER', 9, 23), Score 0.026682522454003963
+Query 3: Document ('ALMA', 35, 6), Score 0.026650664042073696
+Query 3: Document ('1 NEPHI', 16, 31), Score 0.02662641894919473
+Query 3: Document ('1 NEPHI', 16, 30), Score 0.026619378392091206
+Query 3: Document ('ETHER', 11, 5), Score 0.0265990825916228
+Query 3: Document ('1 NEPHI', 16, 5), Score 0.026591193190981046
+Query 3: Document ('ETHER', 14, 14), Score 0.026567278773768
+Query 3: Document ('ALMA', 15, 14), Score 0.026538005454418624
+Query 3: Document ('ALMA', 21, 12), Score 0.02653066233365112
+Query 3: Document ('2 NEPHI', 17, 21), Score 0.026513484233578882
+Query 3: Document ('MOSIAH', 17, 1), Score 0.026507373718485536
+Query 3: Document ('2 NEPHI', 3, 20), Score 0.026506941266109182
+Query 3: Document ('ETHER', 2, 5), Score 0.026471456813513067
+Query 3: Document ('ALMA', 43, 36), Score 0.02645429581443982
+Query 3: Document ('ALMA', 14, 19), Score 0.02642949777196117
+Query 3: Document ('HELAMAN', 26, 1), Score 0.026365389055504583
+Query 3: Document ('ETHER', 7, 3), Score 0.02636236615962012
+Query 3: Document ('HELAMAN', 18, 38), Score 0.026349561383452676
+Query 3: Document ('ALMA', 32, 1), Score 0.026349045977361225
+Query 3: Document ('ALMA', 25, 13), Score 0.026299977801112564
+Query 3: Document ('MOSIAH', 8, 4), Score 0.026201804692372765
+Query 3: Document ('1 NEPHI', 17, 10), Score 0.02616902886738555
+Query 3: Document ('ALMA', 27, 21), Score 0.02616339734310934
+Query 3: Document ('JACOB', 5, 26), Score 0.026133008181177992
+Query 3: Document ('HELAMAN', 4, 31), Score 0.026124912233128406
+Query 3: Document ('1 NEPHI', 4, 30), Score 0.02610330449461082
+Query 3: Document ('1 NEPHI', 1, 7), Score 0.02608651184630891
+Query 3: Document ('ALMA', 57, 32), Score 0.026073295752340065
+Query 3: Document ('ALMA', 49, 26), Score 0.02605395550668984
+Query 3: Document ('HELAMAN', 3, 26), Score 0.026053312252649178
+Query 3: Document ('1 NEPHI', 22, 1), Score 0.026040846097889776
+Query 3: Document ('ALMA', 57, 33), Score 0.02597752529213003
+Query 3: Document ('ALMA', 55, 4), Score 0.025946551613466557
+Query 3: Document ('2 NEPHI', 4, 8), Score 0.02594274719747781
+Query 3: Document ('ETHER', 7, 30), Score 0.025938890493277425
+Query 3: Document ('ALMA', 58, 26), Score 0.025879979798828487
+Query 3: Document ('1 NEPHI', 18, 24), Score 0.025826225222325742
+Query 3: Document ('HELAMAN', 19, 16), Score 0.02580998562461446
+Query 3: Document ('HELAMAN', 1, 21), Score 0.025807091402359008
+Query 3: Document ('HELAMAN', 8, 7), Score 0.02577297982501687
+Query 3: Document ('HELAMAN', 17, 18), Score 0.025765722863057096
+Query 3: Document ('ALMA', 56, 22), Score 0.02575893062834779
+Query 3: Document ('2 NEPHI', 31, 1), Score 0.025746667884840604
+Query 3: Document ('HELAMAN', 28, 12), Score 0.02572938062450099
+Query 3: Document ('ALMA', 30, 30), Score 0.025724150357489883
+Query 3: Document ('MOSIAH', 17, 5), Score 0.02569256784696176
+Query 3: Document ('MORMON', 9, 15), Score 0.0256824533097059
+Query 3: Document ('JACOB', 7, 23), Score 0.025661623043253458
+Query 3: Document ('ETHER', 15, 1), Score 0.02564945096354235
+Query 3: Document ('ALMA', 10, 28), Score 0.025646044191755948
+Query 3: Document ('1 NEPHI', 12, 21), Score 0.0256427671116142
+Query 3: Document ('ETHER', 13, 28), Score 0.025636280291528413
+Query 3: Document ('JACOB', 5, 29), Score 0.02561580898101655
+Query 3: Document ('1 NEPHI', 18, 22), Score 0.025613322636737962
+Query 3: Document ('MOSIAH', 10, 21), Score 0.02560101375446709
+Query 3: Document ('MOSIAH', 20, 10), Score 0.025576762346261227
+Query 3: Document ('ALMA', 57, 7), Score 0.025537302139937483
+Query 3: Document ('ALMA', 47, 15), Score 0.025525309467126264
+Query 3: Document ('2 NEPHI', 30, 7), Score 0.02550779001986364
+Query 3: Document ('1 NEPHI', 17, 49), Score 0.02549642739407857
+Query 3: Document ('1 NEPHI', 5, 38), Score 0.025477459737004347
+Query 3: Document ('1 NEPHI', 8, 5), Score 0.02545891683609236
+Query 3: Document ('1 NEPHI', 2, 7), Score 0.025421550771714048
+Query 3: Document ('1 NEPHI', 18, 12), Score 0.025414870284326593
+Query 3: Document ('ALMA', 14, 17), Score 0.02541445645099737
+Query 3: Document ('1 NEPHI', 7, 21), Score 0.02534928616422861
+Query 3: Document ('MOSIAH', 12, 31), Score 0.025343675954371814
+Query 3: Document ('MOSIAH', 24, 16), Score 0.02534104598795229
+Query 3: Document ('ALMA', 25, 7), Score 0.02533656520634918
+Query 3: Document ('ALMA', 51, 30), Score 0.025324639731640026
+Query 3: Document ('ALMA', 20, 8), Score 0.02531364457310464
+Query 3: Document ('ALMA', 45, 22), Score 0.025307207653991432
+Query 3: Document ('MOSIAH', 23, 25), Score 0.025300970654990936
+Query 3: Document ('JAROM', 1, 12), Score 0.02529655601312429
+Query 3: Document ('ALMA', 27, 26), Score 0.02529576080641369
+Query 3: Document ('MOSIAH', 8, 1), Score 0.02529406751728358
+Query 3: Document ('ALMA', 34, 1), Score 0.02526136430410674
+Query 3: Document ('ALMA', 51, 29), Score 0.025234195556585248
+Query 3: Document ('MOSIAH', 26, 1), Score 0.025217448284933944
+Query 3: Document ('ALMA', 36, 10), Score 0.02521548095799733
+Query 3: Document ('1 NEPHI', 7, 4), Score 0.025145768147396233
+Query 3: Document ('ENOS', 7, 9), Score 0.02514477347568972
+Query 3: Document ('ALMA', 22, 2), Score 0.02512249764350084
+Query 3: Document ('OMNI', 1, 18), Score 0.025081978522744054
+Query 3: Document ('2 NEPHI', 1, 1), Score 0.02507778339573208
+Query 3: Document ('1 NEPHI', 16, 25), Score 0.02506885258764739
+Query 3: Document ('MOSIAH', 7, 17), Score 0.025040195802139526
+Query 3: Document ('HELAMAN', 17, 13), Score 0.02502999468300135
+Query 3: Document ('1 NEPHI', 16, 19), Score 0.025029741187831762
+Query 3: Document ('ETHER', 7, 11), Score 0.0250186940823487
+Query 3: Document ('ALMA', 31, 36), Score 0.025012199530610357
+Query 3: Document ('ALMA', 43, 15), Score 0.02501066669207606
+Query 3: Document ('ALMA', 45, 18), Score 0.025001984747389367
+Query 3: Document ('ALMA', 30, 56), Score 0.024963661338254117
+Query 3: Document ('MOSIAH', 11, 15), Score 0.024963550975554354
+Query 3: Document ('ALMA', 59, 4), Score 0.02495392043061503
+Query 3: Document ('MORMON', 3, 11), Score 0.02492991610254399
+Query 3: Document ('HELAMAN', 21, 11), Score 0.024889725244001196
+Query 3: Document ('ETHER', 10, 17), Score 0.024888831814379432
+Query 3: Document ('ALMA', 2, 29), Score 0.024878331971760006
+Query 3: Document ('ETHER', 7, 17), Score 0.0248428639618081
+Query 3: Document ('1 NEPHI', 8, 2), Score 0.02479132142792449
+Query 3: Document ('ETHER', 8, 18), Score 0.024766032878480684
+Query 3: Document ('ALMA', 62, 15), Score 0.024764355143922088
+Query 3: Document ('MOSIAH', 29, 39), Score 0.02467371307188568
+Query 3: Document ('ETHER', 11, 14), Score 0.02466032460892691
+Query 3: Document ('1 NEPHI', 18, 8), Score 0.02465554981810952
+Query 3: Document ('ALMA', 24, 26), Score 0.024654326184944387
+Query 3: Document ('1 NEPHI', 17, 16), Score 0.02465182030758974
+Query 3: Document ('HELAMAN', 20, 23), Score 0.02464915491786364
+Query 3: Document ('MOSIAH', 22, 3), Score 0.024625807509433988
+Query 3: Document ('JACOB', 7, 2), Score 0.024612695917533824
+Query 3: Document ('ALMA', 56, 55), Score 0.0246047201047608
+Query 3: Document ('ETHER', 15, 27), Score 0.024589408037311373
+Query 3: Document ('ALMA', 22, 26), Score 0.02458934362981641
+Query 3: Document ('ALMA', 55, 28), Score 0.024582217134056335
+Query 3: Document ('MOSIAH', 12, 9), Score 0.02455328476570035
+Query 3: Document ('MOSIAH', 23, 20), Score 0.024551864938814946
+Query 3: Document ('ETHER', 6, 8), Score 0.024550445228555345
+Query 3: Document ('ALMA', 43, 5), Score 0.024543402410725047
+Query 3: Document ('1 NEPHI', 16, 11), Score 0.024539394511404654
+Query 3: Document ('MOSIAH', 24, 13), Score 0.024528190159694613
+Query 3: Document ('1 NEPHI', 16, 34), Score 0.024523380822953498
+Query 3: Document ('MOSIAH', 19, 14), Score 0.024495405270865266
+Query 3: Document ('ALMA', 47, 7), Score 0.024479146683498168
+Query 3: Document ('HELAMAN', 20, 20), Score 0.024455059673217382
+Query 3: Document ('MOSIAH', 7, 2), Score 0.024444897352656793
+Query 3: Document ('MOSIAH', 23, 17), Score 0.024418766634435415
+Query 3: Document ('MOSIAH', 8, 5), Score 0.02441759225365595
+Query 3: Document ('2 NEPHI', 5, 30), Score 0.02438107327385514
+Query 3: Document ('MORMON', 4, 19), Score 0.02434107864304156
+Query 3: Document ('ALMA', 27, 1), Score 0.024330122189810555
+Query 3: Document ('ETHER', 7, 5), Score 0.024325847390253227
+Query 3: Document ('ETHER', 6, 18), Score 0.02432414684619696
+Query 3: Document ('HELAMAN', 26, 17), Score 0.02431729358467645
+Query 3: Document ('ALMA', 25, 9), Score 0.024300054433626046
+Query 3: Document ('MORMON', 5, 1), Score 0.02425485470069816
+Query 3: Document ('MOSIAH', 11, 16), Score 0.024245578697824004
+Query 3: Document ('ALMA', 46, 33), Score 0.02421340936718142
+Query 3: Document ('HELAMAN', 19, 35), Score 0.024209269508027938
+Query 3: Document ('MOSIAH', 24, 8), Score 0.02419824961268193
+Query 3: Document ('ALMA', 54, 15), Score 0.024192157927017177
+Query 3: Document ('MOSIAH', 20, 24), Score 0.024144582068081833
+Query 3: Document ('HELAMAN', 18, 8), Score 0.02413895453497725
+Query 3: Document ('MORMON', 2, 4), Score 0.024137157334779474
+Query 3: Document ('1 NEPHI', 13, 14), Score 0.024136757289045067
+Query 3: Document ('1 NEPHI', 15, 4), Score 0.024118891177652677
+Query 3: Document ('ETHER', 4, 9), Score 0.02410039294008048
+Query 3: Document ('1 NEPHI', 11, 30), Score 0.024069312842491024
+Query 3: Document ('ETHER', 11, 10), Score 0.024053654068284358
+Query 3: Document ('ALMA', 62, 7), Score 0.024013605597618837
+Query 3: Document ('ALMA', 57, 18), Score 0.02400171194156443
+Query 3: Document ('HELAMAN', 20, 3), Score 0.023992116967187824
+Query 3: Document ('ALMA', 8, 21), Score 0.02399055846926054
+Query 3: Document ('ALMA', 57, 12), Score 0.023974492271359615
+Query 3: Document ('MOSIAH', 18, 8), Score 0.023891557990178003
+Query 3: Document ('1 NEPHI', 2, 19), Score 0.023888836162757915
+Query 3: Document ('ALMA', 47, 2), Score 0.023876893764708737
+Query 3: Document ('ALMA', 58, 4), Score 0.023876381243437588
+Query 3: Document ('1 NEPHI', 18, 21), Score 0.023867228375920077
+Query 3: Document ('1 NEPHI', 1, 9), Score 0.02381996375995959
+Query 3: Document ('1 NEPHI', 11, 32), Score 0.0237875475211988
+Query 3: Document ('ALMA', 62, 5), Score 0.02376476504106187
+Query 3: Document ('ALMA', 30, 46), Score 0.023751750981151773
+Query 3: Document ('HELAMAN', 5, 29), Score 0.023731938927721033
+Query 3: Document ('HELAMAN', 19, 24), Score 0.02371375487318105
+Query 3: Document ('ETHER', 9, 4), Score 0.02369993550880344
+Query 3: Document ('MOSIAH', 18, 12), Score 0.0236814038266717
+Query 3: Document ('ETHER', 15, 18), Score 0.023668834507295178
+Query 3: Document ('MORMON', 5, 20), Score 0.02364583169115651
+Query 3: Document ('MORMON', 6, 9), Score 0.023604362374769133
+Query 3: Document ('1 NEPHI', 7, 5), Score 0.02356260527651247
+Query 3: Document ('MOSIAH', 22, 7), Score 0.023552517580313605
+Query 3: Document ('ALMA', 46, 39), Score 0.02354657077224446
+Query 3: Document ('2 NEPHI', 18, 21), Score 0.02353521643681104
+Query 3: Document ('MOSIAH', 27, 2), Score 0.0235339845035984
+Query 3: Document ('MOSIAH', 19, 5), Score 0.023530138516868252
+Query 3: Document ('ALMA', 61, 1), Score 0.023505354408113667
+Query 3: Document ('ETHER', 11, 9), Score 0.023499708986465733
+Query 3: Document ('1 NEPHI', 15, 5), Score 0.023499303992478966
+Query 3: Document ('1 NEPHI', 2, 6), Score 0.02349268688235812
+Query 3: Document ('HELAMAN', 5, 28), Score 0.023452620536551075
+Query 3: Document ('MOSIAH', 2, 1), Score 0.02344399167596185
+Query 3: Document ('ALMA', 47, 9), Score 0.023418125966916743
+Query 3: Document ('ALMA', 44, 17), Score 0.02341001022462936
+Query 3: Document ('ALMA', 8, 22), Score 0.023403889041403312
+Query 3: Document ('ALMA', 56, 42), Score 0.02340237987345118
+Query 3: Document ('2 NEPHI', 4, 13), Score 0.023390763228019345
+Query 3: Document ('HELAMAN', 5, 34), Score 0.023373320125808537
+Query 3: Document ('HELAMAN', 14, 28), Score 0.023368764115246816
+Query 3: Document ('MOSIAH', 6, 6), Score 0.02334927372486332
+Query 3: Document ('JACOB', 5, 38), Score 0.023337523562311738
+Query 3: Document ('1 NEPHI', 12, 2), Score 0.023326762836894863
+Query 3: Document ('ALMA', 19, 12), Score 0.023325541464893938
+Query 3: Document ('ETHER', 11, 12), Score 0.0233108000359278
+Query 3: Document ('1 NEPHI', 8, 17), Score 0.023298230809135973
+Query 3: Document ('ALMA', 53, 16), Score 0.02329324011770082
+Query 3: Document ('1 NEPHI', 16, 27), Score 0.02329071350318752
+Query 3: Document ('ETHER', 9, 29), Score 0.02327253919145024
+Query 3: Document ('ALMA', 57, 1), Score 0.023272368976749103
+Query 3: Document ('1 NEPHI', 8, 15), Score 0.023268296163625475
+Query 3: Document ('ALMA', 19, 1), Score 0.02324612479492868
+Query 3: Document ('ETHER', 15, 4), Score 0.023235984784042478
+Query 3: Document ('1 NEPHI', 14, 13), Score 0.023232065793548473
+Query 3: Document ('MOSIAH', 22, 1), Score 0.0232307125986062
+Query 3: Document ('2 NEPHI', 29, 13), Score 0.023187630346856846
+Query 3: Document ('ALMA', 50, 7), Score 0.023169514845716326
+Query 3: Document ('ALMA', 58, 14), Score 0.023164991478883387
+Query 3: Document ('ETHER', 1, 35), Score 0.023145039090348346
+Query 3: Document ('1 NEPHI', 3, 7), Score 0.02314051601509088
+Query 3: Document ('MOSIAH', 23, 33), Score 0.023125205224210393
+Query 3: Document ('ETHER', 8, 13), Score 0.02311235310605244
+Query 3: Document ('ALMA', 45, 1), Score 0.023110670010178178
+Query 3: Document ('ALMA', 3, 20), Score 0.023103539860543837
+Query 3: Document ('ALMA', 14, 25), Score 0.023100812109356834
+Query 3: Document ('1 NEPHI', 5, 1), Score 0.02310020921694324
+Query 3: Document ('MOSIAH', 18, 2), Score 0.023099257449538762
+Query 3: Document ('MOSIAH', 11, 22), Score 0.023067599269988123
+Query 3: Document ('1 NEPHI', 17, 8), Score 0.023039371321415966
+Query 3: Document ('ALMA', 9, 32), Score 0.02299961158865763
+Query 3: Document ('MOSIAH', 17, 13), Score 0.022997733182768765
+Query 3: Document ('MOSIAH', 15, 20), Score 0.02299390784924987
+Query 3: Document ('MOSIAH', 10, 1), Score 0.022975055110710838
+Query 3: Document ('MOSIAH', 18, 34), Score 0.022961118738323308
+Query 3: Document ('MORMON', 5, 4), Score 0.022953032458435753
+Query 3: Document ('MOSIAH', 18, 1), Score 0.022950758778227772
+Query 3: Document ('MOSIAH', 7, 3), Score 0.02291856638397018
+Query 3: Document ('ALMA', 52, 3), Score 0.02287811101566365
+Query 3: Document ('HELAMAN', 28, 23), Score 0.02286798476453002
+Query 3: Document ('JACOB', 5, 72), Score 0.022866646969898978
+Query 3: Document ('MOSIAH', 1, 15), Score 0.022855015810030833
+Query 3: Document ('ALMA', 62, 22), Score 0.022837649690956478
+Query 3: Document ('MOSIAH', 19, 13), Score 0.022826943311831313
+Query 3: Document ('ALMA', 44, 20), Score 0.022818660302124417
+Query 3: Document ('1 NEPHI', 5, 9), Score 0.022802682692001856
+Query 3: Document ('ALMA', 51, 16), Score 0.02279979131499064
+Query 3: Document ('ALMA', 17, 24), Score 0.022777831239934737
+Query 3: Document ('ETHER', 15, 30), Score 0.02276663633658558
+Query 3: Document ('MOSIAH', 18, 17), Score 0.02271134659821037
+Query 3: Document ('MOSIAH', 4, 1), Score 0.02270257792327678
+Query 3: Document ('ALMA', 10, 16), Score 0.022694591185725813
+Query 3: Document ('ALMA', 30, 59), Score 0.022680069452661454
+Query 3: Document ('HELAMAN', 5, 42), Score 0.022677578435533856
+Query 3: Document ('ALMA', 21, 17), Score 0.022671436494020408
+Query 3: Document ('HELAMAN', 3, 17), Score 0.022647047542735322
+Query 3: Document ('ETHER', 7, 8), Score 0.022644115177571516
+Query 3: Document ('MOSIAH', 2, 8), Score 0.022636429864563646
+Query 3: Document ('ALMA', 2, 35), Score 0.02260142895772431
+Query 3: Document ('ALMA', 50, 31), Score 0.022591495748570545
+Query 3: Document ('MOSIAH', 12, 4), Score 0.022568569091273864
+Query 3: Document ('1 NEPHI', 13, 38), Score 0.022563733093784427
+Query 3: Document ('1 NEPHI', 3, 13), Score 0.022560936981818765
+Query 3: Document ('HELAMAN', 18, 36), Score 0.02255261635948872
+Query 3: Document ('ALMA', 58, 19), Score 0.02252302881854404
+Query 3: Document ('ALMA', 48, 1), Score 0.022510000533637064
+Query 3: Document ('ALMA', 2, 30), Score 0.022503794524849675
+Query 3: Document ('1 NEPHI', 18, 23), Score 0.022490950623965243
+Query 3: Document ('MOSIAH', 20, 6), Score 0.022490207515375168
+Query 3: Document ('ALMA', 25, 1), Score 0.022479564878007487
+Query 3: Document ('MOSIAH', 10, 6), Score 0.022475772199119476
+Query 3: Document ('ALMA', 43, 41), Score 0.022461262827699894
+Query 3: Document ('ETHER', 9, 7), Score 0.022415622144125222
+Query 3: Document ('ALMA', 43, 18), Score 0.022402885838394712
+Query 3: Document ('MOSIAH', 23, 26), Score 0.0223944956633861
+Query 3: Document ('MOSIAH', 25, 19), Score 0.02238814735568119
+Query 3: Document ('1 NEPHI', 7, 16), Score 0.022386000473806233
+Query 3: Document ('1 NEPHI', 5, 4), Score 0.022369389480814506
+Query 3: Document ('ALMA', 62, 24), Score 0.022364872752665587
+Query 3: Document ('ETHER', 13, 8), Score 0.022360329828283933
+Query 3: Document ('2 NEPHI', 25, 14), Score 0.022351880629578928
+Query 3: Document ('ETHER', 15, 13), Score 0.022330228055846443
+Query 3: Document ('1 NEPHI', 14, 1), Score 0.022312378295299258
+Query 3: Document ('1 NEPHI', 16, 15), Score 0.02229223661339386
+Query 3: Document ('HELAMAN', 11, 7), Score 0.022261995723309037
+Query 3: Document ('ETHER', 2, 4), Score 0.02224139425781131
+Query 3: Document ('ALMA', 50, 13), Score 0.02223977834181155
+Query 3: Document ('2 NEPHI', 12, 11), Score 0.022234745739608545
+Query 3: Document ('1 NEPHI', 22, 20), Score 0.022217092015231032
+Query 3: Document ('ETHER', 9, 9), Score 0.02220213820943153
+Query 3: Document ('MOSIAH', 1, 9), Score 0.022157408150228316
+Query 3: Document ('HELAMAN', 5, 18), Score 0.022155172332568304
+Query 3: Document ('ALMA', 52, 16), Score 0.02214672756544059
+Query 3: Document ('2 NEPHI', 24, 3), Score 0.022125546100709666
+Query 3: Document ('MOSIAH', 12, 17), Score 0.022123613550158086
+Query 3: Document ('ALMA', 62, 38), Score 0.02212247998256384
+Query 3: Document ('OMNI', 1, 20), Score 0.022103732982842208
+Query 3: Document ('1 NEPHI', 3, 27), Score 0.022094136300533973
+Query 3: Document ('HELAMAN', 16, 16), Score 0.022087051603637387
+Query 3: Document ('ETHER', 15, 9), Score 0.022083487581267065
+Query 3: Document ('ETHER', 6, 25), Score 0.022053629311440632
+Query 3: Document ('ALMA', 23, 16), Score 0.022021287333381295
+Query 3: Document ('ALMA', 19, 11), Score 0.022004017463940036
+Query 3: Document ('ALMA', 26, 10), Score 0.021996541671814446
+Query 3: Document ('ALMA', 46, 29), Score 0.021996063780977543
+Query 3: Document ('HELAMAN', 5, 32), Score 0.021977357493329228
+Query 3: Document ('HELAMAN', 4, 20), Score 0.02197375823172878
+Query 3: Document ('HELAMAN', 5, 13), Score 0.021937130482154045
+Query 3: Document ('ALMA', 2, 23), Score 0.021924677738418854
+Query 3: Document ('ALMA', 14, 9), Score 0.021909468375142762
+Query 3: Document ('ALMA', 47, 23), Score 0.02189708317883824
+Query 3: Document ('ALMA', 59, 5), Score 0.021870415982584223
+Query 3: Document ('1 NEPHI', 16, 33), Score 0.02185764540338882
+Query 3: Document ('ETHER', 15, 24), Score 0.02182722100484524
+Query 3: Document ('ETHER', 15, 5), Score 0.021826728751096102
+Query 3: Document ('HELAMAN', 14, 7), Score 0.021823744976674775
+Query 3: Document ('ALMA', 16, 3), Score 0.021814187875743414
+Query 3: Document ('MOSIAH', 21, 11), Score 0.02176519530037035
+Query 3: Document ('ALMA', 51, 25), Score 0.021764164481609033
+Query 3: Document ('JACOB', 4, 1), Score 0.021744881152206373
+Query 3: Document ('ALMA', 47, 18), Score 0.02171642215356403
+Query 3: Document ('MOSIAH', 26, 6), Score 0.02170764408092844
+Query 3: Document ('ALMA', 27, 20), Score 0.021695983725772593
+Query 3: Document ('1 NEPHI', 18, 4), Score 0.02167599959362933
+Query 3: Document ('HELAMAN', 19, 1), Score 0.021657449971381738
+Query 3: Document ('HELAMAN', 17, 14), Score 0.021645101434600772
+Query 3: Document ('HELAMAN', 11, 4), Score 0.021627665754459846
+Query 3: Document ('ETHER', 2, 6), Score 0.021623807117204467
+Query 3: Document ('ALMA', 52, 38), Score 0.021614879579912455
+Query 3: Document ('1 NEPHI', 17, 53), Score 0.021603958925486545
+Query 3: Document ('MOSIAH', 21, 6), Score 0.021603063184008366
+Query 3: Document ('ETHER', 14, 4), Score 0.021597447419025487
+Query 3: Document ('2 NEPHI', 27, 15), Score 0.021597290946947633
+Query 3: Document ('ETHER', 8, 5), Score 0.02158938955666056
+Query 3: Document ('ALMA', 45, 23), Score 0.021527921094172803
+Query 3: Document ('1 NEPHI', 16, 28), Score 0.021524289998104993
+Query 3: Document ('HELAMAN', 9, 12), Score 0.021485980034419982
+Query 3: Document ('ALMA', 10, 8), Score 0.0214853446839859
+Query 3: Document ('MOSIAH', 21, 33), Score 0.02147360149731717
+Query 3: Document ('ALMA', 44, 16), Score 0.02146434928148385
+Query 3: Document ('OMNI', 1, 8), Score 0.021456841858319472
+Query 3: Document ('MOSIAH', 11, 18), Score 0.02145175747661562
+Query 3: Document ('ALMA', 47, 16), Score 0.02143116034958844
+Query 3: Document ('MOSIAH', 7, 8), Score 0.021424111944238638
+Query 3: Document ('MOSIAH', 18, 4), Score 0.02140888149255561
+Query 3: Document ('ALMA', 48, 7), Score 0.021393464210794237
+Query 3: Document ('ALMA', 58, 7), Score 0.02136803863187474
+Query 3: Document ('ALMA', 50, 28), Score 0.021362973395719884
+Query 3: Document ('HELAMAN', 21, 19), Score 0.021361185333239014
+Query 3: Document ('ALMA', 13, 21), Score 0.0213449759840724
+Query 3: Document ('ALMA', 30, 21), Score 0.02134433670967859
+Query 3: Document ('1 NEPHI', 15, 17), Score 0.021337384046104853
+Query 3: Document ('1 NEPHI', 3, 26), Score 0.0213355717818273
+Query 3: Document ('HELAMAN', 21, 14), Score 0.0213286632963285
+Query 3: Document ('ALMA', 10, 24), Score 0.021326241205052488
+Query 3: Document ('ALMA', 56, 54), Score 0.021312888468185555
+Query 3: Document ('ALMA', 56, 33), Score 0.021290298512974763
+Query 3: Document ('1 NEPHI', 14, 15), Score 0.021289788986326212
+Query 3: Document ('ALMA', 58, 29), Score 0.021263610607216942
+Query 3: Document ('ETHER', 8, 1), Score 0.021261384261369892
+Query 3: Document ('MOSIAH', 18, 32), Score 0.021219317355751516
+Query 3: Document ('1 NEPHI', 16, 13), Score 0.021217659724513616
+Query 3: Document ('ALMA', 2, 5), Score 0.021209063999416924
+Query 3: Document ('ETHER', 2, 18), Score 0.0211895276595886
+Query 3: Document ('ALMA', 46, 17), Score 0.021180927404091714
+Query 3: Document ('ALMA', 22, 17), Score 0.02116291418959208
+Query 3: Document ('MOSIAH', 20, 12), Score 0.021133317974563443
+Query 3: Document ('MOSIAH', 19, 24), Score 0.021121116360002464
+Query 3: Document ('ETHER', 7, 26), Score 0.02110976141067822
+Query 3: Document ('ALMA', 46, 31), Score 0.02110952218259811
+Query 3: Document ('ETHER', 15, 6), Score 0.021082312979733762
+Query 3: Document ('MORMON', 4, 8), Score 0.021066983051252926
+Query 3: Document ('ALMA', 55, 26), Score 0.021065918399896057
+Query 3: Document ('1 NEPHI', 15, 32), Score 0.021057858875238065
+Query 3: Document ('MOSIAH', 11, 1), Score 0.021057423797883362
+Query 3: Document ('1 NEPHI', 2, 1), Score 0.021055223450277452
+Query 3: Document ('1 NEPHI', 12, 1), Score 0.021026006152024015
+Query 3: Document ('JACOB', 6, 1), Score 0.021023644971002668
+Query 3: Document ('HELAMAN', 9, 3), Score 0.020955555270631566
+Query 3: Document ('ALMA', 62, 23), Score 0.020949500135745668
+Query 3: Document ('ALMA', 57, 24), Score 0.020946459404610332
+Query 3: Document ('MORMON', 2, 26), Score 0.020941213495020674
+Query 3: Document ('MOSIAH', 25, 5), Score 0.020918164565664112
+Query 3: Document ('HELAMAN', 5, 2), Score 0.020901314095395
+Query 3: Document ('ALMA', 3, 11), Score 0.020901159807618704
+Query 3: Document ('ALMA', 62, 3), Score 0.020895598150765526
+Query 3: Document ('MORMON', 2, 12), Score 0.020877580088404055
+Query 3: Document ('ALMA', 12, 25), Score 0.020865397987679415
+Query 3: Document ('HELAMAN', 16, 20), Score 0.020848977730647526
+Query 3: Document ('ALMA', 55, 13), Score 0.020848098638833877
+Query 3: Document ('ALMA', 52, 35), Score 0.02079691066381235
+Query 3: Document ('ALMA', 19, 33), Score 0.02079241323799075
+Query 3: Document ('ALMA', 8, 18), Score 0.020786940924400338
+Query 3: Document ('ETHER', 9, 10), Score 0.020785558142962547
+Query 3: Document ('ALMA', 43, 27), Score 0.02077493267114837
+Query 3: Document ('2 NEPHI', 20, 20), Score 0.02074505319565569
+Query 3: Document ('MOSIAH', 11, 20), Score 0.02073724568801996
+Query 3: Document ('HELAMAN', 5, 21), Score 0.0207207484318477
+Query 3: Document ('ALMA', 2, 14), Score 0.020692338286154053
+Query 3: Document ('JACOB', 5, 35), Score 0.020683781841421344
+Query 3: Document ('ETHER', 15, 26), Score 0.020633129856249145
+Query 3: Document ('1 NEPHI', 17, 26), Score 0.020616390348654513
+Query 3: Document ('JACOB', 5, 49), Score 0.02061567598993475
+Query 3: Document ('1 NEPHI', 12, 11), Score 0.0205979176168579
+Query 3: Document ('ALMA', 58, 11), Score 0.020589572525248942
+Query 3: Document ('2 NEPHI', 20, 27), Score 0.020588355141702267
+Query 3: Document ('ETHER', 7, 15), Score 0.020558826768853577
+Query 3: Document ('1 NEPHI', 8, 11), Score 0.020515111908540093
+Query 3: Document ('ALMA', 27, 2), Score 0.020512998203873437
+Query 3: Document ('ALMA', 62, 32), Score 0.02047160496837121
+Query 3: Document ('HELAMAN', 6, 7), Score 0.020452416589147628
+Query 3: Document ('MOSIAH', 7, 14), Score 0.02044808072284081
+Query 3: Document ('1 NEPHI', 8, 36), Score 0.02043432686136184
+Query 3: Document ('ALMA', 17, 1), Score 0.020434140418384022
+Query 3: Document ('ALMA', 52, 27), Score 0.020431093763043896
+Query 3: Document ('1 NEPHI', 2, 8), Score 0.02043073655762995
+Query 3: Document ('2 NEPHI', 25, 7), Score 0.02042616815826099
+Query 3: Document ('1 NEPHI', 4, 35), Score 0.02041142500611412
+Query 3: Document ('JACOB', 5, 6), Score 0.020410353691219376
+Query 3: Document ('ETHER', 9, 1), Score 0.020404223332967524
+Query 3: Document ('1 NEPHI', 14, 14), Score 0.02039374979851102
+Query 3: Document ('HELAMAN', 1, 19), Score 0.02037501680809045
+Query 3: Document ('1 NEPHI', 7, 17), Score 0.020367678090162742
+Query 3: Document ('MOSIAH', 16, 1), Score 0.020338919843116313
+Query 3: Document ('ALMA', 20, 28), Score 0.020334475789782105
+Query 3: Document ('JACOB', 5, 14), Score 0.020326143683253934
+Query 3: Document ('ALMA', 3, 1), Score 0.02031986986305823
+Query 3: Document ('1 NEPHI', 1, 6), Score 0.02031668952962962
+Query 3: Document ('ALMA', 17, 25), Score 0.020302452053216725
+Query 3: Document ('HELAMAN', 5, 50), Score 0.020272780808709895
+Query 3: Document ('MOSIAH', 18, 18), Score 0.020272309813276792
+Query 3: Document ('MOSIAH', 27, 10), Score 0.02026833528267371
+Query 3: Document ('ETHER', 9, 34), Score 0.020254895020199334
+Query 3: Document ('MOSIAH', 28, 1), Score 0.020250778375551646
+Query 3: Document ('ALMA', 49, 25), Score 0.020231604329703428
+Query 3: Document ('MOSIAH', 17, 15), Score 0.02020638767073444
+Query 3: Document ('HELAMAN', 10, 9), Score 0.020179233953523796
+Query 3: Document ('ALMA', 15, 1), Score 0.0201747580587514
+Query 3: Document ('1 NEPHI', 2, 4), Score 0.02016330275315044
+Query 3: Document ('2 NEPHI', 8, 10), Score 0.02016195159560747
+Query 3: Document ('2 NEPHI', 10, 8), Score 0.020130859936464553
+Query 3: Document ('ETHER', 3, 21), Score 0.02012068826634601
+Query 3: Document ('1 NEPHI', 16, 20), Score 0.020119796568783408
+Query 3: Document ('ETHER', 8, 4), Score 0.02011849744978563
+Query 3: Document ('1 NEPHI', 16, 7), Score 0.020108343846535842
+Query 3: Document ('ALMA', 53, 1), Score 0.020091450484554536
+Query 3: Document ('HELAMAN', 5, 4), Score 0.020090359952664644
+Query 3: Document ('HELAMAN', 11, 13), Score 0.020075428835374363
+Query 3: Document ('ALMA', 51, 32), Score 0.02007398804608945
+Query 3: Document ('ALMA', 14, 20), Score 0.02007146782681747
+Query 3: Document ('HELAMAN', 6, 37), Score 0.020068375494364438
+Query 3: Document ('HELAMAN', 10, 15), Score 0.020052198537100892
+Query 3: Document ('ETHER', 14, 26), Score 0.02004923438351669
+Query 3: Document ('ALMA', 57, 30), Score 0.02003224899806511
+Query 3: Document ('ALMA', 52, 33), Score 0.020016290232661143
+Query 3: Document ('MOSIAH', 29, 42), Score 0.02000637281313754
+Query 3: Document ('ALMA', 27, 22), Score 0.020002981270788974
+Query 3: Document ('HELAMAN', 1, 5), Score 0.020000754135045977
+Query 3: Document ('ETHER', 9, 14), Score 0.019996102716042765
+Query 3: Document ('HELAMAN', 17, 5), Score 0.019982550944442394
+Query 3: Document ('HELAMAN', 7, 11), Score 0.019971408754417098
+Query 3: Document ('HELAMAN', 1, 9), Score 0.0199645824670234
+Query 3: Document ('JACOB', 7, 17), Score 0.01995980470099521
+Query 3: Document ('ALMA', 51, 19), Score 0.019959022297024263
+Query 3: Document ('2 NEPHI', 12, 2), Score 0.019956678112513837
+Query 3: Document ('ALMA', 28, 1), Score 0.019948951415699103
+Query 3: Document ('ALMA', 8, 14), Score 0.019923521216898204
+Query 3: Document ('1 NEPHI', 4, 10), Score 0.01991781714210079
+Query 3: Document ('ETHER', 9, 30), Score 0.019912929471366275
+Query 3: Document ('1 NEPHI', 7, 1), Score 0.01988499720702231
+Query 3: Document ('HELAMAN', 1, 7), Score 0.019877160624559097
+Query 3: Document ('ALMA', 27, 25), Score 0.01986482502981976
+Query 3: Document ('ALMA', 56, 18), Score 0.019850753052278722
+Query 3: Document ('HELAMAN', 9, 13), Score 0.01985022849626528
+Query 3: Document ('ETHER', 8, 2), Score 0.01984532702498731
+Query 3: Document ('MOSIAH', 21, 16), Score 0.019834093726119068
+Query 3: Document ('ETHER', 14, 15), Score 0.01982515397804162
+Query 3: Document ('ALMA', 62, 13), Score 0.01981738017151696
+Query 3: Document ('HELAMAN', 27, 16), Score 0.01979366275387335
+Query 3: Document ('MORMON', 6, 7), Score 0.019785132410711514
+Query 3: Document ('1 NEPHI', 18, 1), Score 0.019771271366163048
+Query 3: Document ('1 NEPHI', 3, 25), Score 0.019748060478248716
+Query 3: Document ('ALMA', 47, 3), Score 0.019746871734093653
+Query 3: Document ('1 NEPHI', 14, 5), Score 0.01970421256613112
+Query 3: Document ('ALMA', 50, 9), Score 0.019663148038485647
+Query 3: Document ('ETHER', 1, 38), Score 0.019609659253038956
+Query 3: Document ('ETHER', 14, 17), Score 0.0195674339932255
+Query 3: Document ('ALMA', 17, 32), Score 0.019567236497351984
+Query 3: Document ('1 NEPHI', 2, 14), Score 0.019565463807084342
+Query 3: Document ('ALMA', 46, 28), Score 0.01956163153129156
+Query 3: Document ('2 NEPHI', 17, 23), Score 0.019539053303804888
+Query 3: Document ('MOSIAH', 4, 3), Score 0.019507277374261247
+Query 3: Document ('ALMA', 47, 13), Score 0.019505363940060565
+Query 3: Document ('ALMA', 55, 33), Score 0.01947219874067422
+Query 3: Document ('MOSIAH', 12, 8), Score 0.019466130836254186
+Query 3: Document ('OMNI', 1, 13), Score 0.01942753022368263
+Query 3: Document ('HELAMAN', 10, 1), Score 0.019410453816514073
+Query 3: Document ('ETHER', 9, 31), Score 0.019406674891248192
+Query 3: Document ('MOSIAH', 12, 3), Score 0.019384295745813403
+Query 3: Document ('1 NEPHI', 19, 1), Score 0.01938338518786983
+Query 3: Document ('1 NEPHI', 14, 11), Score 0.019375310936103427
+Query 3: Document ('MORMON', 5, 7), Score 0.01936234556318563
+Query 3: Document ('JACOB', 5, 19), Score 0.01935026927495315
+Query 3: Document ('ALMA', 32, 2), Score 0.019347562767736814
+Query 3: Document ('ALMA', 58, 21), Score 0.01933574755742468
+Query 3: Document ('1 NEPHI', 17, 1), Score 0.019305680729076288
+Query 3: Document ('ALMA', 23, 1), Score 0.019292141432544735
+Query 3: Document ('1 NEPHI', 4, 28), Score 0.01928980980670922
+Query 3: Document ('HELAMAN', 11, 18), Score 0.019264891847500805
+Query 3: Document ('ETHER', 7, 7), Score 0.019260688378970853
+Query 3: Document ('ALMA', 51, 5), Score 0.019222861094443187
+Query 3: Document ('ALMA', 30, 22), Score 0.019220427278878943
+Query 3: Document ('ENOS', 7, 1), Score 0.019205294287990112
+Query 3: Document ('ALMA', 17, 31), Score 0.019191246494568374
+Query 3: Document ('HELAMAN', 5, 43), Score 0.019185186995400293
+Query 3: Document ('ALMA', 8, 1), Score 0.019165394488297193
+Query 3: Document ('ETHER', 8, 15), Score 0.019164845976577565
+Query 3: Document ('ALMA', 6, 3), Score 0.019130311877674677
+Query 3: Document ('ALMA', 51, 14), Score 0.01912362855724572
+Query 3: Document ('1 NEPHI', 3, 11), Score 0.019117712169070468
+Query 3: Document ('ALMA', 35, 3), Score 0.019112733424394287
+Query 3: Document ('ALMA', 19, 24), Score 0.019102903386441543
+Query 3: Document ('ALMA', 57, 28), Score 0.01910209025507162
+Query 3: Document ('1 NEPHI', 4, 1), Score 0.01908773227933985
+Query 3: Document ('ALMA', 47, 14), Score 0.01908131515756781
+Query 3: Document ('ALMA', 51, 17), Score 0.019074311230165644
+Query 3: Document ('ETHER', 14, 30), Score 0.019067061645043046
+Query 3: Document ('ETHER', 11, 18), Score 0.019059724325921748
+Query 3: Document ('ALMA', 44, 1), Score 0.01905515140127793
+Query 3: Document ('MORMON', 8, 2), Score 0.019052314832106287
+Query 3: Document ('MOSIAH', 2, 18), Score 0.019048292259683536
+Query 3: Document ('ALMA', 15, 16), Score 0.018978757991428945
+Query 3: Document ('2 NEPHI', 30, 6), Score 0.018960993766437746
+Query 3: Document ('ALMA', 45, 12), Score 0.01895064631109523
+Query 3: Document ('ALMA', 52, 21), Score 0.018931608341447113
+Query 3: Document ('HELAMAN', 24, 1), Score 0.018929314499538333
+Query 3: Document ('ALMA', 57, 13), Score 0.01892756950163561
+Query 3: Document ('MORMON', 3, 16), Score 0.018922385221217704
+Query 3: Document ('ALMA', 57, 25), Score 0.01887744294726214
+Query 3: Document ('MOSIAH', 18, 7), Score 0.018873343839784923
+Query 3: Document ('ETHER', 13, 29), Score 0.018856625924719747
+Query 3: Document ('HELAMAN', 8, 1), Score 0.018854221109315717
+Query 3: Document ('ALMA', 40, 3), Score 0.018837704117256025
+Query 3: Document ('ETHER', 14, 5), Score 0.018828167947882696
+Query 3: Document ('ETHER', 10, 12), Score 0.01881555489738614
+Query 3: Document ('ETHER', 10, 1), Score 0.018813772582115258
+Query 3: Document ('ALMA', 18, 12), Score 0.0187802054605081
+Query 3: Document ('ALMA', 22, 12), Score 0.01877834698439195
+Query 3: Document ('JACOB', 5, 31), Score 0.01875647986105821
+Query 3: Document ('ETHER', 13, 27), Score 0.018745516787250813
+Query 3: Document ('ALMA', 33, 22), Score 0.018735012823891218
+Query 3: Document ('ALMA', 62, 1), Score 0.01872275787619112
+Query 3: Document ('MOSIAH', 26, 37), Score 0.018703913584211064
+Query 3: Document ('ETHER', 11, 7), Score 0.018678998666553284
+Query 3: Document ('1 NEPHI', 15, 20), Score 0.018645587808883396
+Query 3: Document ('ALMA', 47, 32), Score 0.01863331538276072
+Query 3: Document ('ALMA', 58, 15), Score 0.018629104158514816
+Query 3: Document ('JACOB', 7, 26), Score 0.01862457248904309
+Query 3: Document ('HELAMAN', 1, 10), Score 0.01860938023772137
+Query 3: Document ('MOSIAH', 27, 23), Score 0.018600976403090014
+Query 3: Document ('ALMA', 62, 42), Score 0.018599322906239616
+Query 3: Document ('ALMA', 55, 27), Score 0.018599078854798518
+Query 3: Document ('ALMA', 52, 31), Score 0.018574156188928385
+Query 3: Document ('ALMA', 51, 15), Score 0.018549411388915995
+Query 3: Document ('ALMA', 38, 8), Score 0.018519977909342258
+Query 3: Document ('HELAMAN', 1, 30), Score 0.018519877658292463
+Query 3: Document ('ALMA', 2, 15), Score 0.01851308934347135
+Query 3: Document ('1 NEPHI', 3, 28), Score 0.018489604878204998
+Query 3: Document ('MORMON', 4, 22), Score 0.018482565960346226
+Query 3: Document ('ETHER', 15, 11), Score 0.018476734667188452
+Query 3: Document ('2 NEPHI', 26, 10), Score 0.018475005757324803
+Query 3: Document ('1 NEPHI', 16, 21), Score 0.018468658077210515
+Query 3: Document ('HELAMAN', 10, 8), Score 0.018462496302935737
+Query 3: Document ('ALMA', 56, 39), Score 0.018445500178828737
+Query 3: Document ('ALMA', 53, 22), Score 0.018445314253245217
+Query 3: Document ('ALMA', 62, 14), Score 0.018439513158218325
+Query 3: Document ('1 NEPHI', 17, 46), Score 0.018427182407352145
+Query 3: Document ('MOSIAH', 24, 1), Score 0.018373278360474057
+Query 3: Document ('ETHER', 10, 2), Score 0.018327446858844347
+Query 3: Document ('ALMA', 51, 13), Score 0.01831931370515549
+Query 3: Document ('1 NEPHI', 17, 6), Score 0.018307889392963874
+Query 3: Document ('ALMA', 22, 19), Score 0.018306251395020484
+Query 3: Document ('OMNI', 1, 15), Score 0.01830194367528339
+Query 3: Document ('1 NEPHI', 8, 32), Score 0.018297334607885195
+Query 3: Document ('ALMA', 49, 17), Score 0.018267864092808415
+Query 3: Document ('MOSIAH', 22, 11), Score 0.018267273588981635
+Query 3: Document ('ALMA', 43, 23), Score 0.01826666756110055
+Query 3: Document ('ALMA', 52, 23), Score 0.01826288467546793
+Query 3: Document ('ALMA', 4, 15), Score 0.018234298944384865
+Query 3: Document ('HELAMAN', 26, 14), Score 0.018207037808121135
+Query 3: Document ('HELAMAN', 1, 6), Score 0.01819433155859018
+Query 3: Document ('OMNI', 1, 10), Score 0.018187694709258895
+Query 3: Document ('HELAMAN', 17, 9), Score 0.018185630769867924
+Query 3: Document ('HELAMAN', 1, 8), Score 0.018167751710337764
+Query 3: Document ('ETHER', 6, 2), Score 0.01816457743077392
+Query 3: Document ('OMNI', 1, 1), Score 0.01816151803111943
+Query 3: Document ('MORONI', 7, 32), Score 0.018151016798226848
+Query 3: Document ('ALMA', 62, 34), Score 0.018130668887127534
+Query 3: Document ('ALMA', 23, 4), Score 0.018130406561843945
+Query 3: Document ('ALMA', 47, 12), Score 0.018096846278282987
+Query 3: Document ('ALMA', 53, 13), Score 0.018095683126680983
+Query 3: Document ('ETHER', 13, 22), Score 0.01807993160014633
+Query 3: Document ('2 NEPHI', 17, 18), Score 0.018078547627749107
+Query 3: Document ('MORMON', 2, 23), Score 0.018067694936346787
+Query 3: Document ('ALMA', 37, 6), Score 0.018055009181536123
+Query 3: Document ('ALMA', 40, 12), Score 0.01801915401701434
+Query 3: Document ('2 NEPHI', 24, 4), Score 0.018017064738775318
+Query 3: Document ('HELAMAN', 26, 16), Score 0.01799447333758535
+Query 3: Document ('HELAMAN', 15, 11), Score 0.017981610996345928
+Query 3: Document ('ALMA', 47, 34), Score 0.017973198946823674
+Query 3: Document ('ALMA', 46, 36), Score 0.01794689744029644
+Query 3: Document ('ALMA', 30, 58), Score 0.017900195814514824
+Query 3: Document ('MORMON', 4, 2), Score 0.017891856757503082
+Query 3: Document ('2 NEPHI', 20, 12), Score 0.017890792832855735
+Query 3: Document ('MOSIAH', 1, 2), Score 0.01786636398195424
+Query 3: Document ('JACOB', 7, 6), Score 0.017857006064756747
+Query 3: Document ('ETHER', 15, 29), Score 0.017854467570950418
+Query 3: Document ('ALMA', 24, 25), Score 0.017847622691879988
+Query 3: Document ('ALMA', 54, 2), Score 0.017828494063939503
+Query 3: Document ('1 NEPHI', 16, 18), Score 0.017824791589836252
+Query 3: Document ('1 NEPHI', 17, 52), Score 0.017824749401201437
+Query 3: Document ('1 NEPHI', 11, 13), Score 0.017821699596046094
+Query 3: Document ('ALMA', 52, 24), Score 0.017819653618667396
+Query 3: Document ('1 NEPHI', 2, 16), Score 0.017804693753883556
+Query 3: Document ('ALMA', 58, 1), Score 0.017789924895968565
+Query 3: Document ('ALMA', 34, 13), Score 0.017788869716501343
+Query 3: Document ('ETHER', 10, 7), Score 0.017776489408014604
+Query 3: Document ('2 NEPHI', 17, 22), Score 0.01775091483276911
+Query 3: Document ('ALMA', 55, 1), Score 0.017726265287674303
+Query 3: Document ('HELAMAN', 1, 20), Score 0.017719482523565932
+Query 3: Document ('ALMA', 36, 17), Score 0.017719241498419937
+Query 3: Document ('1 NEPHI', 10, 11), Score 0.01769298108360404
+Query 3: Document ('ALMA', 57, 9), Score 0.017691633779738657
+Query 3: Document ('ETHER', 14, 12), Score 0.01768846179326128
+Query 3: Document ('1 NEPHI', 11, 1), Score 0.01768753012693965
+Query 3: Document ('1 NEPHI', 18, 11), Score 0.01768221777770443
+Query 3: Document ('HELAMAN', 10, 17), Score 0.017677288743661798
+Query 3: Document ('ALMA', 52, 20), Score 0.01766493616693822
+Query 3: Document ('ALMA', 51, 22), Score 0.017652839973079818
+Query 3: Document ('MOSIAH', 25, 12), Score 0.0176307901709226
+Query 3: Document ('JAROM', 1, 7), Score 0.01761249305972958
+Query 3: Document ('ALMA', 16, 7), Score 0.017589087227762357
+Query 3: Document ('MORMON', 8, 39), Score 0.01756373916824864
+Query 3: Document ('HELAMAN', 14, 8), Score 0.01754052966439226
+Query 3: Document ('1 NEPHI', 1, 19), Score 0.017539130442799523
+Query 3: Document ('ALMA', 3, 38), Score 0.01753607433978087
+Query 3: Document ('ETHER', 15, 28), Score 0.017530801186532552
+Query 3: Document ('ALMA', 57, 17), Score 0.017517235190725372
+Query 3: Document ('JACOB', 5, 30), Score 0.017504737402234054
+Query 3: Document ('MORMON', 6, 4), Score 0.01750138470445736
+Query 3: Document ('1 NEPHI', 7, 19), Score 0.01747892036511958
+Query 3: Document ('2 NEPHI', 20, 28), Score 0.017459073304243327
+Query 3: Document ('2 NEPHI', 9, 6), Score 0.017456561766205612
+Query 3: Document ('ETHER', 15, 8), Score 0.017454944064718432
+Query 3: Document ('ALMA', 6, 1), Score 0.01745000750786268
+Query 3: Document ('ETHER', 15, 17), Score 0.01744513362152917
+Query 3: Document ('ALMA', 62, 30), Score 0.01742322277985774
+Query 3: Document ('HELAMAN', 8, 23), Score 0.017398544475487835
+Query 3: Document ('ALMA', 51, 34), Score 0.01735780805496783
+Query 3: Document ('ALMA', 2, 19), Score 0.017336159221475887
+Query 3: Document ('HELAMAN', 10, 12), Score 0.017327762964180763
+Query 3: Document ('ALMA', 52, 9), Score 0.0173234401586676
+Query 3: Document ('2 NEPHI', 25, 6), Score 0.017272492175996124
+Query 3: Document ('ALMA', 51, 7), Score 0.017272058688279367
+Query 3: Document ('MOSIAH', 10, 9), Score 0.01727097250964804
+Query 3: Document ('1 NEPHI', 11, 8), Score 0.017259114448846705
+Query 3: Document ('ALMA', 24, 1), Score 0.01724313433644492
+Query 3: Document ('HELAMAN', 8, 10), Score 0.017215587403131196
+Query 3: Document ('MOSIAH', 9, 16), Score 0.017192100509726634
+Query 3: Document ('MOSIAH', 20, 11), Score 0.017180505180336172
+Query 3: Document ('ETHER', 8, 11), Score 0.017163077203739992
+Query 3: Document ('HELAMAN', 24, 14), Score 0.017142339713214532
+Query 3: Document ('ETHER', 8, 9), Score 0.017119169258772177
+Query 3: Document ('ALMA', 47, 10), Score 0.01711289263392335
+Query 3: Document ('ALMA', 17, 13), Score 0.017108641756017208
+Query 3: Document ('1 NEPHI', 10, 17), Score 0.017104425987119348
+Query 3: Document ('1 NEPHI', 3, 29), Score 0.017101901744240047
+Query 3: Document ('2 NEPHI', 3, 24), Score 0.01709060497926693
+Query 3: Document ('MOSIAH', 18, 30), Score 0.017083253055265302
+Query 3: Document ('ALMA', 58, 8), Score 0.01706308813666922
+Query 3: Document ('ETHER', 6, 5), Score 0.017053798615495802
+Query 3: Document ('HELAMAN', 15, 3), Score 0.01703679580053394
+Query 3: Document ('HELAMAN', 28, 29), Score 0.01702074928829028
+Query 3: Document ('MOSIAH', 11, 14), Score 0.01699095817735495
+Query 3: Document ('ALMA', 21, 4), Score 0.016945598684883368
+Query 3: Document ('MORMON', 2, 10), Score 0.016934960074948217
+Query 3: Document ('ETHER', 10, 4), Score 0.016933089813718948
+Query 3: Document ('ALMA', 51, 18), Score 0.016926171008203105
+Query 3: Document ('ALMA', 19, 29), Score 0.016900465103413788
+Query 3: Document ('ETHER', 15, 15), Score 0.016883921850851084
+Query 3: Document ('1 NEPHI', 20, 5), Score 0.01687522300729003
+Query 3: Document ('JACOB', 5, 21), Score 0.01686632019281884
+Query 3: Document ('ETHER', 15, 10), Score 0.016858951159926753
+Query 3: Document ('HELAMAN', 15, 2), Score 0.016852692275741425
+Query 3: Document ('MOSIAH', 24, 15), Score 0.016848077667129115
+Query 3: Document ('HELAMAN', 5, 36), Score 0.016833001010165362
+Query 3: Document ('ETHER', 6, 4), Score 0.016823282869572093
+Query 3: Document ('HELAMAN', 1, 23), Score 0.016804506778609136
+Query 3: Document ('ALMA', 43, 48), Score 0.01680045603370412
+Query 3: Document ('1 NEPHI', 3, 24), Score 0.01678859118900867
+Query 3: Document ('HELAMAN', 9, 16), Score 0.01678433682471158
+Query 3: Document ('HELAMAN', 5, 20), Score 0.016770322581753212
+Query 3: Document ('ALMA', 43, 22), Score 0.016688380745602086
+Query 3: Document ('HELAMAN', 1, 15), Score 0.01667745056913627
+Query 3: Document ('ALMA', 46, 35), Score 0.016675053263748112
+Query 3: Document ('1 NEPHI', 11, 25), Score 0.016627754047257862
+Query 3: Document ('MOSIAH', 19, 22), Score 0.016615270267608374
+Query 3: Document ('MOSIAH', 22, 6), Score 0.016590455968700145
+Query 3: Document ('ALMA', 56, 52), Score 0.016537303058021178
+Query 3: Document ('HELAMAN', 12, 18), Score 0.016500005183053237
+Query 3: Document ('ALMA', 51, 33), Score 0.01649479538708364
+Query 3: Document ('ETHER', 7, 18), Score 0.016477157547504163
+Query 3: Document ('ALMA', 1, 7), Score 0.01645209004039024
+Query 3: Document ('ALMA', 1, 15), Score 0.016408707556600063
+Query 3: Document ('ALMA', 49, 21), Score 0.01636486623197099
+Query 3: Document ('HELAMAN', 5, 30), Score 0.016344666036554264
+Query 3: Document ('HELAMAN', 5, 23), Score 0.01633263834264538
+Query 3: Document ('ALMA', 53, 6), Score 0.016331389565931765
+Query 3: Document ('JACOB', 5, 20), Score 0.01632805524140676
+Query 3: Document ('MOSIAH', 11, 12), Score 0.01628525231452341
+Query 3: Document ('HELAMAN', 7, 15), Score 0.016266202754561827
+Query 3: Document ('ALMA', 62, 37), Score 0.01626287208323555
+Query 3: Document ('ETHER', 10, 35), Score 0.016234615499780114
+Query 3: Document ('HELAMAN', 11, 12), Score 0.016124768565233125
+Query 3: Document ('1 NEPHI', 16, 23), Score 0.01611826448588161
+Query 3: Document ('ENOS', 7, 21), Score 0.016109141708337278
+Query 3: Document ('HELAMAN', 7, 18), Score 0.016106990850062865
+Query 3: Document ('ALMA', 22, 33), Score 0.016092962176343623
+Query 3: Document ('HELAMAN', 16, 1), Score 0.01609167882352227
+Query 3: Document ('JACOB', 5, 4), Score 0.01608093870667929
+Query 3: Document ('ALMA', 2, 20), Score 0.016053558130240498
+Query 3: Document ('ALMA', 19, 43), Score 0.016044517716553172
+Query 3: Document ('ALMA', 14, 7), Score 0.016041002329496484
+Query 3: Document ('HELAMAN', 15, 7), Score 0.016025514295356008
+Query 3: Document ('1 NEPHI', 14, 12), Score 0.01600986023584353
+Query 3: Document ('HELAMAN', 1, 11), Score 0.01599754193266897
+Query 3: Document ('ALMA', 59, 3), Score 0.015995745697149837
+Query 3: Document ('OMNI', 1, 14), Score 0.01599442449795424
+Query 3: Document ('MORMON', 9, 13), Score 0.015993925588190246
+Query 3: Document ('HELAMAN', 10, 2), Score 0.01599357591912942
+Query 3: Document ('MOSIAH', 22, 2), Score 0.01597323359181778
+Query 3: Document ('ALMA', 56, 23), Score 0.015949844325686368
+Query 3: Document ('MOSIAH', 2, 5), Score 0.015949159609964216
+Query 3: Document ('ETHER', 1, 37), Score 0.015939518790801174
+Query 3: Document ('MOSIAH', 12, 6), Score 0.015907143349935995
+Query 3: Document ('ALMA', 49, 24), Score 0.01590556230785547
+Query 3: Document ('ALMA', 14, 14), Score 0.015881781624629988
+Query 3: Document ('ALMA', 16, 6), Score 0.01587633169107245
+Query 3: Document ('ALMA', 14, 6), Score 0.01584991338610294
+Query 3: Document ('HELAMAN', 1, 12), Score 0.015825851984618302
+Query 3: Document ('ETHER', 12, 37), Score 0.015817847936244397
+Query 3: Document ('JACOB', 7, 24), Score 0.015777590729006034
+Query 3: Document ('ETHER', 8, 25), Score 0.01575779454295252
+Query 3: Document ('1 NEPHI', 1, 14), Score 0.015738875403543268
+Query 3: Document ('ETHER', 3, 6), Score 0.01571105007069909
+Query 3: Document ('1 NEPHI', 17, 11), Score 0.015688267791794625
+Query 3: Document ('ETHER', 9, 5), Score 0.015683064361375943
+Query 3: Document ('MOSIAH', 13, 5), Score 0.015682734928762838
+Query 3: Document ('1 NEPHI', 12, 36), Score 0.015674961062532394
+Query 3: Document ('HELAMAN', 5, 17), Score 0.015669204611746725
+Query 3: Document ('HELAMAN', 19, 25), Score 0.015626763191905948
+Query 3: Document ('ALMA', 6, 7), Score 0.015613206028485815
+Query 3: Document ('ETHER', 2, 16), Score 0.015605007379586316
+Query 3: Document ('ALMA', 60, 13), Score 0.015595659441233591
+Query 3: Document ('ALMA', 49, 22), Score 0.015572901058416109
+Query 3: Document ('2 NEPHI', 18, 8), Score 0.01550497488844273
+Query 3: Document ('HELAMAN', 20, 36), Score 0.015435562865865726
+Query 3: Document ('ALMA', 44, 13), Score 0.015426663272776284
+Query 3: Document ('HELAMAN', 11, 28), Score 0.015412921832967925
+Query 3: Document ('1 NEPHI', 16, 35), Score 0.015368663362500763
+Query 3: Document ('ALMA', 53, 8), Score 0.015364584413730398
+Query 3: Document ('MOSIAH', 27, 32), Score 0.015328647144912524
+Query 3: Document ('MOSIAH', 11, 13), Score 0.015317515718588215
+Query 3: Document ('ALMA', 22, 15), Score 0.015297171333918187
+Query 3: Document ('ETHER', 12, 23), Score 0.015290994440670024
+Query 3: Document ('ALMA', 60, 1), Score 0.015256280287438004
+Query 3: Document ('HELAMAN', 11, 20), Score 0.015252385254840871
+Query 3: Document ('1 NEPHI', 16, 2), Score 0.01524672261637994
+Query 3: Document ('MORMON', 2, 19), Score 0.01516460197264994
+Query 3: Document ('HELAMAN', 3, 12), Score 0.015127635586943322
+Query 3: Document ('ETHER', 6, 6), Score 0.01511264242766621
+Query 3: Document ('ALMA', 40, 19), Score 0.015059945059419155
+Query 3: Document ('JACOB', 5, 17), Score 0.015031318122881275
+Query 3: Document ('ALMA', 47, 27), Score 0.01502854081728374
+Query 3: Document ('ALMA', 17, 9), Score 0.014997594583844828
+Query 3: Document ('1 NEPHI', 5, 14), Score 0.014977795490960987
+Query 3: Document ('ALMA', 44, 8), Score 0.014976239171129361
+Query 3: Document ('HELAMAN', 6, 38), Score 0.014973890615428502
+Query 3: Document ('ETHER', 15, 31), Score 0.01493527337632707
+Query 3: Document ('ALMA', 46, 12), Score 0.014933882523262052
+Query 3: Document ('HELAMAN', 6, 8), Score 0.014927470241560725
+Query 3: Document ('HELAMAN', 15, 1), Score 0.014925895005941782
+Query 3: Document ('HELAMAN', 9, 18), Score 0.01492356498347384
+Query 3: Document ('1 NEPHI', 17, 39), Score 0.014919509738558073
+Query 3: Document ('HELAMAN', 6, 20), Score 0.014916625190455208
+Query 3: Document ('1 NEPHI', 17, 19), Score 0.014870598075676884
+Query 3: Document ('JACOB', 5, 23), Score 0.014849410618360233
+Query 3: Document ('ALMA', 43, 35), Score 0.014831671358073065
+Query 3: Document ('1 NEPHI', 18, 6), Score 0.01478803311870456
+Query 3: Document ('OMNI', 1, 25), Score 0.014775245730998221
+Query 3: Document ('JACOB', 5, 7), Score 0.014763567582443352
+Query 3: Document ('ALMA', 58, 36), Score 0.014745992420277678
+Query 3: Document ('HELAMAN', 4, 13), Score 0.014734318289573658
+Query 3: Document ('ALMA', 42, 23), Score 0.014704640639421071
+Query 3: Document ('ETHER', 15, 16), Score 0.014668835232156077
+Query 3: Document ('JACOB', 5, 75), Score 0.014634502785009633
+Query 3: Document ('MOSIAH', 27, 1), Score 0.01462268410288263
+Query 3: Document ('HELAMAN', 26, 3), Score 0.014599879105055117
+Query 3: Document ('HELAMAN', 4, 3), Score 0.014582821086942734
+Query 3: Document ('ALMA', 31, 1), Score 0.01455304239024481
+Query 3: Document ('HELAMAN', 2, 2), Score 0.014538256484200079
+Query 3: Document ('HELAMAN', 6, 18), Score 0.014538153523165512
+Query 3: Document ('ETHER', 2, 1), Score 0.014530841360142157
+Query 3: Document ('ALMA', 62, 36), Score 0.014511522000887003
+Query 3: Document ('ALMA', 18, 16), Score 0.01450847692726958
+Query 3: Document ('HELAMAN', 13, 18), Score 0.014483671068381535
+Query 3: Document ('ETHER', 10, 5), Score 0.01445637867352989
+Query 3: Document ('MORMON', 7, 7), Score 0.01440372782724581
+Query 3: Document ('1 NEPHI', 7, 6), Score 0.014377089549454597
+Query 3: Document ('MOSIAH', 6, 3), Score 0.014353314116282033
+Query 3: Document ('ETHER', 10, 19), Score 0.014351091820189128
+Query 3: Document ('2 NEPHI', 5, 6), Score 0.014348112455546291
+Query 3: Document ('HELAMAN', 13, 4), Score 0.014251800662625881
+Query 3: Document ('ETHER', 8, 14), Score 0.014230648969778138
+Query 3: Document ('HELAMAN', 10, 10), Score 0.014227663181979749
+Query 3: Document ('HELAMAN', 3, 21), Score 0.01417930880852863
+Query 3: Document ('1 NEPHI', 8, 24), Score 0.014160645680115214
+Query 3: Document ('HELAMAN', 6, 22), Score 0.014126929834090052
+Query 3: Document ('MORMON', 6, 6), Score 0.01411746001420601
+Query 3: Document ('ETHER', 6, 7), Score 0.014110385958161723
+Query 3: Document ('1 NEPHI', 16, 14), Score 0.014075783707310732
+Query 3: Document ('OMNI', 1, 16), Score 0.014052247619955945
+Query 3: Document ('ALMA', 52, 17), Score 0.013983050585471305
+Query 3: Document ('HELAMAN', 4, 14), Score 0.013915825248229494
+Query 3: Document ('ALMA', 63, 5), Score 0.01390605650319123
+Query 3: Document ('HELAMAN', 14, 18), Score 0.013897073049063948
+Query 3: Document ('HELAMAN', 22, 1), Score 0.013862001270803944
+Query 3: Document ('1 NEPHI', 16, 10), Score 0.013845794502391028
+Query 3: Document ('MOSIAH', 12, 2), Score 0.013838363882439239
+Query 3: Document ('JACOB', 7, 13), Score 0.013835839462110991
+Query 3: Document ('HELAMAN', 13, 25), Score 0.013831314134743799
+Query 3: Document ('MOSIAH', 7, 18), Score 0.013826850130153936
+Query 3: Document ('HELAMAN', 19, 4), Score 0.013823973573450606
+Query 3: Document ('2 NEPHI', 9, 16), Score 0.013808891000573429
+Query 3: Document ('2 NEPHI', 2, 8), Score 0.013716684288424642
+Query 3: Document ('JACOB', 5, 48), Score 0.013707955955293035
+Query 3: Document ('HELAMAN', 26, 15), Score 0.013581399187859907
+Query 3: Document ('MOSIAH', 11, 8), Score 0.01355641249453153
+Query 3: Document ('HELAMAN', 11, 15), Score 0.013531077553671672
+Query 3: Document ('HELAMAN', 2, 3), Score 0.013522827022329374
+Query 3: Document ('HELAMAN', 8, 19), Score 0.013485969601085026
+Query 3: Document ('ALMA', 15, 5), Score 0.013407401835185576
+Query 3: Document ('ALMA', 40, 13), Score 0.013323478550247276
+Query 3: Document ('2 NEPHI', 17, 1), Score 0.013267356897321966
+Query 3: Document ('HELAMAN', 6, 27), Score 0.013265460559542069
+Query 3: Document ('ALMA', 10, 17), Score 0.013258524246626508
+Query 3: Document ('JACOB', 1, 15), Score 0.013243812619453113
+Query 3: Document ('ALMA', 50, 39), Score 0.013241827865584465
+Query 3: Document ('HELAMAN', 6, 26), Score 0.0132140094837151
+Query 3: Document ('1 NEPHI', 18, 15), Score 0.013141104437260758
+Query 3: Document ('2 NEPHI', 2, 11), Score 0.013089534161919422
+Query 3: Document ('1 NEPHI', 17, 48), Score 0.013061702922345158
+Query 3: Document ('ALMA', 14, 27), Score 0.013053077984274759
+Query 3: Document ('HELAMAN', 1, 22), Score 0.013050281427021073
+Query 3: Document ('MOSIAH', 10, 8), Score 0.013033222199282712
+Query 3: Document ('ALMA', 46, 21), Score 0.013023542135021575
+Query 3: Document ('HELAMAN', 7, 10), Score 0.012920814648908208
+Query 3: Document ('HELAMAN', 4, 23), Score 0.012918849763584641
+Query 3: Document ('2 NEPHI', 13, 24), Score 0.012847025445271028
+Query 3: Document ('HELAMAN', 6, 2), Score 0.012832229033592268
+Query 3: Document ('HELAMAN', 8, 20), Score 0.012814677637161239
+Query 3: Document ('HELAMAN', 9, 10), Score 0.012758262526131624
+Query 3: Document ('MORMON', 6, 15), Score 0.012743642416713689
+Query 3: Document ('ALMA', 47, 35), Score 0.012717423029362128
+Query 3: Document ('2 NEPHI', 21, 11), Score 0.012561532638688803
+Query 3: Document ('HELAMAN', 14, 15), Score 0.012520012641928141
+Query 3: Document ('2 NEPHI', 30, 14), Score 0.012485806873314034
+Query 3: Document ('1 NEPHI', 13, 34), Score 0.01243550033151516
+Query 3: Document ('HELAMAN', 9, 9), Score 0.012417432176919265
+Query 3: Document ('ALMA', 22, 23), Score 0.012297827339190793
+Query 3: Document ('ALMA', 24, 17), Score 0.012288673026205881
+Query 3: Document ('HELAMAN', 28, 33), Score 0.012285374254388453
+Query 3: Document ('HELAMAN', 3, 10), Score 0.012257997735833522
+Query 3: Document ('HELAMAN', 14, 16), Score 0.012173172411798676
+Query 3: Document ('ETHER', 9, 3), Score 0.012125189287335685
+Query 3: Document ('1 NEPHI', 19, 25), Score 0.012086841964078431
+Query 3: Document ('HELAMAN', 3, 11), Score 0.012021182104165726
+Query 3: Document ('HELAMAN', 3, 8), Score 0.011971865511415724
+Query 3: Document ('HELAMAN', 3, 3), Score 0.011943323740080426
+Query 3: Document ('ALMA', 22, 27), Score 0.011891234112772084
+Query 3: Document ('HELAMAN', 12, 1), Score 0.011825038444242006
+Query 3: Document ('1 NEPHI', 12, 4), Score 0.011750902242934484
+Query 3: Document ('ALMA', 62, 21), Score 0.011531678707974969
+Query 3: Document ('ETHER', 3, 1), Score 0.011461067867995299
+Query 3: Document ('HELAMAN', 11, 8), Score 0.011183120785569243
+Query 3: Document ('1 NEPHI', 13, 23), Score 0.010989991505055263
+Query 3: Document ('HELAMAN', 4, 7), Score 0.010481388848988128
